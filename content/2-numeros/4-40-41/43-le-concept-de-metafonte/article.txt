@@ -1,0 +1,9 @@
+Titre: Le concept de métafonte
+----
+Auteur: Donald E. Knuth
+----
+Type: Traduction
+----
+Section: Dossier
+----
+Pages: 391–401

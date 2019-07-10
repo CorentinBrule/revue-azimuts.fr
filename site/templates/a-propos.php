@@ -1,0 +1,19 @@
+<?php snippet('header') ?>
+<main class="content load <?= $page->slug() ?>" role="main" data-page="<?= $page->slug() ?>">
+    
+    <div class="nav-center">
+        <?php foreach($page->children()->visible() as $p): ?>
+              <a href="#<?= $p->slug() ?>" class="secondary-nav" href="<?= $p->url() ?>" ><?= $p->titre()->html() ?></a>
+        <?php endforeach ?>
+    </div>
+    
+    <div id="about-content">
+        <?php foreach($page->children()->visible() as $section) {
+          snippet($section->uid(), array('data' => $section));
+        } ?>
+    </div>
+    <div id="credits" class="text-small">
+        <?= $site->credits()->kt() ?>
+    </div>
+    
+<?php snippet('footer') ?>

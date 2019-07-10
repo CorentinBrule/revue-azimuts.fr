@@ -1,0 +1,71 @@
+Titre: Valentine, Milton et Procris
+----
+Auteur: Samuel Vermeil
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 66–72
+----
+Biographie: Samuel Vermeil est designer graphique et enseignant à l’École supérieure d’art et design de Grenoble-Valence. Il est également responsable du design graphique d’*Azimuts*, revue du post-diplôme Design et recherche de l’École supérieure d’art et design de Saint-Étienne depuis 2013.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2016. Images: ©Milton Glaser; ©Virgin
+----
+Texte: 
+(image: valentine-affiche.jpg class: small caption: *Valentine*, Poster, 1969)
+
+En 1969 la firme italienne Olivetti lance une petite machine à écrire baptisée Valentine, en plastique moulé rouge, elle est dessinée par Ettore Sottsass. C’est une machine simple, légère, destinée à pouvoir être emportée partout. Dans le matériel publicitaire foisonnant (ambiance Pop de l’époque) qui accompagne son lancement, une affiche tranche avec le ton général. Un chien, triste, en est la figure centrale. Le style ornemental du dessin que renforce la présence végétale pourrait évoquer à la fois l’Art nouveau ou l’influence d’un lointain Japonisme, à moins que ce ne soit un psychédélisme qui affleure. Néanmoins le sujet comme la scène font référence à un tableau précis peint à la Renaissance par Piero di Cosimo. L’affiche dessinée par Milton Glaser pour la machine à écrire Valentine est la reprise à peine détournée d’un détail de *La Mort de Procris* (1495), visible aujourd’hui à la National Gallery de Londres. Milton Glaser a étudié en Italie, auprès du peintre Giorgo Morandi au début des années 1950. Cet apprentissage lui a permis de fréquenter les tableaux des maîtres de la Renaissance à travers ses copies d’études. Sans doute l’occasion de cette commande lui a-t-elle rappelé ces moments plongés dans les histoires de la peinture. 
+
+(image: piero_di_cosimo_la_morte_di_procri_1500.jpg class: large caption: Piero di Cosimo, *La Mort de Procris*, 1495, National Gallery, Londres)
+
+La société fondée par Camillo Olivetti (1908) puis dirigée par son fils Adriano (1932) a multiplié, depuis l’entre-deux-guerres, les collaborations avec des designers, architectes, artistes, graphistes tels X. Schawinsky, H. Bayer, M. Pintori, P. Rand, W. Ballmer, G. Aulenti,… Olivetti développe une politique industrielle originale, teintée d’humanisme, qui s’appuie avec confiance sur les audaces et l’inventivité de ces créateurs[^1]. Ettore Sottsass qui y fait ses premiers projets à partir de 1956 poursuivra sa collaboration avec Olivetti jusqu’à la création du groupe Memphis en 1981. Bien avant Valentine, il conçoit le design de l’ordinateur Elea 9003 (1959), un ensemble mobilier imposant dont la console aux commandes innombrables évoque un futur abstrait et ésotérique[^2]. Sottsass accompagnera la mue de l’entreprise, des machines à écrire à l’ordinateur personnel. 
+
+Les premières machines à écrire, mises au point aux États-Unis durant la seconde moitié de XIX<sup>e</sup> siècle, auraient bénéficié de la reconversion des manufactures d’armement survenue à la fin de la guerre de Sécession. Remington est d’abord le nom d’une arme et les caractères typographiques que frappent ces machines portent une partie de cette histoire dans leurs dessins vaguement western. Leurs premières caractéristiques restent néanmoins d’être monospace et généralement monolinéaire. Une seule épaisseur de trait et un espace identique pour chaque lettre permettent l’avancée régulière du chariot (dans la plaine…). «To mention both typographic, and, in the same breath/sentence, grids, is strictly tautologous» écrit A. Froshaug dans ses notes[^3]. En ce sens, la machine à écrire exprime clairement l’essence de la composition typographique; d’une façon presque schématique, limpide. L’espace typographique est une collection de fragments, posés les uns à côté des autres, distribués horizontalement d’abord et verticalement ensuite. Pas à pas, l’espace est parcouru, quadrillé, maîtrisé. 
+
+On écrit à la machine d’abord pour son travail. À ceux qui l’utilisent elle propose une distance avec le texte (objectivité?) qui manque à l’écriture manuscrite et renforce la clarté de ce qui peut être exprimé tout en gardant une souplesse et une rapidité, où la forme proposée reste ouverte et transitoire. Mais on peut s’en servir à d’autres desseins et pour les auteurs, les écrivains, qui pendant plusieurs décennies s’en sont servi, l’étape du tapuscrit est décisive dans la mise en ordre du texte. Les artistes conceptuels ont reconnu en elle ces qualités et en ont fait une manière de pinceau pour leurs idées, reprise à son tour par la culture des médias et des images qui marquent cette période (Hipgnosis).
+
+En 1978, quelques années après la création de Valentine, quelques années avant l’arrivée des premiers ordinateurs personnels, presque à égale distance des deux, le texte tapuscrit n’est presque plus, déjà, qu’une image, la représentation figée d’un ordre qui s’éclipse. 
+
+(image: xtc_hipgnosis_1978.jpg class: medium caption: Hipgnosis, *XTC GO 2*, 1978)
+
+[Insert]
+###### Ceci est une POCHETTE DE DISQUE. Ce texte est le DESIGN de la pochette de disque. Le DESIGN doit aider à VENDRE le disque. Nous espérons attirer votre attention et vous encourager à le prendre. Quand vous aurez fait cela, vous serez peut-être tentés d’écouter la musique – ici, celle de l’album Go2 d’XTC. Puis nous voulons que vous l’achetiez. L’idée étant que plus vous êtes nombreux à ACHETER le disque, plus Virgin Record, Ian Ried le manager et XTC eux-même vont gagner de l’argent. Pour ces derniers ceci constitue un PLAISIR. Un bon DESIGN de pochette est un design qui attire beaucoup d’acheteurs et procure beaucoup de PLAISIR. Ce texte tente de vous attirer comme une image séduisante peut le faire. Il est conçu pour vous donner envie de le LIRE. Ceci s’appelle appâter la VICTIME, et vous êtes la VICTIME. Mais si vous avez l’esprit indépendant, vous devez ARRÊTER DE LIRE MAINTENANT! Car tout ce que nous cherchons à faire, c’est de vous poussez à lire davantage. Pourtant, c’est une INJONCTION PARADOXALE, car si vous cessez effectivement de lire, vous faites ce que l’on vous dit, et si vous poursuivez la lecture vous faites ce que nous voulons depuis le début. Et plus vous lisez plus vous vous laissez manipuler par le dispositif simple qui consiste à vous raconter comment un bon design commercial fonctionne. Ce sont des PIÈGES et celui-ci est le pire de tous puisqu’il vous décrit le PIÈGE alors même qu’il tente de vous PIÉGER et si vous avez lu jusqu’ici, alors vous êtes PIÉGÉ, mais vous ne l’auriez pas su si vous n’aviez pas lu jusqu’ici. Au moins, nous vous le disons directement au lieu de vous séduire avec une belle et obsédante image trompeuse/muette. (…)[^4]
+
+
+Revenons au chien qui pleure (pour une machine à écrire).
+
+L’histoire racontée dans ce tableau est l’épisode final d’un amour malheureux. Son sujet est la fidélité, ou plutôt, l’épreuve de la fidélité. Il existe plusieurs variantes de cette histoire, je tâche d’en restituer ici l’essentiel: Céphale prince Théssalien aime Procris fille d’Erechtée roi d’Athène, qui l’aime en retour. Ils sont éperdument amoureux. Mais en Grèce, les dieux se mêlent de la moindre affaire de cœur. Céphale plaît à la Déesse Aurore rencontrée à l’occasion d’une de ses nombreuses chasses. Elle va chercher à les désunir en instillant la méfiance entre eux. Aurore suggère à Céphale de mettre à l’épreuve l’amour de Procris en allant la séduire, déguisé en un autre. Si elle succombe, ce sera la preuve de la faiblesse de son amour. Lui, sûr de la passion de Procris se prête au jeu d’Aurore. Et bien sûr Procris succombe au charme de l’inconnu qui la couvre de cadeaux – sinon il n’y aurait pas d’histoire. Céphale révèle son identité et chasse Procris. Il va retrouver Aurore. 
+(retour:)
+###Fin de l’acte 1.
+Procris est recueillie par Artemis en Crête et vit quelques années à ses côtés. Elle lui fait cadeau, pour la chasse, d’un chien infatigable et d’un javelot qui ne manque jamais sa cible. Procris décide de rentrer et de retrouver Céphale; de lui rendre la monnaie de sa pièce. À son tour elle se déguise pour le séduire, et à son tour il se laisse tromper et séduire par les cadeaux merveilleux de la jeune femme. Ici le mélange entre le réalisme psychologique et l’invraisemblance des situations est presque une condition nécessaire pour nous convaincre et à la vérité pour nous atteindre. Ils se réconcilient. Chacun aura montré sa faiblesse. Aurore est à nouveau contrariée. 
+(retour:)
+###Fin de l’acte 2.
+Céphale aime Procis, mais c’est un chasseur passionné: tous les matins à l’aube il part avec son chien Laelaps et son javelot infaillible, ceux que Procris lui a offerts. Elle se réveille seule et en conçoit de la jalousie. Va-t-il retrouver Aurore? Un matin, ses soupçons la poussent à suivre Céphale pour l’espionner. Trompé par le bruit et croyant atteindre un gibier caché dans les fourrés, il la transperce de son javelot. Elle meurt dans les bras de son amant[^5]. 
+(retour:)
+###Fin de l’acte 3.
+Dans le tableau comme dans l’affiche, c’est donc Laelaps, le chien fidèle, qui pleure la mort de Procris. (Aimer sans retour.)
+
+(image: nipper_1900.jpg class: small caption: *Nipper, La voix de son maître*, adapté d’un tableau de F. Barraud, c.1900, Londres)
+
+Cette figure du chien assis, légèrement de profil en rappelle une autre, celle du chien de la marque de disques Gramophone qui écoute «la voix de son maître» sortir du pavillon de l’appareil. Là encore l’animal sert d’intermédiaire pour (accéder à) une machine. Là encore, il est le témoin d’une disparition. L’image originale de cette scène est un tableau réalisé par un peintre à la mort de son frère[^6]. Le petit chien est celui du mort. Il écoute, installé sur le plat du cercueil, la voix vivante du disparu par une magie que nous, spectateurs de cette scène, sommes seuls à comprendre – quoique confusément. 
+
+Les animaux, ici domestiques et familiers, sont nos intercesseurs avec le monde des morts et celui des machines – nos intermédiaires entre ce qui est intelligible et ce qui ne l’est pas, mais aussi entre le réel et la fiction. Et si à gauche dans le tableau de Cosimo un faune remplace mystérieusement Céphale, c’est par un simple cadrage que Milton Glaser donne à la figure du chien mutique et sage le premier rôle et le soin de nous transmettre cette vérité de l’amour qui tue ou de la mesquinerie jalouse…
+
+Il dessine dans le hors champ de son affiche un paysage pour nos histoires, toutes celles que l’on pourra écrire. *My Funny Valentine* en guise d’épitaphe à ces morts pleurés par les animaux.
+
+(image: glaser_aids_1987.jpg class: small caption: Milton Glaser, *AIDS*, 1987. Signe pour une campagne de l’ONU)
+
+[^1]: [nytimes.com/2013/02/11/arts/design/olivettis-artful-breakthroughs.html](http://www.nytimes.com/2013/02/11/arts/design/olivettis-artful-breakthroughs.html)
+
+[^2]: [mediation.centrepompidou.fr/education/ressources/ENS-sottsass/ENS-sottsass.html](http://mediation.centrepompidou.fr/education/ressources/ENS-sottsass/ENS-sottsass.html)
+
+[^3]:«Parler de typographie et de grilles dans la même phrase/la même respiration/est strictement tautologique», in Anthony Froshaug : *Typography & texts/Documents of a life*, Robin Kinross (editor), Hyphen Press, London, 2000.
+
+[^4]:(suite du texte) Hipgnosis, XTC GO2, 1978 «… Nous vous permettons de savoir que vous devez acheter ce disque car c’est essentiellement un PRODUIT et les PRODUITS doivent être consommés et vous êtes un consommateur et ceci est un bon PRODUIT. Nous aurions pu écrire le nom du groupe avec une typographie particulière afin qu’il se distingue et que vous le voyiez avant d’avoir lu ce texte et vous l’auriez peut-être acheté quand même. Dans le fond, nous suggérons que vous êtes DÉRAISONNABLE d’acheter ou de ne pas acheter un disque simplement à cause du design de sa pochette. C’est une arnaque parce que si vous êtes d’accord alors vous appréciez probablement ce texte – lequel est le design de cet album – et par conséquent l’album lui-même. Mais nous venons de vous avertir de cela. Cette arnaque est une arnaque. On peut considérer qu’une bonne pochette est celle qui vous pousse à acheter le disque, mais cela ne VOUS arrive jamais parce que VOUS savez que c’est seulement le design du disque. Et ceci est la POCHETTE DU DISQUE.»
+
+[^5]: Diverses variantes sont présentées ici: [jcbourdais.net/journal/procris_fin.html](http://www.jcbourdais.net/journal/procris_fin.html)
+
+[^6]: Jonathan Sterne, *Une histoire de la modernité sonore*, éd. La Découverte, Paris, 2015.

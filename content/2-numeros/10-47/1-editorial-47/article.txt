@@ -1,0 +1,30 @@
+Titre: L’ontologie paradoxale du travail. Réalité, fiction… et au-delà
+----
+Auteur: Marc Monjou
+----
+Type: Texte inédit
+----
+Section: Éditorial, Dossier
+----
+Pages: 5
+----
+Biographie: Marc Monjou est professeur à l’École supérieure d’art et design de Saint-Étienne, où il co-dirige le Post-diplôme Design et Recherche et assure la direction éditoriale de la revue *Azimuts* depuis 2010.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2017
+----
+Texte:
+(image: tag_st_etienne.jpg class: small caption: *Emploi fictif pour tous*, Saint-Étienne, 2017)
+
+L’actualité propose parfois des croisements incongrus; c’est le cas en ce printemps 2017, qui voit coïncider au moins trois événements de premier plan: la X<sup>e</sup> édition de la Biennale internationale design Saint-Étienne consacrée au travail et à ses mutations; l’élection du prochain Président de la République française (un sacré job!); et *last but not least*, la parution du numéro 47 de la revue *Azimuts (Travail).* C’est ce mélange qui a inspiré cette petite «ontologie du travail».
+
+La mise au jour récente d’une vilaine affaire impliquant un candidat à l’élection présidentielle jusqu’alors promis à un succès quasi-assuré, a fait remonter à la surface du discours un concept bien connu des juristes et des escrocs: le concept d’emploi fictif, lequel invite à regarder le travail sous l’angle de sa réalité. Et en y regardant de près, on voit que selon qu’on fait varier l’existence soit du travail, soit de la rétribution censée lui correspondre, le champ de l’emploi peut se distribuer en une ontologie curieuse, où se côtoient paradoxalement des types qu’on n’aurait jamais imaginé être aussi proches:
+(retour:)
+*Ne pas travailler/bénéficier d’un revenu.* C’est la formule de l’employé fictif, parangon de cette région de l’ontologie. À ses côtés figurent le retraité, le gagnant du loto, le roi et les seigneurs, le pensionné, le rentier, l’allocataire, le vacancier des congés payés, l’héritier, le planqué, le «mis au placard», etc. C’est un régime proche de la magie, qui entretient une relation privilégiée avec la Providence. En un sens, l’idée d’un revenu de base universel (RBU) – dispositif que la primaire de la gauche a popularisé en France – peut prendre place dans cette catégorie dans la mesure où il postule qu’avec la fin du travail tel que les pays industrialisés l’ont connu, le bénéfice d’un revenu peut être déconnecté du travail lui-même.
+(retour:)
+*Travailler/ne pas bénéficier d’un revenu.* Le représentant le plus éminent de cette classe est l’esclave (moderne ou pas). Il y côtoie le bénévole, l’artiste, la mère au foyer, le robot, l’amateur, le bagnard, l’écolier ou l’étudiant, dont les actions sont commandées par le devoir ou l’abnégation. Sous ce régime, l’existence est marquée par le sceau du Sacrifice.
+(retour:)
+*Ne pas travailler/ne pas bénéficier d’un revenu.* Le chômeur est le parangon de cette catégorie où l’on rencontre aussi l’enfant, le prisonnier, l’ermite, l’ascète, le bonze, le méditatif. Son régime (souvent sec) est celui de la Contemplation, le temps y étant employé surtout à regarder.
+(retour:)
+*Travailler/bénéficier d’un revenu.* Depuis l’instauration du salaire, c’est le régime le plus répandu – qu’il serait inutile d’illustrer. L’essentiel est de noter que là où l’on observait plutôt des différences de nature entre les représentants des trois premières classes, ici les variations sont graduelles et s’expriment selon le plus et le moins, des micro-tâches du Mechanical Turk d’Amazon aux *golden parachutes* des grands patrons, en passant par les jobs à 1 euro/heure allemands et les emplois payés au Smic…

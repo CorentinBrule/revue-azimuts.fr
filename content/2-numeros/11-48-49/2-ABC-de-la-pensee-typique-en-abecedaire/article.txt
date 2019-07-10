@@ -1,0 +1,333 @@
+Titre: ABC de la pensée typique en abécédaire
+----
+Auteur: Marc Monjou
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 8-27
+----
+Biographie: Marc Monjou est professeur à l’École supérieure d’art et design de Saint-Étienne, où il co-dirige le Post-diplôme Design et Recherche et assure la direction éditoriale de la revue *Azimuts* depuis 2010.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2018
+----
+Texte:
+
+
+### A
+
+#### ALPHABET.
+
+Je propose de regarder l’ordre alphabétique\* comme un ordre au sens pascalien plutôt que comme une consécution de lettres, ou si l’on préfère au sens – non moins classique – où Foucault par exemple a parlé de «l’ordre du discours». Comme tel, on verrait plus généralement l’ordre alphabétique comme une manière d’ordonner et circonscrire une pluralité de formes qui ont elles-mêmes été pré-définies, pré-déterminées et stabilisées (des types en somme), pluralité dont une grammaire est supposée régler l’activation et les circulations. Cette extension du domaine alphabétique trouve sa parfaite expression dans l’organisation industrielle de la société, *ordonner une pluralité de formes définies et en régler les circulations* n’étant pas très loin de la définition classique de l’industrie – que l’ère dite «post-industrielle» conserve, tout en cherchant à la dépasser –, et pas très loin non plus d’une certaine manière de définir à moindres frais une culture, et peut-être même *la* culture en général. À ce titre, il est possible et utile à mon sens de voir dans l’âge industriel une vaste campagne d’alphabétisation visant à nous faire produire des ensembles plus ou moins signifiants.
+
+Voir: *Prouvé*
+(retour:)
+\* Je précise ici que je ne suis pas deleuzien, que ce petit texte n’est ni un hommage risqué ni un emprunt déférent au philosophe français, et que la mémoire de son très fameux *Abécédaire* ne m’est revenue que très tardivement, alors que ce travail de compilation avait déjà commencé.
+
+#### ABSTRACTION.
+
+Où se situent les types *en réalité? *Où les trouver sur l’échelle des êtres? Comment qualifier leur mode d’existence? Ne restent plus que les vieux imprimeurs et les typographes pour penser que «type» désigne quelque chose de concret, de palpable, de dur et solide. Est-il l’idée elle-même? La forme-mère? Est-il le code ou le fichier que commercialise la «fonderie» – *mot-survivant* qui nous oblige à traîner le passé sur notre épaule et qui rappelle le temps où les opérations de l’écriture et de la production dépendaient des divers états de la matière. Serait-ce l’alphabet lui-même – celui des lettres ou des objets premiers – ou bien ses expressions et occurrences multiples? Ainsi le type oscille-t-il dans un secteur de l’ontologie mal défini, situé quelque part entre pure idéalité et dure réalité – «dur» signifiant ici la matérialité la plus contondante. Le concept d’idéal-type forgé par Max Weber, ou la notion kantienne de schématisme sont de bons exemples pour commencer à appréhender cette zone entre-deux.
+
+Voir: *idéal-type, schématisme, matrice, idée, occurrence, alphabet.*
+
+### B
+
+#### BORD.
+
+On peut regretter que pour décrire leurs objets, les experts en matière de forme aient négligé ce concept, intéressant par sa dénotation d’abord: il désigne la limite d’une surface ou d’un objet dont elle est la condition *sine qua non* (quel que soit l’objet, on peut difficilement commencer à en parler avant même de lui avoir trouvé un bord); par son origine marine ensuite et surtout, le «bord» signifiant la ligne de partage plus ou moins accidentée, plus ou moins mobile aussi, entre le solide et le liquide, la découpure – celle de la côte, du navire, etc. – trahissant la lutte à laquelle se livrent l’un et l’autre sous le régime d’une loi, tantôt naturelle tantôt humaine et artificielle… De l’érosion élevée au rang d’art de re-configurer les choses. Par sa nature bâtarde enfin, car le bord n’est ni-l’un-ni-l’autre à moins qu’il soit l’un-et-l’autre. Et son épaisseur et sa consistance (qui ne sont pas que négatives) dépendent toujours de ce qu’il sépare – raison sans doute pour laquelle on s’y trouve bien et l’on aime bien y demeurer…
+
+Voir: *liquidité*
+
+### C
+
+#### CATÉGORIE**(S)**.
+
+C’est l’une des acceptions principales du concept de type. Elle(s) désigne(nt) l’outillage grâce auquel nous saisissons la réalité et qui nous permet de lui trouver ou donner sens, ce en quoi elle est si proche de l’ontologie. «L’être se dit en plusieurs sens» écrivait Aristote dans son traité des *Catégories* (substance, qualité, quantité, relation, etc., qu’on retrouve dans l’analytique des concepts de la première critique de Kant, et dont Émile Benveniste a montré qu’elles proviennent de la structure même de la langue).
+
+En sémantique, la catégorisation (ou formation des types) a été reconnue comme étant une capacité fondatrice de l’activité du langage. Ce qu’explique clairement Jacques Fontanille dans sa *Sémiotique du discours* (Pulim, 2003, p.42): «on ne peut concevoir un langage qui serait incapable de produire des types, puisqu’il faudrait une expression pour chaque occurrence; ce que manipulent les langages, y compris les langages non-verbaux, ce sont des types d’objets (par exemple une table de bureau en général) et non des occurrences (par exemple la table particulière qui se trouve dans le bureau).»
+
+La formation des types ajoute Fontanille, «préside à l’installation de systèmes de valeurs».
+
+Voir: *occurrence, valeurs, tension, classe*
+
+#### CLASSE.
+
+Comme résultat d’une opération primitive de discrimination (comprendre simplement et seulement: *reconnaître ou établir des différences*), la classe est l’un des concepts premiers – et par-là bien connu – de la pensée typique: connaître c’est d’abord et au moins classer. C’est donc sans surprise qu’on retrouve des classes dans tous les champs du savoir scientifique: logique des classes, théorie des ensembles et par extension aujourd’hui programmation informatique, sur lesquelles elle s’adosse), biologie (cf. *la classification phylogénétique du vivant*), sémantique, sciences sociales – la plus grande fortune du concept étant due à Marx sans doute, lequel a vu dans les relations de classes le moteur de l’histoire.
+
+Dans une page célèbre de *L’Amour de l’art, * Pierre Bourdieu (qu’on peut considérer comme le continuateur du travail entrepris par l’auteur du *Capital*) pointe le lapsus et l’ironie par lesquels la locution populaire «avoir la classe», trahit l’opération quasi-magique de naturalisation par laquelle, s’agissant de «capital culturel» – extension bourdieusienne du domaine de l’économie –, les aptitudes héritées s’expriment socialement comme autant de propriétés données par nature: «En déplaçant symboliquement le principe de ce qui les distingue des autres classes du terrain de l’économie au terrain de la culture, ou mieux, en redoublant les différences proprement économiques, celles que crée la pure possession de biens matériels, par les différences que crée la possession de biens symboliques tels que les œuvres d’art ou par la recherche des distinctions symboliques dans la manière d’user de ces biens (économiques ou symboliques), bref, en faisant une donnée de nature de tout ce qui définit leur «valeur», c’est-à-dire, pour prendre le mot au sens des linguistes, leur distinction, marque de différence qui, comme dit le Littré, sépare du commun «par un caractère d’élégance, de noblesse et de bon ton», les classes privilégiées de la société bourgeoise substituent à la différence entre deux cultures, produits de l’histoire reproduits par l’éducation, la différence d’essence entre deux natures, une nature naturellement cultivée et une nature naturellement naturelle.» P. Bourdieu et A. Darbel, *L’Amour de l’art.* Les musées d’art européens et leur public, Minuit, 1966, p.164–166.
+
+Voir: *classification, valeurs, hiérarchie*
+
+#### CLASSIFICATION.
+
+L’un des derniers textes laissés par Claude Lévi-Strauss est une recension de la *Classification phylogénétique du vivant* de G. Lecointe et H. Le Guyader (Belin, 2000). Son compte rendu paru dans la revue *L’Homme* (162, avril–juin 2002) insiste sur l’effort de synthèse produit par les auteurs d’une somme qui met en forme le résultat des bouleversements engendrés au XX<sup>e</sup> siècle par l’œuvre de l’entomologiste allemand Willi Hennig, créateur de la cladistique. La cladistique rappelle Lévi-Strauss, «avait pour ambition majeure d’exaucer le vœu ancien de Darwin que toute classification fût en même temps une généalogie et qui permettrait d’allier la synchronie à la diachronie. Les principes qui la guident permettent en effet de remonter de proche en proche la chaîne du vivant jusqu’à ses formes primitives». L’auteur d’*Anthropologie structurale* voit dans la classification monumentale de Lecointe et Le Guyader un intérêt capital pour l’ethnologue, «lui aussi récemment encore confronté à une vision erronée des rapports, sinon entre des organismes vivants, entre des cultures ou des sociétés qu’on a longtemps prétendu hiérarchiser dans un esprit ethnocentrique et finaliste. L’ethnologie comprend aujourd’hui que, comme les organismes vivants, les sociétés sont aussi évoluées les unes que les autres et, de ce point de vue, doivent être toutes placées sur le même rang. D’où l’importance pour les sciences humaines de la réflexion théorique à quoi invite la cladistique sur les rapports entre la notion de classification et celle de généalogie.» Un gros livre à conseiller à quiconque s’intéresse à ce que classifier veut dire aujourd’hui (… et qui ne craint pas les efforts pour s’approprier le lexique technique de la systématique contemporaine).
+
+Voir: *hiérarchie, valeurs, classe*
+
+#### CONTINUITÉ.
+
+Dans un article publié récemment dans cette revue et consacré à la notion de fin (*Azimuts* 44), j’exhumais cette phrase de Greimas (lexicographe et sémanticien): «La projection du discontinu sur le continu est la première condition de l’intelligibilité du monde»; sur cette base, je rappelais que c’est parce qu’il y a des limites qu’il y a pour nous des unités discrètes, des formes, des figures, des individus, de l’un et de l’autre, des objets, et par suite des catégories, du langage, de l’espace, des territoires, des époques, des cultures, bref, qu’il y a pour nous des ensembles signifiants. Le continu, c’est l’infini; ce n’est pas quelque chose pour nous et donc ce n’est rien – certes on peut bien viser l’infini mais jamais le saisir. Le sens n’est possible pour nous que si le continu commence à se dissoudre. C’est pourquoi la menace que les tenants de la continuité font peser sur le monde n’est donc rien moins qu’absurde.
+
+À propos de continuité encore, je lisais il y a peu une énième critique désespérée de la culture contemporaine sous la plume d’un écrivain français – dont les égarements récents m’obligent à taire le nom. Je le cite cependant: «Si le monde post-littéraire se trouve devant la culture classique […] comme nous le sommes, nous, devant l’Antiquité gréco-latine, alors ce classicisme ne peut être envisagé que pour lui-même, et non plus dans une *solution de continuité *d’où tirer une légitimé éternelle» (je souligne). J’ai déploré que même lui, dernier défenseur auto-proclamé des Lettres, ignorât la signification de la locution qu’il employait: *solution de continuité, *qu’il faut entendre à la manière du chimiste, veut dire justement que la continuité est dissoute!
+
+Voir: *discret, liquidité*
+
+### D
+
+#### DISCRET (unités discrètes).
+
+Difficile avec certains mots de décider si l’on est en présence d’homonymes ou confronté à une énigme sémantique, à un trouble du sens. C’est le cas notamment avec le mot *propriété* qui, comme l’avait pointé Gabriel Tarde, confond l’être et l’avoir là où nous voudrions les séparer; ou avec *nature* qu’on convoque autant pour désigner l’ensemble des choses (*natura naturata*) que pour caractériser leur *définition* spéciale.* Discret* est l’un de ceux-là: il désigne un mode, une manière d’être ou de dire avec réserve et tout en retenue (voir *Le charme discret de la bourgeoisie* raillé par Buñuel). Mais il signifie aussi la rupture, la séparation, la distinction (là encore Bourdieu n’est pas loin): c’est en ce dernier sens que l’entendent le logicien, le mathématicien, l’anatomiste ou le linguiste quand ils parlent d’«unités discrètes», c’est-à-dire des segments de la réalité auxquels ils trouvent un début et une fin. Un mystère de la langue d’autant plus épais que par ailleurs, *discrétion* veut dire aussi *pouvoir*…
+
+Voir: *continuité, valeurs, classe*
+
+### E
+
+#### EMPREINTE.
+
+«Quand on parle de ce qui reçoit tous les corps, il faut toujours lui donner le même nom; car cette entité ne perd absolument aucune des propriétés qui sont les siennes. Toujours en effet elle reçoit toutes les choses, et jamais en aucune manière sous aucun rapport elle ne prend une forme qui ressemble à rien de ce qui peut entrer en elle. Par nature, en effet elle se présente comme le porte-empreinte de toutes choses. Modifiée et découpée en figures par les choses qui entrent en elle, elle apparaît par suite tantôt sous un aspect tantôt sous un autre. Les choses qui entrent en elle et qui en sortent sont des imitations de réalités éternelles, des empreintes qui proviennent de ces réalités éternelles d’une manière qu’il n’est pas facile de décrire […]. Donc il faut se mettre dans la tête qu’il y a trois choses: ce qui devient, ce en quoi cela devient, et ce à la ressemblance de quoi naît ce qui devient. Et tout naturellement il convient de comparer le réceptacle à une mère, le modèle à un père, et la nature qui tient le milieu entre les deux à un enfant, et de comprendre que, si l’empreinte doit être diverse et présenter à l’œil cette diversité sous tous ses aspects, ce en quoi vient se déposer cette empreinte ne saurait être convenablement disposé que si cela est absolument dépourvu des caractéristiques de toutes les espèces des choses qu’il est susceptible de recevoir par ailleurs.» Platon, *Timée, * traduction Luc Brisson, GF, 1992, p.149.
+
+Voir: *khôra*
+
+### F
+
+#### FIGURE.
+
+Bien qu’elle n’implique pas nécessairement l’idée d’une création d’*après modèle, * la notion de figure est très proche de celle de type, du moins lorsqu’on l’entend comme une forme ou organisation déterminée (… ici il est prématuré de parler de con-*figuration*), essentiellement caractérisée par un contour et/ou par un ensemble de traits que l’usage a rendus reconnaissables. En ce sens, quoique les théories de la l’art (Panofsky *et al.*) ou de la littérature (Genette, Thompson *et al.*) aient pu chercher à les distinguer, la figure est très porche du motif, ou du trope (rhétorique). Motif (ex.: l’évasion), figure (ex.: le prisonnier, le fugitif), genre (ex.: le *road movie, * la fable), trope (ex. l’ellipse), autant de concepts qui rejoignent le type à l’endroit où la culture – c’est-à-dire l’histoire des formes et de leurs usages – les a consacrés comme des configurations stabilisées (qu’elles soient graphiques, plastiques, textuelles, culturelles, politiques, etc.), bref comme des ensembles signifiants. Ce qui n’empêche ni les opérations de transformation ou d’invention (hacking, bricolage, trans-genre, fusions, etc.), ni encore moins les révolutions!
+
+Voir: *genre, alphabet, liquidité*
+
+### G
+
+#### GENRE.
+
+«Chaque époque a son propre système de genres, qui est en rapport avec l’idéologie dominante.» Sortie de son contexte d’énonciation et en l’absence de signature, cette phrase de Todorov risque d’être mal interprétée aujourd’hui que la réflexion sur le genre ne peut plus être oublieuse des questions d’identité… dites «genrées». Dans les années 70, où dominaient en France le structuralisme et la narratologie, le cadre de référence aurait d’avance écarté l’ambiguïté quant à l’intention du théoricien de la littérature. Ce rapprochement intempestif du textuel et du sexuel, aussi artificiel qu’incongru soit-il, présente au moins le mérite de mêler les questions de type ou de genre (comme modèles culturels réglés et solidifiés, dont on pourrait s’étonner à l’infini), avec celles de leur pluralisation et des enchâssements «architextuels» (Genette) qu’ils permettent et produisent à l’époque contemporaine. De nos jours en effet, on n’imagine plus être condamné à ne devoir «choisir» qu’entre la tragédie ou l’épopée: *agender, androgyne, bigender, trigender, cisgender, female to male (FTM), genderfluid, gender nonconforming, gender questioning, gender variant, genderqueer, intersex male to female (MTF), neither, neutrois, non-binary, other, pangender, transgender, trans person, transexual, * * two-spirit… and so on! *
+
+### H
+
+#### HIÉRARCHIE.
+
+En préambule de chacune des deux définitions spéciales de l’entrée «Discrimination» du dictionnaire de langue, on lit cette précision entre parenthèses: *avec/sans traitement inégal.* Ce pour rappeler que discriminer signifie tantôt distinguer, séparer, tantôt hiérarchiser, c’est-à-dire ranger selon un ordre de priorité ou de dignité. Contre une tendance quasi-naturelle, les pionniers des sciences de la culture (Comte, Weber, Levi-Strauss) ont dénoncé très tôt la nécessité pour le compte de leurs disciplines respectives, de distinguer entre fait et valeur. Relire à ce propos la page célèbre de* Race et histoire: * «Pour de vastes fractions de l’espèce humaine et pendant des dizaines de millénaires, […] l’humanité cesse aux frontières de la tribu, du groupe linguistique, parfois même du village; à tel point qu’un grand nombre de populations dites primitives se désignent d’un nom qui signifie les «hommes» (ou parfois – dirons-nous avec plus de discrétion «les bons», «les excellents», «les complets»), impliquant ainsi que les autres tribus groupes ou villages ne participent pas des vertus – ou même de la nature humaine, mais sont tout au plus composés de «mauvais», de «méchants», de «singes de terre» ou «d’œufs de pou» […]. C’est dans la mesure même où l’on prétend établir une discrimination entre les cultures et les coutumes que l’on s’identifie le plus complètement avec celles qu’on essaye de nier. En refusant l’humanité à ceux qui apparaissent comme les plus «sauvages» ou les plus «barbares» de ses représentants, on ne fait que leur emprunter une de leurs attitudes typiques. Le barbare c’est celui qui croit à la barbarie.»
+
+Voir: *hiérarchie, valeurs, classe, classification, genre*
+
+#### HOUELLEBECQ.
+
+En 2010, il a consacré à William Morris une page de *La Carte et le Territoire* (Flammarion), où le romancier se met lui-même en scène: «Mon père…» répéta-t-il finalement, «m’a parlé de William Morris. Je voulais savoir si vous le connaissez, ce que vous en pensez. – […] Pour mettre en pratique ses idées sur le retour à la production artisanale, il a créé très tôt une firme de décoration et d’ameublement; les ouvriers y travaillaient beaucoup moins que dans les usines de l’époque, qui étaient il est vrai ni plus ni moins des bagnes, mais surtout ils travaillaient librement, chacun était responsable de sa tâche du début à la fin, le principe essentiel de William Morris était que la conception et l’exécution ne devaient jamais être séparées, pas davantage qu’elles ne l’étaient au Moyen Âge. D’après tous les témoignages, les conditions de travail étaient idylliques: des ateliers lumineux, aérés, au bord d’une rivière. Tous les bénéfices étaient redistribués aux travailleurs, sauf une petite partie, qui servait à financer la propagande socialiste. Eh bien, contre toute attente, le succès a été immédiat, y compris sur le plan commercial. Après la menuiserie ils se sont intéressés à la joaillerie, au travail du cuir, puis aux vitraux, aux tissus, aux tapisseries d’ameublement, toujours avec le même succès: la firme Morris & Co. a constamment été bénéficiaire, d’un bout à l’autre de son existence. Cela, aucune des coopératives ouvrières qui se sont multipliées tout au long du XIX<sup>e</sup> siècle n’y est parvenue, que ce soient les phalanstères fouriéristes ou la communauté icarienne de Cabet, aucune n’est parvenue à organiser une production efficace des biens et des denrées, à l’exception de la firme fondée par William Morris on ne peut citer qu’une succession d’échecs. Sans même parler des sociétés communistes, plus tard…» […] «Je ne sais pas», dit Houellebecq, «je suis trop vieux, je n’ai plus l’envie ni l’habitude de conclure, ou bien des choses très simples. […] Ce qu’on peut sans doute dire, c’est que le modèle de société proposé par William Morris n’aurait rien d’utopique dans un monde où tous les hommes ressembleraient à William Morris.»
+
+### I
+
+#### IDÉAL-TYPE.
+
+Dans la première partie de ses *Essais sur la théorie de la science* (Agora, p. 171 et suiv.), le sociologue Max Weber fait un point méthodologique et apporte des précisions à propos de l’un des outils théoriques utilisés dans les sciences de la culture: l’idéaltype. Les historiens de l’économie remarque Weber dans ces pages, ont souvent recours à des espèces de «tableaux idéaux des événements», des «tableaux de pensée», qui agrègent «des relations et des événements déterminés de la vie historique en un cosmos non contradictoire de relations pensées». Ce genre de construction continue Weber a «le caractère d’une utopie que l’on obtient en accentuant par la pensée des éléments déterminés de la réalité. Son rapport avec les faits donnés empiriquement consiste simplement en ceci: là où on constate ou soupçonne que des relations, du genre de celles qui sont présentées abstraitement […] ont eu à un degré quelconque une action dans la réalité, nous pouvons nous représenter pragmatiquement, de façon intuitive et compréhensible, la nature *particulière* de ces relations d’après un *idéaltype * [*Idealtypus*]. Cette possibilité peut être précieuse, voire indispensable, pour la recherche aussi bien que pour l’exposé des faits. En ce qui concerne la* recherche, * le concept idéaltypique […] n’est pas lui-même une «hypothèse», mais il cherche à guider l’élaboration des hypothèses. De l’autre côté, il n’est pas un *exposé *du réel, mais se propose de doter l’exposé de moyens d’expression univoques. [Plus loin :]
+
+On obtient un *idéaltype* en *accentuant *unilatéralement *un ou plusieurs* points de vue et en enchaînant une multitude de phénomènes donnés *isolément, * diffus et discrets, que l’on trouve tantôt en grand nombre, tantôt en petit nombre et par endroits pas du tout, qu’on ordonne selon les précédents points de vue choisis unilatéralement, pour former un *tableau de pensée* homogène. On ne trouvera nulle part empiriquement un pareil tableau dans sa pureté conceptuelle: il est une *utopie.* Le travail historique aura pour tâche de déterminer dans chaque cas particulier combien la réalité se rapproche ou s’écarte de ce tableau idéal. […] Il est possible ou plutôt il faut considérer comme certain qu’il est possible d’esquisser plusieurs et même à coup sûr un très grand nombre d’utopies de ce genre dont *aucune* ne ressemblerait à l’autre et, raison de plus, dont *aucune* ne se laisserait jamais observer dans la réalité empirique sous forme d’un ordre réellement en vigueur dans une société, mais dont chacune peut prétendre représenter l’«idée» de la civilisation capitaliste et dont *chacune* peut même avoir la prétention, dans la mesure où elle a effectivement sélectionné dans la réalité certaines caractéristiques significatives par leur particularité de notre civilisation, de les réunir en un tableau idéal homogène. En effet, les phénomènes qui nous intéressent comme manifestations culturelles tirent généralement leur intérêt – leur *signification culturelle* – des idées de valeur extrêmement diverses auxquelles nous pouvons les rapporter. De même qu’il existe une extrême variété de «points de vue» sous lesquels nous pouvons considérer ces phénomènes comme significatifs, on peut également faire appel aux principes les plus variés pour sélectionner les relations susceptibles d’entrer dans l’idéaltype d’une culture déterminée. […] Par conséquent, la construction d’idéaltypes abstraits n’entre pas en ligne de compte comme but, mais uniquement comme *moyen* de la connaissance. Tout examen attentif portant sur les éléments conceptuels d’un exposé historique montre que l’historien, dès qu’il cherche à s’élever au-dessus de la simple constatation de relations concrètes pour déterminer la *signification* culturelle d’un événement singulier, si simple soit-il, donc pour le «caractériser», travaille et *doit* travailler avec des concepts qui, en général, ne se laissent préciser de façon rigoureuse et univoque que sous la forme d’idéaltypes. […] L’idéaltype est un tableau de pensée, il n’est pas la réalité historique ni surtout la réalité authentique», il sert encore moins de schéma dans lequel on pourrait ordonner la réalité à titre d’*exemplaire*.*
+
+Il n’a d’autre signification que d’un concept limite purement idéal, auquel on *mesure* la réalité pour clarifier le contenu empirique de certains de ses éléments importants, et avec lequel on la* compare*. Ces concepts sont des images dans lesquelles nous construisons des relations, en utilisant la catégorie de possibilité objective, que notre *imagination* formée et orientée d’après la réalité *juge* comme adéquates. […] La nature discursive de notre connaissance, c’est-à-dire le fait que nous n’appréhendons la réalité que par une chaîne de transformations dans l’ordre de la représentation, postule cette sorte de sténographie des concepts.»
+
+Voir: *Weber, Jung, abstraction, schématisme, Wittgenstein*
+
+### J
+
+#### JUNG. 
+
+Le psychiatre suisse a consacré un gros ouvrage au sujet des types, qui dépasse la seule caractérologie psychologique. Un type écrit-il, est un «exemple ou un modèle du caractère générique propre à une espèce ou à une communauté.» Et plus spécialement dans son livre, «le type est un modèle caractéristique d’une attitude générale qui se manifeste sous des formes individuelles diverses» [*Types psychologiques* (1950), Georg, 1991, p.476].
+
+Schématiquement décrite, la typologie de Jung s’articule en deux types généraux (introverti vs extraverti), pondérés par des types fonctionnels de second niveau. Lire par exemple p.329 (*op. cit*.): «Le danger que court l’extraverti est d’être absorbé dans les objets et de s’y perdre totalement.» Et un peu plus loin: «La névrose la plus caractéristique de l’extraverti me paraît être l’hystérie. Cette hystérie classique est toujours caractérisée par un rapport exagéré avec les personnes de l’entourage, de même que par l’insertion par imitation […]. Un trait fondamental de l’hystérique est cette tendance continuelle à vouloir se rendre intéressant et à faire impression sur l’entourage.»
+
+Notons pour finir que les remarques lucides de Jung concernant la «situation» (si l’on peut dire) des types psychologiques rejoignent de très près les précautions méthodologiques d’un Max Weber définissant son idéal-type: «Je ne voudrais pas que les descriptions précédentes donnent l’impression que ces types se rencontrent assez souvent avec cette pureté dans la vie courante. Ce ne sont guère, à vrai dire, que des portraits composites familiaux à la manière de Galton, qui cumulent et par suite mettent exagérément en relief le trait typique alors que les traits individuels sont exagérément effacés.» (*TP*, p.398).
+
+Voir: *idéal-type, abstraction, classe, schématisme*
+
+### K
+
+#### KHÔRA.
+
+On doit à Platon l’une des plus belles et plus complètes définitions de l’image, formalisée dans le *Timée*, dialogue tardif dans lequel le philosophe cherche à élucider l’origine de notre monde. Aux deux ordres de choses que le philosophe s’était appliqué à caractériser dans ses premiers dialogues – les formes ou idées intelligibles d’une part et les choses sensibles d’autre part, qui ne sont que les images impures dont les premières sont les modèles immuables, éternels et authentiquement substantiels –, Platon ajoute un secteur obscur de la réalité qu’on ne peut saisir qu’au terme d’un raisonnement bâtard, sorte de réceptacle ou matrice du monde dans lequel, sous l’effet des opérations d’un dieu-artisan, les idées viennent s’imprimer et laisser une trace constitutive du monde que nous voyons, touchons, sentons. La *khôra, * cette matière du monde qui d’ailleurs n’est pas réellement matière car elle est privée de toute propriété sauf celle de recevoir les formes et de leur offrir un corps, Platon la décrit comme le porte-empreinte des idées, comme une base, comme une cire changeant perpétuellement d’état, que les idées viennent frapper de leur sceau. Ce texte énigmatique où les formes ou idées sont pour la première fois décrites comme des *tupoï* (des types), inaugure la pensée typique[^1].
+
+Voir: *Empreinte (extrait), abstraction, matrice*
+
+### L
+
+#### LIQUIDITÉ.
+
+Si l’on en croit le diagnostic établi par Zygmunt Bauman dans *Liquid Modernity* (voir dans ce numéro pages 174), elle est la métaphore adéquate pour saisir la nature et l’esprit des temps modernes. Du moins est-elle utile pour considérer l’esprit des révolutions modernes qui organisent – selon Marx et Engels dans le *Manifeste* – la «liquidation des solides». En réalité, et Bauman lui-même l’a montré, la liquidité n’est qu’une phase transitoire dans la dialectique où se détruisent pour se réédifier les ordres et types successifs. Jean Prouvé et son alphabet de formes-types, Le Corbusier et ses objets-types sont bien modernes, et d’une modernité plus solide que jamais. Mais leur modernité suppose la liquidation d’un ordre en état de liquéfaction déjà avancé – jugé par eux pré-moderne –, celui des grands styles, des traditions architecturale et décorative. Dans le même esprit, la liquidation des catégories traditionnelles des «identités» de genre (masculin/féminin) ou des grandes catégories de l’anthropologie (nature/culture), produit elle-même une nouvelle typologie, certes plus foisonnante et plus ouverte, mais affichant à son tour une certaine consistance, une certaine solidité. La distribution du genre par exemple, s’en trouve pluralisée plutôt que liquidée (… ce qui peut-être revient à la même chose).
+
+Voir: *genre, queer, continuité, rupture, discret*
+
+### M
+
+#### MARQUE. 
+
+Houellebecq encore: «Dans ma vie de consommateur», dit-il, «j’aurai connu trois produits parfaits: les chaussures Paraboot Marche, le combiné ordinateur portable-imprimante Canon Libris, la parka Camel Legend. Ces produits je les ai aimés, passionnément, j’aurais passé ma vie en leur présence, rachetant régulièrement, à mesure de l’usure naturelle, des produits identiques.
+
+Une relation parfaite et fidèle s’était établie, faisant de moi un consommateur heureux. Je n’étais pas absolument heureux, à tous points de vue, dans la vie, mais au moins j’avais cela: je pouvais, à intervalles réguliers, racheter une paire de mes chaussures préférées. C’est peu mais c’est beaucoup, surtout quand on a une vie intime assez pauvre. Eh bien cette joie, cette joie simple, ne m’a pas été laissée. Mes produits favoris, au bout de quelques années, ont disparu des rayonnages, leur fabrication a purement et simplement été stoppée – et dans le cas de ma pauvre parka Camel Legend, sans doute la plus belle parka jamais fabriquée, elle n’aura vécu qu’une seule saison…» Il se mit à pleurer, lentement, à grosses gouttes, se resservit un verre de vin. «C’est brutal, vous savez, c’est terriblement brutal. Alors que les espèces animales les plus insignifiantes mettent des milliers, parfois des millions d’années à disparaître, les produits manufacturés sont rayés de la surface du globe en quelques jours, il ne leur est jamais accordé de seconde chance, ils ne peuvent que subir, impuissants, le diktat irresponsable et fasciste des responsables des lignes de produits qui savent naturellement mieux que tout autre ce que veut le consommateur, qui prétendent capter une attente de nouveauté chez le consommateur, qui ne font en réalité que transformer sa vie en une quête épuisante et désespérée, une errance sans fin entre des linéaires éternellement modifiés.» Michel Houellebecq, *La Carte et le Territoire*, Flammarion, 2010.
+
+#### MATRICE.
+
+Du mot latin *matrix* (*matricis*), lui-même dérivé de *mater, * qui signifie mère: élément qui constitue un réceptacle ou une structure, et qui sert à re-produire ou à construire. Moule creux, en métal ou d’une autre matière, servant à donner une forme déterminée à un objet par compression, découpage, déformation ou emboutissage. Outil de machine qui sert à imposer une forme à un matériau. Nom donné aux étalons des poids et des mesures qui servent à étalonner les autres. En typographie: petit bloc de métal portant en creux l’empreinte d’un signe typographique et servant au moulage des caractères.
+
+Voir: *khôra, empreinte, typographie, trace*
+
+#### MODÈLE. 
+
+Faut-il déposer les modèles?
+
+### N
+
+#### NORMALITÉ. 
+
+Le Corbusier: quand le design voulait nous émanciper de l’anormalité: «Nous sommes saisis d’inquiétude parce que nous ne sommes plus adaptés; nous nous révoltons contre un asservissement obligé à des choses *anormales* […]. Il faut donc s’attacher à retrouver toujours l’échelle humaine, la fonction humaine. […] Rechercher l’échelle humaine, la fonction humaine, c’est définir les besoins humains. […] Ces besoins sont types, c’est-à-dire que tous nous avons les mêmes; nous avons tous besoin de compléter nos capacités naturelles par des éléments de renfort, car la nature est indifférente, inhumaine (extra-humaine) et inclémente; nous naissons nus et insuffisamment armés. […] L’art décoratif devient de l’orthopédie, activité faisant appel à l’imagination, à l’invention, à l’habileté, mais métier analogue à celui du tailleur: le client est un homme, connu de tous et nettement défini.»
+
+Le Corbusier, «Besoins-types, Meubles-types», in *L’Art décoratif d’aujourd’hui*, 1925, Arthaud, p.71 et suiv.
+
+Voir: *queer, standard, série*
+
+### O
+
+#### OBJET.
+
+L’architecte et designer Peter Behrens (1868–1940) souvent tenu pour l’un des pionniers du design «intégral» en raison notamment de sa collaboration avec la firme allemande AEG dont il conçut les usines, les objets industriels et l’identité visuelle, a servi de modérateur dans le débat fameux qui opposa notamment van de Velde et Muthesius à l’aube du XX<sup>e</sup> siècle, concernant la nécessité controversée de voir en Allemagne se développer des objets ou «unités fonctionnelles» standard, des canons reproductibles censés diffuser le génie allemand dans toute l’Europe – et auxquels les tenants de la liberté de la création, au premier rang desquels figurait van de Velde, s’opposèrent farouchement[^2]. Voici le commentaire qu’il produisit à propos des objets standards, compatibles selon lui avec la finalité dernière de la création artistique: «Je dois dire franchement que je ne suis pas vraiment sûr de bien saisir ce que Muthesius a voulu dire par ‘*Typisierung*’ [qu’on pourrait traduire approximativement par «typicité», le suffixe* – ung* indiquant en allemand une substantivation]. J’ai en outre pensé qu’il ne pouvait répondre à un canon rigide. Or, j’ai toujours pensé qu’*en art, les archétypes constituent l’objectif suprême de toute activité artistique. C’est l’ultime expression d’une profonde personnalité. C’est la conception de l’objet, dans sa distillation la plus nette et la plus mature: *une solution exempte de toutes considérations secondaires. Pour ces raisons, *la meilleure œuvre d’un artiste constituera toujours des ‘types’.* Il est évident, par exemple, qu’un grand magasin, qui se présente extérieurement comme tel, est mieux réussi que s’il a une allure de château.»[^3]
+
+Voir: *standard, série, typographie, alphabet*
+
+#### OCCURRENCE.
+
+En linguistique, on oppose le type et l’occurrence. «*When something occurs, it happens*». Telle est la première approximation que propose le *Collins Dictionary* pour saisir le verbe «*to occur*», forme infinitive dont l’équivalent a été perdu en Français (quand le latin proposait «*occurrere*», conservé en espagnol dans «*ocurrir*»). L’occurrence serait donc le fait ou plutôt l’action d’apparaître, de se présenter, de *se produire* – et par métonymie, c’est l’objet même de cette apparition, sa présence observable; le type quant à lui ne se montre jamais, sauf par les artifices de l’étude – par sommation, synthèse, hypothèse, hypostase, idéation… Chez les linguistes encore, les distinctions langue/parole (Saussure), système/procès (Hjelmslev), compétence/performance (Chomsky), sont fondées sur l’opposition type vs occurrence: supposée réaliser la langue dont l’existence est virtuelle, potentielle et jamais pleinement manifestée (au mieux peut-on l’imaginer ou la postuler), la parole est le *produit* visible de la performance des locuteurs, non seulement au sens de son résultat mais au sens surtout de *ce qui se produit, de ce qui arrive, de ce qui est là, * dans le corpus.
+
+Voir: *idéal-type, abstraction, typographie*
+
+#### ORNITHORYNQUE (ou PLATYPUS)
+
+Umberto Eco rapporte dans son *Kant et l’ornithorynque* comment, après avoir vu pour la première fois ce que nous connaissons sous le nom de rhinocéros, Marco Polo a corrigé dans ses notes le type «licorne», à la lumière de l’expérience qu’il venait d’en faire: «C’est une bête très laide. Elle n’est pas telle qu’on la capture au sein d’une pucelle, comme on dit chez nous: c’est tout le contraire» (Marco Polo, *La description du monde*). Puis Eco demande: «Que se serait-il passé si, au lieu d’arriver en Chine, il avait débarqué en Australie et avait aperçu, le long d’un cours d’eau, un ornithorynque? L’ornithorynque est un étrange animal qui semble avoir été conçu pour défier toute classification qu’elle soit scientifique ou populaire: long de cinquante centimètres en moyenne, pesant environ deux kilos, il a un corps plat recouvert d’un pelage marron foncé, n’a pas de cou et possède une queue de castor; il a un bec de canard, de couleur bleuâtre dessus et rose bigarré dessous, il n’a pas de pavillons auriculaires, chaque patte se termine par cinq doigts palmés et armés de griffes; il passe suffisamment de temps sous l’eau (et s’y nourrit) pour qu’on le considère comme un poisson ou un amphibien, la femelle pond des œufs, mais elle allaite également ses petits, bien que l’on ne perçoive aucune tétine (on ne voit pas non plus, d’ailleurs, les testicules du mâle, qui lui sont internes). [Marco Polo] se serait très certainement demandé si ce qu’il voyait […] était un castor, un canard, un poisson […] C’est également dans cette situation que ce sont trouvés les premiers colons australiens qui ont vu un ornithorynque: ils prirent la bête pour une sorte de taupe et la nommèrent par conséquent *watermole.* Mais cette taupe avait un bec, ce n’était donc pas une taupe. Quelque chose de perceptible en dehors du ‹moule› que procure l’idée de taupe ne coïncidait pas avec ce moule – même s’il faut bien présumer qu’ils devaient avoir aussi, pour reconnaître un bec, un «moule» de celui-ci.»
+
+(U. Eco, *Kant et l’ornithorynque, * 1997, Grasset, p. 62).
+
+Voir: *catégorie, queer, classification*
+
+### P
+
+#### PROUVÉ.
+
+À l’entrée «Alphabet» de cet abécédaire, nous suggérons une extension du domaine alphabétique. S’agissant de la production industrielle, l’exemple de l’«alphabet des structures» imaginé par Jean Prouvé (avec ses types réticulaire/shed/portique/coque… p.195), illustre en grandes lettres et pour l’architecture, ce qu’on peut observer ailleurs dans la culture, à des échelles moindres – des premiers alphabets aux genres littéraires, cinématographiques, etc.
+
+Voir: *typographie, standard, alphabet*
+
+### Q
+
+#### QUEER.
+
+La tentation est grande (beaucoup ont succombé), d’assigner toute critique du type, quel qu’il soit, à une attitude «queer»… Idée faussement «cool». Je m’en tiens prudemment au rappel formulé par Tiphaine Kazi-Tani dans les pages de ce numéro: «les théories *queer* sont d’abord des théories politiques dans le sens où elles interrogent les principes d’exclusion et de division qui structurent une société humaine, et de subjectivation qui en découlent. Pour enrichissante qu’elle soit, leur captation* mainstream* prend le risque d’adoucir les frictions vitales que produit le queer lorsqu’il redonne pour comptants des corps et des existences jugées infâmes.» (lire ici même p.64 et suivantes). À bon entendeur salut.
+
+### R
+
+#### REPRODUCTION. 
+
+Voir: *série, typographie, classe, alphabet, standard, empreinte, marque, matrice, modèle, motif, Prouvé, usage, objet, khôra, passim.*
+
+### S
+
+#### SÉRIE. 
+
+L’une des définitions canoniques du type en fait un «ensemble de propriétés, de caractères déterminés précisément, qui définissent une *série* d’objets». Compris comme tel, le type est la condition et la garantie de l’unité des éléments qui composent cette série. Il est le facteur de leur solidarité – ontologique, technique, économique, culturelle… –, en même temps qu’il conditionne et facilite leur itération. Cette parenté des composantes de la série nous renvoie à l’«air de famille» que décrit Wittgenstein et à ce titre, en tant qu’ils procèdent tous ou presque du* monde industriel, * les objets que nous manipulons dans notre vie quotidienne sont l’affirmation du règne de la *pensée typique, * dont l’origine précède de beaucoup l’instauration de l’industrie telle que nous la connaissons depuis le XIX<sup>e</sup> siècle (voir par exemple la fabrication des briques de terre dans l’Antiquité). Comme principe génératif de la série et de la *culture sérielle, * le type devrait donc nous obliger de considérer aussi avec lui tout ce qui accompagne les phénomènes d’itération: l’habitude, la re-connaissance, l’intelligibilité et le savoir, les routines, l’interchangeabilité, etc. Peut-être aussi l’ennui.
+
+Voir: *standard, matrice, modèle, typographie, Prouvé, Wittgenstein*
+
+#### SCHÉMATISME.
+
+Dans le cadre de sa théorie de la connaissance, Kant a ménagé entre la pensée pure et la sensibilité une médiation nécessaire; ce niveau intermédiaire est celui des schèmes qui, si l’on s’éloigne un peu du contexte de la philosophie de Kant, fait voir que tout lien entre des idées générales et leurs occurrences sensibles requiert une médiation, une interface, qui donne d’un côté leur signification aux catégories et de l’autre leur structure aux manifestations sensibles. Kant demande: «comment l’application de la catégorie aux phénomènes est-elle possible? […] Il doit y a voir un troisième terme qui doit être d’un côté homogène à la catégorie, de l’autre au phénomène, et qui rend possible l’application de la première au second. […] Cette représentation médiatrice doit être pure et cependant d’un côté *intellectuelle, * de l’autre *sensible*. […] Les schèmes des concepts purs sont donc les vraies et les seules conditions qui permettent de procurer à ces concepts une relation à des objets, et par suite une signification; et les catégories n’ont donc en définitive d’autre usage qu’empirique, puisqu’elle servent simplement à soumettre […] les phénomènes aux règles générales de la synthèse, et à les rendre ainsi propres à une liaison universelle dans une expérience. […]
+
+Le schème n’est donc que le concept sensible d’un objet.» (*Critique de la r. pure*, AK III, 134–139).
+
+Voir: *Khôra, occurrence, idéal-type, Jung, matrice*
+
+#### STANDARD. 
+
+Modèle de référence, norme adoptée par l’usage, par un groupe de personnes. Norme de fabrication à suivre dans la réalisation de produits en série.
+
+Voir: *série, modèle, objet, Prouvé, passim*
+
+### T
+
+#### TENSION.
+
+La figure, l’objet, la forme, l’État, le modèle et le type supposent un certain état stable et solide de la «matière» (on le voit avec Bauman et son théorème de la modernité liquide). À ce titre, le concept de tension, qui décrit l’état plus ou moins limite d’un matériau ou d’un objet, semble utile pour comprendre les relations qu’entretiennent les grandeurs qu’on se propose de mettre en regard. Car au-delà de la limite, les objets changent d’état pour se re-configurer. Dans les sciences du langage, où le processus méthodologique de catégorisation a commencé historiquement par se constituer sur la base d’oppositions binaires (cf. ici l’entrée *Valeurs*), les chercheurs ont introduit récemment le concept d’espace tensif, qui vise à raffiner les frontières de catégories binaires par une mesure graduelle d’étendue et d’intensité[^4].
+
+En découvrant ici les recherches en histoire des caractères typographiques menées par Jérôme Knebusch, qui découvrent un espace de tension entre le gothique et le romain (lire dans ces pages l’article «Drôles de types»), on peut formuler par extension l’hypothèse selon laquelle toute catégorie stabilisée et toute formation typique suppose une tension qui menace son intégrité supposée: règne, crise et critique.
+
+Voir: *valeurs, catégorie, typo graphie, continuité, discret.*
+
+#### TYPOGRAPHIE.
+
+On peut considérer la typographie et son histoire comme le modèle de toute la réflexion sur le type et sur la place qu’il occupe dans la culture, non seulement comme concept théorique mais aussi et surtout comme projet de transformation des manières de produire, d’échanger, de connaître, de vivre, de penser et peut-être aussi de croire. Avec la typographie et les moyens de production auxquelles elle s’adosse, c’est tout l’esprit du projet industriel qu’on peut lire écrit en petites lettres[^5].
+
+Voir: *alphabet, abstraction, valeur, standard, série, tension, queer*
+
+#### TRACE.
+
+«La manière noire est une gravure à l’envers. Dans la manière noire la planche est originairement et entièrement gravée. Il s’agit d’écraser le grain pour faire venir le blanc. Le paysage précède la figure. Ce fut en 1642 que Ludwig von Siegen inventa la manière noire. En 1653, à Bruxelles, Siegen révéla son secret à Ruprecht du Palatinat qui l’introduisit en Angleterre en 1656. On compte seulement vingt-quatre gravures de Meaume à la manière noire qui datent toutes d’après Abraham. On appelle berceau la masse qui graine toute la planche pour la manière noire. Par la manière noire chaque forme sur la page semble sortir de l’ombre comme un enfant du sexe de sa mère.» Pascal Quignard, *Terrasse à Rome, *Gallimard, 2000.
+
+Voir: *khôra, empreinte, typographie, matrice*
+
+### U
+
+#### USAGE.
+
+Notion clé du design («étude des usages», «innovation par les usages», «penser les usages», «quand s’usent les usages…»[^6]), elle n’en est pas moins ambiguë en ce qu’on ne sait pas toujours quelle acception activer. Une première approche de l’usage le réduit techniquement à l’*utilisation effective* de tel ou tel objet, espace ou dispositif. C’est l’actualisation de la fonction. Pourtant l’usage dans ce premier sens semble toujours rejoindre et supposer *l’usage* entendu comme habitude, coutume, tradition, manière, toutes consacrées par et dans une pratique ou une culture, et que seul le temps peut établir par itération, imitation, *mimicry*, répétition, éducation… Cet usage-ci, qui relève de la pensée typique, fait bien voir que le type est toujours *réglé, normé, * quels que soient l’origine et le niveau de formalisation ou d’expression de la règle. Et qu’il y a toujours quelque chose de droit·e dans l’usage, comme dans les types, que le temps a contrôlé. Pour s’en convaincre, on peut se référer à la définition juridique de l’usage, laquelle impose que l’histoire peut donner raison. À moi les Lumières!
+
+Voir: *genre, queer, alphabet*
+
+### V
+
+#### VALEUR.
+
+En linguistique et en sémantique, le concept de valeur a reçu un contenu nouveau au XX<sup>e</sup> siècle, sous l’impulsion notamment de Saussure, Jakobson et Hjelmslev. Pour ces auteurs, l’une des conditions de l’émergence du sens est la possibilité de saisir des différences (saisie souvent notée par le petit mot «versus» devenu la marque de l’école structurale). Relire le (pseudo-) Saussure du *Cours* (p.168 et suiv.): «Dans la langue il n’y a que des différences. […] Dans la langue, comme dans tout système sémiologique, ce qui distingue un signe, voilà tout ce qui le constitue. C’est la différence qui fait le caractère, comme elle fait la valeur […] La langue étant ce qu’elle est, de quelque côté qu’on l’aborde, on n’y trouvera rien de simple; partout et toujours ce même équilibre complexe de termes qui se conditionnent réciproquement. Autrement dit, la langue est une forme et non une substance.» Ce théorème a constitué la base de travail de toute la linguistique continentale, (et au-delà, de toute l’école structurale), et a servi à l’établissement de «catégories» ou «classes» (sémantiques, phonologiques, anthropologiques, sociologiques, ethnograpahiques…) plus ou moins fines selon les niveaux de l’analyse – pensons à l’opposition nature *vs* culture dans l’œuvre de Lévi-Strauss (ou au cru et au cuit).
+
+Voir: *catégorie (s), classe, hiérarchie, tension, valeur*
+
+### W
+
+#### WEBER. 
+
+– Pour illustrer la construction de l’idéal-type, Max Weber donne dans le premier *Essai sur la théorie de la science* l’exemple de l’artisanat: «On peut […] dessiner sous forme d’utopie l’«idée» de l’«artisanat» en assemblant certains traits qui existent de manière diffuse dans certains corps de métiers d’époques et de pays les plus divers, en accentuant unilatéralement leurs conséquences dans un tableau idéal non contradictoire en soi et en le rapportant à une formule de pensée qui l’exprime. On peut en outre essayer de dessiner une société dans laquelle toutes les branches de l’activité économique et même l’activité intellectuelle sont gouvernées par des maximes qui paraissent appliquer le même principe que celui qui est caractéristique de l’«artisanat» élevé au rang d’idéaltype. On peut en plus opposer par antithèse cet idéaltype de l’artisanat à un idéaltype correspondant à la conception capitaliste de l’industrie, ce dernier étant construit sur la base de l’abstraction de certains traits de la grande industrie moderne, et sous ce rapport essayer de dessiner l’utopie d’une civilisation «capitaliste» […]. Il consisterait à accentuer certains traits donnés de façon diffuse dans la vie civilisée moderne, matérielle et spirituelle, pour les assembler en un tableau, idéal non contradictoire, à l’effet de notre investigation. Ce tableau constituerait alors le dessin d’une «idée» de la civilisation capitaliste, sans que nous ayons à nous demander ici si l’on peut et comment on peut l’élaborer.»
+
+Voir: *idéal-type, Houellebecq, standard, série*
+
+#### WITTGENSTEIN.
+
+– Afin de produire des types et d’engendrer des catégories, plutôt que de considérer des traits ou caractères communs – méthode de la définition qui s’est largement imposée depuis Platon (relire par exemple *Le Politique* ou *Le Sophiste*), Wittgenstein postule l’existence de catégories fondées sur l’entrelacs, le chevauchement, le recouvrement de traits confusément distribués, qui ne seraient pas partagés universellement, et qu’on échouerait en tout cas à enfermer dans une définition stable et unique. Ces traits sont constitutifs de ce que Wittgenstein a appelé *air de famille* (autrement dit *ressemblance de famille*). L’exemple le plus fameux qu’en donne l’auteur dans ses *Recherches* est celui des jeux: «Considérons par exemple les processus que nous nommons les jeux. J’entends les jeux de dames et d’échecs, de cartes, de balle, les compétitions sportives. Qu’est-ce qui leur est commun à tous? – Ne dites pas: *Il faut* que quelque chose leur soit commun, autrement ils ne se nommeraient pas «jeux» – mais voyez d’abord si quelque chose leur est commun. – Car si vous le considérez, vous ne verrez sans doute pas ce qui leur serait commun à tous, mais vous verrez des analogies, des affinités, et vous en verrez toute une série. Comme je l’ai dit: ne pensez pas, mais voyez! Voyez, par exemple, les jeux sur damiers avec leurs multiples affinités. Puis passez aux jeux de cartes: ici vous trouverez beaucoup de correspondances avec la classe précédente, beaucoup de traits communs disparaissent, tandis que d’autres apparaissent. Si dès lors nous passons aux jeux de balle, il reste encore quelque chose de commun, mais beaucoup se perd. – Tous ces jeux sont-ils «divertissants»? Comparez les échecs et la marelle» (*Recherches philosophiques*, 1953, §66).
+
+Voir: *catégorie (s), classification, idéal-type, Jung, série, tension*
+
+### X
+
+#### X (génération).
+
+Les démographes américains ont nommé «Génération X» la cohorte qui suit les baby-boomers et qui précède la génération du millénaire. Quoique mal définies, les années de naissance de la «Gen X» s’étendent en gros du milieu des années 1960 au début des années 1980. «Et si je suis désespéré, que voulez-vous que j’y fasse?» (G. Anders).
+
+### Y
+
+#### YOYO
+
+Voir: *Wittgenstein*
+
+### Z
+
+#### ZOMBIES (catégories).
+
+Dans *Liquid Modernity* (voir dans ce numéro p.181), Zigmunt Bauman cite Ulrich Beek, inventeur du concept de «deuxième modernité», pour qui la famille, la classe, etc., sont autant de «catégories zombies», espèces de morts-vivants de la culture: «Demandez-vous ce qu’est vraiment une famille aujourd’hui? Que signifie-t-elle? Bien sûr, il y a des enfants, mes enfants, nos enfants. Mais même la paternité, le noyau de la vie familiale, commence à se désintégrer» (U. Beek, «*Zombie Categories*», 1999).
+
+
+[^1]: Lire à ce propos Jacques Derrida, *Khôra*, Galilée, 1993.
+
+[^2]: Voir dans ce volume l’article de Daria Ayvazova, p.98.
+
+[^3]: Cf. Alan Windsor, *Peter Behrens, architecte et designer*, Mardaga, 1981, p.172–3.
+
+[^4]: Cf. par exemple Fontanille & Zilberberg, *Tension et signification*, Madraga, 1998 et Zilberbebg, *Éléments de grammaire tensive*, Pulim, 2006.
+
+[^5]: Voir à ce propos, entre autres ouvrages, l’excellent livre de Robin Kinross: *La Typographie moderne*, 1992 (B42, pour la traduction française de 2012).
+
+[^6]: Cf. B. Stiegler, «Quand s’usent les usages», in *Azimuts* 24, 2004 (propos recueillis par Catherine Geel).

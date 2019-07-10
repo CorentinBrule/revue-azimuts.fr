@@ -1,0 +1,32 @@
+Titre: Éditorial 40-41
+----
+Auteur: Marc Monjou
+----
+Type: Texte inédit
+----
+Section: Éditorial, Dossier
+----
+Pages: 17–18
+----
+Biographie: Marc Monjou est professeur à l’École supérieure d’art et design de Saint-Étienne, où il co-dirige le Post-diplôme Design et Recherche et assure la direction éditoriale de la revue *Azimuts* depuis 2010.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2014
+----
+Texte:
+Quoi que semblent indiquer son format et sa densité, le dossier central de ce numéro de la revue *Azimuts* poursuit un objectif assez modeste: offrir un premier aperçu des revues de recherche en design à tous ceux qui en France – professeurs, enseignants-chercheurs, étudiants de niveau master ou post-master, doctorants et designers –, peinent à donner un contenu à cette catégorie encore trop souvent abstraite de «recherche en design». Il s’agit donc d’une initiation, la première du genre, le lecteur francophone n’ayant à notre connaissance jamais eu l’occasion d’accéder à un tel panorama.
+
+Plutôt que d’attaquer la recherche en design de manière frontale, projet aussi risqué qu’ennuyeux, il s’est agi pour l’équipe éditoriale de s’enquérir de l’un des modes d’expression privilégiés de la recherche: la publication périodique, parangon et mesure supposés de l’excellence académique. Mais ce roque, comme on pouvait s’en douter, n’a pas suffi à neutraliser tous les dangers, et les questions de fond concernant la recherche ont vite resurgi: quelle place la théorie doit-elle tenir au sein d’une activité où la pratique domine en fait comme en droit? Pourquoi, au niveau de la recherche, l’écriture devrait-elle supplanter la pratique plastique? La recherche en design peut-elle n’être que descriptive ou méta-descriptive et par là se réduire à un commentaire – plus ou moins savant – de la pratique? Et par suite, pourquoi la recherche en design devrait-elle adopter le paradigme du discours scientifique, alors qu’on peut bien aussi considérer le design (et sa recherche) comme un projet artistique, technique, politique, éthique, critique, etc. ?
+
+Nous avons choisi de puiser dans les revues de recherche elles-mêmes un certain nombre de réponses à ces questions, sans toujours y souscrire à fond, cherchant à montrer comment ces revues ont pu diversement rendre compte de l’émergence des problématiques de tous ordres liées à la recherche. Nous proposons donc ici d’abord un choix de revues. Il est forcément partiel et limité car, peu habitués à pratiquer l’ensemble de ces revues – qui sont majoritairement anglophones, nous les avons découvertes à mesure que nous préparions ce numéro et, malgré le temps long de gestation qui sans l’excuser tout à fait explique pour partie le retard de la parution – nous avons dû nous résoudre à achever ce travail qui sans doute mériterait d’être continué avec d’autres moyens. Parmi ce choix de revues, nous proposons aussi une sélection d’articles. Elle n’obéit à aucun systématisme (lequel adopter devant un tel corpus?), mais reflète plutôt la subjectivité des membres de l’équipe du Post-diplôme design et recherche de l’ESADSE, étudiants et enseignants qui, chacun avec ses intérêts de recherche et sa sensibilité, ont lu, extrait et proposé les articles qui composent finalement ce panorama. Les choix (revues et articles) sont donc partiels et partiaux, puisqu’ils supposent et engagent un intérêt et un positionnement, qu’ils soient philosophiques, disciplinaires, stratégiques, techniques, artistiques, critiques et/ou thématiques.
+
+Le lieu et le moment de cette livraison ne sont pas innocents: depuis quelques années, l’application du processus de Bologne a conduit les écoles supérieures d’art et design françaises à adosser leurs enseignements de second cycle à des activités de recherche, sous l’œil de l’Aeres. Un grand nombre de disputes (plus ou moins byzantines) ont suivi ce mouvement de conversion, où l’on inventait la recherche en design *ex nihilo* – du moins le croyait-on. Le présent numéro d’*Azimuts* montre à ceux qui dans les écoles ou les universités pourraient en douter encore, que la recherche en design est depuis longtemps constituée. Ce qui ne veut pas dire pas que les formes qu’elle a pu adopter sont satisfaisantes! Avec ses moyens limités, ce numéro d’*Azimuts* voudrait créer les premières conditions d’une critique des modèles académiques de la recherche en design, dont la science est le paradigme dominant. S’il s’attache à rendre compte de ce que l’on pourrait appeler déjà une certaine tradition académique de la recherche et de sa publication, ce numéro fait aussi la place à d’autres manières d’envisager la recherche en design, à des publications plus souterraines, plus critiques, plus gauches d’apparence, mais qui portent selon nous les valeurs de ce que pourrait être une recherche libre, éclairée, stimulante et féconde, fidèle à l’esprit des écoles d’art et design.
+
+De même qu’il admet des revues que la recherche académique ne voudrait pas reconnaître, le dossier propose aussi quelques hors champ, refusant de préjuger que les publications de recherche en design devraient se cantonner au seul giron d’une «discipline» elle-même assez mal identifiée [^1]. Ainsi par exemple les revues *Terrain* (revue d’ethnologie) ou *Oase* et *AA Files* (revues d’architecture).
+
+L’ampleur de ce numéro double est telle que nous avons dû bouleverser l’ordre auquel les dernières parutions avaient fini par habituer le lecteur. Même allégées, les sections *Varia*, *Anthologie*, *Parutions et comptes rendus* demeurent cependant. La publication du *Cahier du pôle Recherche de la Cité du design* a été différée au prochain numéro d’*Azimuts*. Quant au cahier réservé aux élèves du post-diplôme, il permettra de saisir la diversité des profils engagés autant que la richesse des problématiques discutées en cycle recherche à l’ESADSE, où dialoguent design d’objet, création numérique, illustration, design graphique et design d’édition.
+
+*Nota*: l’écrasante majorité des revues dont nous rendons compte dans le dossier central de ce numéro sont de langue anglaise; la grande quantité de textes proposés dans le panorama ne nous a pas permis de proposer une version bilingue pour tous les contenus. Quoique ce numéro s’adresse plus particulièrement au lecteur francophone, de nombreux articles sont proposés dans la langue de la recherche. Nous le regrettons et prions nos lecteurs de bien vouloir nous en excuser.
+
+[^1]: Lire entre autres, dans ces pages: N. Cross, p. 171 et suiv. et C. Bremner et P. Rodgers, p. 174 et suiv.

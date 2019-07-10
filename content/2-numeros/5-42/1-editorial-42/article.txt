@@ -1,0 +1,20 @@
+Titre: Éditorial 42
+----
+Auteur: Marc Monjou
+----
+Type: Texte inédit
+----
+Section: Éditorial
+----
+Pages: 1–4
+----
+Biographie: Marc Monjou est professeur à l’École supérieure d’art et design de Saint-Étienne, où il co-dirige le Post-diplôme Design et Recherche et assure la direction éditoriale de la revue *Azimuts* depuis 2010.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2015
+----
+Texte:
+Après le très copieux numéro 40–41, massif de plus de cinq-cents pages dédié aux revues de recherche en design, *Azimuts* retrouve ici une silhouette plus effilée pour proposer un numéro spécial consacré au tuning. Pendant plus d’une année, en réponse au thème de la 9e édition de la Biennale internationale design de Saint-Étienne «Les sens du beau», les étudiants du cycle recherche de l’ESADSE ont travaillé à la préparation de l’exposition *Tu nais, tuning, tu meurs* – à voir du 12 mars au 15 juin 2015 au Musée d’art et d’industrie de la ville de Saint-Étienne. Le numéro 42 d’*Azimuts* constitue un témoignage des nombreuses réflexions qui ont eu cours au post-diplôme durant cette période de gestation, offrant le premier recueil de textes consacrés en France à une pratique dont les limites flirtent avec le design d’une manière déconcertante. Chacune à sa façon et selon les territoires sur lesquels elles se situent (sociologie de la culture, esthétique, design, histoire, technique), les contributions proposent autant de voies pour saisir ce que l’on peut bien ici s’autoriser à nommer (noblesse oblige!) l’insoutenable légèreté du tuning.
+
+À côté du dossier central, le lecteur retrouvera les rubriques *Parutions et comptes rendus*, *Anthologie* et *Varia* que l’ordre des derniers numéros avait quelque peu malmenées: où il est question de la recherche en design, de l’histoire du graphisme, de Mendini, d’un design bien étrange, de Simondon (le stéphanois), et des tribulations d’un designer graphique nommé John Morgan.

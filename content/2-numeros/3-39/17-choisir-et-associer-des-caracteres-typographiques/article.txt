@@ -1,0 +1,165 @@
+Titre: Choisir et associer des caractères typographiques
+----
+Auteur: Robert Bringhurst
+----
+Type: Traduction
+----
+Section: Anthologie
+----
+Pages: 178–189
+----
+Informations: Extrait de *The Elements of Typographic Style*.
+Traduit de l’anglais par Marc Monjou, Véronique Rancurel et Samuel Vermeil
+----
+Autres informations: Publié par Hartley & Marks Publishers Inc., 2005. Copyright © 1992, 1996, 2004, 2005, 2008, 2012, by Robert Bringhurst.
+
+Voir aussi : *The Elements of Typographic Style Applied to the Web*, [webtypography.net](webtypography.net)
+
+*The Elements of Typographic Style* a connu de nombreuses rééditions dont la dernière (4.0) date de 2012. Le texte de la présente traduction a été établi sur la base de l’édition 3.1 parue en 2005.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2013
+----
+Texte:
+##### Né en 1946, Robert Bringhurst est un auteur, poète et traducteur canadien passionné de typographie. En 1992, il publie *The Elements of Typographic Style* (Hartly & Marks Publishers, 1ère édition), ouvrage aujourd’hui considéré comme une référence en la matière. Cette somme doit son succès aux informations précieuses qu’elle contient, à la précision et à l’érudition du propos, ainsi qu’à la façon très personnelle qu’a Robert Bringhurst de relier la technique typographique avec des considérations plus larges touchant le langage, l’esthétique, la vie, l’histoire des formes et des idées.
+
+##### L’extrait choisi pour la rubrique Anthologie pose la question simple et difficile à laquelle tout designer graphique doit répondre à chaque nouveau projet : quel caractère typographique choisir ? Comment faire un choix dans la multitude des possibilités ? Sans recette ni dogmatisme, Robert Bringhurst apporte des éléments de réponses élaborés et ouvre des pistes pour nous permettre de construire une réflexion sur le sujet.
+
+### 6.1 Considérations techniques
+#### 6.1.1 Prendre en compte le médium pour lequel le caractère a été initialement conçu.
+
+Les typographes les plus orthodoxes aiment voir un caractère utilisé avec la technologie pour laquelle il a été conçu. Pris à la lettre, cela impliquerait que tous les caractères dessinés avant 1950 fussent en métal, composés à la main et imprimés avec une presse mécanique. Heureusement, la plupart des typographes appliquent ce principe avec souplesse et intelligence, s’efforçant surtout de préserver quelque chose du caractère original, plutôt que de vouloir tout conserver.
+
+Sur le plan technique, il y a plusieurs choses à faire pour augmenter les chances qu’un caractère en métal survive lors de sa conversion aux technologies numériques et à l’impression offset. 
+
+#### 6.1.2 Pour l’utilisation de caractères qui ont fait l’objet d’une adaptation numérique, choisir des caractères fidèles à l’esprit et à la lettre des anciens dessins.
+
+L’impression mécanique inscrit la lettre dans le papier alors que l’impression offset la dépose à la surface. De nombreuses différences, souvent subtiles, résultent de ces deux genres d’impression. L’impression traditionnelle confère à la lettre plus d’épaisseur et une meilleure définition, surtout aux parties les plus fines, et elle accentue l’extrémité des empattements. Les caractères métalliques sont conçus pour tirer avantage de l’impression mécanique.
+
+Avec l’impression offset – et lors des procédures photographiques durant lesquelles les plaques sont préparées – les déliés tendent à s’affiner et les extrémités des empattements les plus délicats sont mangées. Par exemple, pour un caractère comme le Bembo, l’impression offset a tendance à rendre légèrement convexes les pieds des i et des l, ainsi que les extrémités supérieures et les pieds des H et des I, alors que l’impression mécanique tend plutôt à les rendre concaves.
+
+Les caractères dessinés pour la photocomposition et pour l’impression offset ne sont pas graissés ni finalisés de la même manière que les caractères destinés à l’impression mécanique. L’adaptation d’un caractère à la composition numérique est donc une tâche qui est loin d’être simple.
+
+Lorsque la conversion du métal au numérique n’a pas été bien réalisée, le résultat est souvent trop foncé ou trop clair, les caractères sont grossiers, mal proportionnées ou de chasse irrégulière. Parfois ils ne comportent pas les chiffres bas de casse ni certaines composantes essentielles du dessin original. Mais les transcriptions numériques peuvent aussi être trop proches du modèle original. Parfois elles ne prennent pas en compte les transformations subtiles qu’exige la migration des trois dimensions de la presse mécanique vers les deux dimensions de l’offset. 
+
+#### 6.1.3 Choisir des caractères qui, à tout le moins, tolèreront les conditions d’impression.
+
+Les Bembo, Centaur, Spectrum et Palatino sont de beaux alphabets sophistiqués, mais si vous imprimez un texte en corps 8 points[^1] sur un papier ordinaire à 300 ppp, la délicatesse de leurs formes se perdra dans la chaîne d’impression. Pour un rendu en corps 14 points, traité directement sur une plaque à 2800 ppp, puis imprimé avec un bon procédé offset et sur le meilleur papier couché, toutes les nuances seront rendues, mais le résultat sera dépourvu de l’expressivité et de la texture de l’impression mécanique pour laquelle ces caractères ont été conçus.
+
+En fait, les caractères à l’apparence la plus innocente sont les plus difficiles à faire migrer vers le numérique. La version originale de l’Optima, par exemple – une linéale d’apparence très simple – est constituée de traits et de courbes dont la subtilité n’est rendue qu’à très haute résolution.
+
+Les caractères aux empattements rustiques, aux contreformes ouvertes, aux courbes modelées, et sans prétention aristocratique, sont ceux qui ont les meilleures chances de survivre aux misères de la basse résolution. Les Amasis, Caecilia, Lucida Sans, Stone et Utopia, par exemple, non seulement s’en sortent bien en haute définition mais résistent également très bien aux basses définitions, fatales aux Centaur, Spectrum, Linotype Didot, ainsi qu’au Bodoni dans quasiment toutes ses versions.
+
+#### 6.1.4 Choisir des caractères adaptés au papier sur lequel vous souhaitez imprimer, et inversement.
+
+À l’origine, la plupart des caractères renaissance ou baroque ont été créés pour être imprimés selon des procédés assez frustes, sur du papier résistant ou du papier épais. Ils s’altèrent sur le papier glacé et très surfacé qui était très prisé à la fin du dix-huitième siècle. En revanche, les caractères néo-classiques et romantiques ont été conçus pour être utilisés sur papier lisse. Les papiers plus texturés brisent leurs lignes fragiles. Les caractères géométriques modernistes, tels le Futura, et les caractères néo-grotesques, comme l’Helvetica, s’impriment de manière égale sur tout type de papier, grossier ou lisse. Ce sont en effet des caractères fondamentalement monochromes – leur largeur de trait est presque uniforme. Mais l’aura émanant de la précision mécanique du Futura est amplifiée si l’on utilise un papier lisse, alors qu’elle est amoindrie (voire neutralisée) par un papier de texture plus grossière. 
+
+### 6.2 Typographie pratique
+
+#### 6.2.1. Choisir un caractère en adéquation à la tâche et au sujet.
+
+Disons que vous êtes chargé du design d’un livre sur la course cycliste. Vous avez repéré un caractère dont le nom est Bicyclette. Il y a des rayons dans le O, le A a la forme d’une selle de course, le T ressemble à un guidon, et les jambages sont équipés de chaussures de vélo. N’est-ce pas là le caractère tout indiqué pour votre livre ?
+
+Il est vrai que les caractères typographiques et les bicyclettes ont bien des points en commun : ce sont à la fois des concepts et des machines qui ne doivent, ni les uns ni les autres, s’encombrer de poids excessif ou de bagage inutile. Mais représenter des chaussures de vélo ne fera pas avancer le caractère, pas plus que des traces de fumée, l’image d’une fusée ou de faux éclairs sur le cadre ne feront aller le vélo plus vite.
+
+Le caractère le plus adapté à un ouvrage consacré à la course cycliste est celui qui présente avant tout les qualités inhérentes à tout bon caractère. Secondement, ce doit être un bon caractère de labeur, capable de garantir un bon confort de lecture sur une longue distance. Ce n’est qu’en tout dernier lieu qu’on cherchera à assortir le dessin au thème en question. Sans doute devra-t-il être fin, fort et rapide ; il sera peut-être italien. Mais il ne devra certainement pas s’encombrer d’ornements ni supporter les plus mauvaises farces. 
+
+#### 6.2.2 Choisir des caractères qui permettent les effets spéciaux requis.
+
+Si votre texte comporte beaucoup de nombres, vous aurez envie naturellement d’un caractère doté de chiffres particulièrement bien dessinés. Les Palatino, Pontifex, Trump Medieval et le Zapf International sont des exemples tout à fait indiqués. Si vous préférez des chiffres alignés à trois quarts de hauteur, vous avez le choix entre les Bell, Trajanus et Weiss.
+
+S’il vous faut des petites capitales, les caractères qui en sont privés (comme le Frutiger et le Meridian) sont hors course. S’il vous faut une grande variété de graisses, le Spectrum est disqualifié, mais le Frutiger reste en course. Si vous avez besoin de caractères phonétiques, vous pouvez choisir entre le Stone serif et sans, le Lucida sans, et le Times Roman. Si vous avez besoin d’un alphabet cyrillique, vous avez le choix entre les Charter, Minion, Lazurski, Officina, Quadraat, Warnock ou, entre les caractères sans empattements comme les Syntax, Myriad ou Futura. Le Georgia ou le Palatino, sont tout indiqués pour du grec ; pour du cherokee, ce peut être le Plantagenet. Si vous cherchez une linéale, regardez du côté des Haarlemmer, Legacy, Lucida, Le Monde, Officina, Quadraat, Scala, Seria ou du Stone. 
+
+#### 6.2.3 Tirer le meilleur parti de l’existant.
+
+S’il n’y a que des haricots pour le dîner, on peut se mettre en quête d’un oignon, de poivre, de sel, de coriandre et de crème fraîche pour rehausser le plat, mais généralement, il est vain de faire comme si les haricots étaient des crevettes ou des girolles.
+
+Lorsque le seul caractère disponible est le Cheltenham ou le Times Roman, le typographe doit tirer le meilleur parti offert par ces caractères-là, aussi limités soient-ils. Lorsqu’il sera possible de les ajouter, un italique, des petites capitales ou des chiffres bas de casse seront d’un grand secours, mais il est vain de prétendre qu’un Times Roman vaut un Bembo, ou que le Cheltenham est une autre forme d’Aldus.
+
+En règle générale, un caractère aux qualités modestes doit être manié avec la plus grande précaution et le plus grand soin. Il convient de composer dans un corps de taille modérée (l’idéal est de n’utiliser qu’un seul corps), de bien espacer les capitales, de bien adapter l’interlignage et de bien ajuster les minuscules sans exagérer l’approche. La longueur des lignes doit être optimale et les proportions de la page doivent être impeccables. Bref, la typographie sera magnifiquement ordinaire et guidera l’attention vers la qualité de la composition plutôt que vers la forme des caractères elle-même. Car seul un caractère qui supporte un examen attentif doit recevoir une mise en forme qui y invite.
+
+Tirer le meilleur parti de l’existant revient presque toujours à utiliser moins de choses que ce qui est effectivement disponible. Les Baskerville, Helvetica, Palatino et Times Roman – quatre exemples pris parmi les caractères les plus largement disponibles – sont des caractères qui n’ont rien à s’offrir les uns aux autres, à part peut-être des désagréments. Aucun d’eux ne fait un bon compagnon pour aucun des trois autres car chacun relève de traditions typographiques différentes. Lorsque la palette disponible se résume à ces quatre caractères-là, la première chose à faire est d’en choisir un pour le travail envisagé, et d’oublier les trois autres. 
+
+### 6.3 Considérations historiques
+
+Comme les autres arts, la typographie se nourrit de son propre passé, et elle le fait tantôt avec l’insensibilité d’un pilleur de tombe, tantôt avec la piété que requiert le culte inconditionnel des ancêtres. Mais son approche peut être aussi profondément créative, réfléchie et éclairée.
+
+Nous disposons du romain depuis plus de cinq siècles. Ses composantes fondamentales – la majuscule et la minuscule, les signes non-alphabétiques de base ainsi que les chiffres arabes – sont connues depuis bien plus longtemps. De nos jours, certains typographes refusent catégoriquement d’utiliser des caractères qui ont été dessinés à une époque antérieure. Cela ne les dispense pas cependant de connaître le fonctionnement des anciennes écritures, car les formes anciennes habitent les nouvelles. Quant aux typographes qui ont délibérément recours aux caractères historiques, s’ils veulent les utiliser avec intelligence, ils doivent apprendre tout ce qu’il est possible de connaître de l’héritage dont ils jouissent. 
+
+#### 6.3.1 Choisir un caractère dont les résonances et les liens historiques sont en cohérence avec le texte.
+
+N’importe quelle bibliothèque contemporaine fournira des exemples d’anachronismes typographiques : des livres sur l’Italie contemporaine et sur la France du dix-septième siècle composés en Baskerville et en Caslon – nés dans l’Angleterre du dix-huitième ; des ouvrages sur la Renaissance composés avec des caractères baroques, et inversement des livres sur le Baroque composés avec des caractères qui nous viennent de la Renaissance. Un bon typographe se doit non seulement d’éviter le piège de ces contradictions ridicules, mais il se doit aussi d’éclairer chaque texte par un choix de caractère et une mise en forme qui lui correspondent.
+
+Ce n’est pas que les typographes rechignent à mélanger les siècles et les cultures. Nombreux en effet sont ceux qui prennent plaisir à le faire – *a fortiori* lorsqu’il n’y a pas d’autre choix possible. Par exemple, un texte venant de Grèce ancienne ne peut pas être composé dans une version « hellénisée » d’un caractère romain ; un caractère conçu en Amérique du Nord dans les années 1990 conviendra bien mieux. Des textes français du dix-septième siècle ou provenant de l’Angleterre du dix-huitième siècle peuvent tout à fait être composés avec des créations récentes. Quoi qu’il en soit, un caractère typographique vraiment adapté au texte en question exprime déjà, par sa valeur propre, un contenu historique juste et clair. Il n’existe pas de caractère typographique adapté indifféremment à des textes de l’Antiquité grecque, du Baroque français et du Néo-classicisme anglais – bien qu’il y ait pléthore de caractères qui ne conviennent à aucun d’entre eux. 
+
+#### 6.3.2 Laisser le caractère s’exprimer dans sa langue d’origine.
+
+Les livres qui négligent les époques et qui mélangent les sujets historiques peuvent poser des problèmes typographiques aussi complexes que passionnants. Il est fréquent qu’un texte qui appelle un caractère renaissance nécessite aussi une mise en page de style Renaissance : des marges et des proportions de style Renaissance, l’absence de caractères gras, de larges lettrines, des citations traitées dans le style Renaissance et une discrimination stricte entre le romain et l’italique. Dans le même esprit, si le texte appelle un caractère néo-classique, il appelle souvent aussi une mise en page néo-classique. Lorsque vous recourrez à un caractère historique, prenez donc la peine d’apprendre la langue typographique à laquelle il était destiné. 
+
+### 6.4 Considérations culturelles et personnelles
+#### 6.4.1 Choisir des caractères dont l’esprit est en adéquation avec le texte.
+
+Les associations fortuites sont rarement un bon point de départ pour le choix d’un caractère. Au vingtième siècle par exemple, les recueils écrits par le poète juif américain Marvin Bell, ont parfois été composés en Bell – un caractère dix-huitième, anglais et presbytérien – sur la base du seul nom de l’auteur. Lorsqu’ils fonctionnent, ces jeux de mots, ne font rire que les typographes. Pour vivre d’elle-même, une composition réussie doit se fonder sur de réelles affinités plutôt que sur une blague pour initiés.
+
+Les caractères ont leur esprit et leur personnalité propres, que les typographes apprennent à discerner après des années passées au contact des formes et à force d’étudier et de comparer le travail d’autres designers, d’hier et d’aujourd’hui. À y regarder de près, un caractère en dit long sur l’époque à laquelle son créateur a appartenu, sur sa personnalité et même sur sa nationalité et sa religion. Le choix d’un caractère typographique sur la base de ces critères-là promet de meilleurs résultats qu’un choix établi au motif de la seule disponibilité, ou sur la simple homonymie.
+
+Par exemple, si vous devez composer un texte écrit par une femme, vous pouvez privilégier un ou plusieurs caractère(s) conçu(s) par une femme. De tels caractères étaient rares sinon inexistants dans les siècles passés, mais ils abondent aujourd’hui. Citons l’admirable Alcuin de Gudrun Zapf von Hesse, les familles Carmina, Diotima et Nofret ; l’Elizabeth d’Elizabeth Friedländer ; les Sierra et Lucida de Kris Holmes ; le Shannon de Kris Holmes et Janice Prescott Fishman ; le joli Chaparral de Carol Twombly, et pour les titres : les Charlemagne, Lithos, Nueva et Trajan ; les Journal et Mrs Eaves de Zuzana Licko, ou bien le Rhapsodie de Ilse Schüle. Dans certains cas, on pourra se tourner vers le travail d’Elizabeth Colwell, dont le Colwell Handletter – qu’ATF a fait connaître en 1916 – s’est imposé comme le premier dessin de caractère américain créé par une femme.
+
+Un caractère français serait sans doute le mieux adapté au texte d’un auteur français, ou à un texte se rapportant à la France, indépendamment des questions de genre. Parmi les choix possibles : les Garamond, Jannon, Mendoza, Méridien, Vendôme et bien d’autres encore, mais cette liste succincte offre déjà de multiples possibilités. Le Garamond – avec ses multiples recréations[^2] récentes – a vu le jour à Paris, au seizième siècle. Il doit beaucoup aux formes italiennes et s’ancre dans la période de la Renaissance catholique[^3]. Le Jannon est tout aussi élégant, mais anticonformiste. Il se rattache davantage à la Réforme qu’à la Renaissance et son créateur, le Français Jean Jannon, était protestant, ce qui lui valut d’être persécuté toute sa vie. Création de François Ganeau, le Vendôme est un caractère plein d’esprit qui date du vingtième siècle et qui s’inspire largement du Jannon. Le Mendoza, créé à Paris en 1990, puise dans les mêmes sources humanistes que le Garamond. Le Méridien, qui date des années 1950, est davantage dans l’esprit séculier du design industriel suisse du vingtième siècle, même s’il présente des capitales majestueuses, arrogantes même, ainsi que des italiques acérés et gracieux. De surcroît, ces cinq caractères invitent chacun à un design différent, dans la mise en page et la composition du texte, le choix du papier, la reliure, tout comme différents instruments de musique rendent possibles différents phrasés, tempos, modes, etc. Même les pays qui possèdent leur alphabet propre – comme la Grèce ou la Thaïlande – s’inscrivent dans la même tradition multinationale de design.
+
+Néanmoins, certains caractères expriment plus que d’autres l’esprit d’un pays. Par exemple, parmi les dessinateurs américains de caractères, Frédéric Goudy est connu pour être le plus américain. Un typographe scrupuleux ne choisirait pas un caractère typographique dessiné par Goudy pour mettre en page – par exemple – un extrait de la constitution canadienne ou mexicaine.
+
+On pourrait consacrer toute une vie à ce sujet qui, pour les typographes sérieux, constitue une source intarissable de découverte et de plaisir.
+
+### 6.5 La page multiculturelle
+
+La cohérence est l’une des formes de la beauté. Le contraste en est une autre. Une belle page et même un beau livre peuvent être composés du début à la fin avec un seul caractère et dans un seul corps. Mais la beauté peut aussi procéder de la plus grande diversité, telles une forêt équatoriale ou une ville moderne. 
+
+#### 6.5.1 Commencer par une seule famille typographique.
+
+La plupart des pages, comme la plupart des documents pris dans leur intégralité, peuvent parfaitement être composés avec une seule famille de caractères. Mais il se peut aussi que la page que vous devez concevoir exige un titre de chapitre, deux ou trois sous-titres, une épigraphe, deux langues différentes, des blocs de citations dans le texte, quelques équations mathématiques, un graphique, plusieurs notes d’explication, des légendes sous des photographies, ainsi qu’une carte. Des familles élargies comme les Legacy, Lucida, Quadraat, Seria ou Stone, offrent alors toutes les ressources nécessaires. Il est également possible d’utiliser la série très étendue de Gerard Unger comprenant les Demos, Praxis et Flora, une famille qu’aucun nom ne rassemble. Chaque composante de cette série comprend une vaste gamme de caractères romains, italiques, avec ou sans empattements, et d’autres variations. Si l’on s’en tient strictement aux caractères de cette famille, on a à la fois de la diversité et de l’homogénéité : de nombreuses formes et de nombreuses forces de corps, mais une culture typographique unique. Une telle approche convient à certains textes, mais pas à d’autres. Néanmoins, vous pouvez mélanger aussi les caractères de façon aléatoire en les tirant de votre chapeau.
+
+Entre ces deux extrêmes se trouve un vaste champ de possibilités où mélanger et assortir se fait de manière réfléchie, un espace de liberté où l’intelligence du typographe parvient à son expression la plus créative. 
+
+#### 6.5.2 Respecter l’intégrité du romain, de l’italique et des petites capitales.
+
+Depuis le milieu du seizième siècle, la pratique courante en vigueur chez les typographes consiste à proposer des caractères dédiés au texte sous la forme de la triade : romain, italique et petites capitales. Parce que certains de ces mariages sont plus réussis que d’autres, il est conseillé – lorsqu’on doit choisir un caractère dédié au texte – d’examiner les dessins du romain et de l’italique à la fois ensemble et séparément.
+
+Il existe plusieurs exemples célèbres où un italique dessiné par un artiste est ensuite associé de manière heureuse et durable au romain d’un autre dessinateur. Ces accords impliquent toujours un dessin d’ajustement et c’est presque toujours l’italique qui est redessiné, celui qui est considéré dans la typographie Post-Renaissance comme le caractère secondaire et « féminin ». Il existe d’autres cas où le romain et l’italique ont été conçus par le même créateur mais à des années d’intervalle. Quoi qu’il en soit, les alliances fortuites, où le romain d’une famille s’apparie momentanément à l’italique d’une autre famille, ne sont jamais très heureuses. Le mélange de petites capitales empruntées à un caractère avec les capitales issues d’un autre caractère est encore plus hasardeux.
+
+Si vous utilisez le romain et l’italique comme à la Renaissance, c’est-à-dire en les traitant séparément, comme des égaux et sans les mélanger sur la ligne, vous aurez davantage de latitude. Par exemple, l’italique du Lutetia de Jan van Krimpen se marie bien avec le romain du Romanée, qui lui est postérieur, à condition que l’un et l’autre ne soient pas associés trop intimement. Même si l’un est plus achevé que l’autre, tous deux sont proches en termes de couleur et de structure et l’on voit bien qu’ils sont l’œuvre d’un même designer. 
+
+#### 6.5.3 Traiter les caractères gras pour leurs qualités propres.
+
+Les caractères gras sont originellement issus des gothiques de Gutenberg, qui datent des années 1440. Pendant les deux siècles suivants, ils furent largement utilisés non seulement en Allemagne, mais aussi en France, en Espagne, aux Pays-Bas et en Angleterre, ce qui explique qu’aux États-Unis ils soient parfois commercialisés sous le nom de « Olde English » (vieil anglais). Quant à eux, les caractères gras romains sont une invention du dix-neuvième siècle. L’italique gras est encore plus récent : et il est difficile d’en trouver une version réussie qui soit antérieure à 1950. Les caractères romains gras et les italiques ont été associés *a posteriori* à de nombreux caractères antérieurs et ils ne sont souvent que des parodies des dessins originaux.
+
+Avant d’utiliser un caractère gras, spécialement un gras italique, demandez-vous si vous en avez vraiment besoin. Si tel est le cas, alors efforcerez-vous d’éviter les familles telles que les Bembo, Garamond ou Baskerville, à qui on a ajouté des caractères gras qui ne leur appartiennent pas à l’origine. Vous devriez plutôt choisir une famille de caractères du vingtième siècle comme par exemple l’Apollo, le Nofret ou le Scala, dont le design original inclut une grande variété de graisses.
+
+Si votre caractère de texte courant n’existe pas en gras, vous pouvez chercher un compagnon approprié : l’Aldus d’Hermann Zapf, par exemple, est un caractère du vingtième siècle sur le modèle Renaissance, qui se limite au romain, à l’italique et aux petites capitales. Mais l’Aldus est aussi un cousin proche de la famille Palatino (du même dessinateur) qui inclut des caractères gras, dont le texte composé en Aldus s’accommode très bien.
+
+Des résultats tout aussi intéressants peuvent souvent être obtenus en allant chercher beaucoup plus loin. La fonction normale d’un caractère gras est de contraster avec le texte en romain. Si le caractère gras est utilisé avec parcimonie, que romain et gras ne sont pas excessivement associés, alors une différence de dessin peut valoir une différence de graisse. Sous ces conditions, le typographe est libre de choisir les caractères romains et les caractères gras qu’il souhaite utiliser pour leurs qualités propres, en cherchant la compatibilité avant tout, plutôt que de chercher des affinités génétiques.
+
+Un texte peut être composé en Sabon par exemple, avec le Zapf International pour caractère de titrage et ses versions demi ou extra-gras pour les sous-titres et les titres courants. Ces caractères ont des structures et des pédigrées très distincts. Mais le Sabon a la tranquillité et la fluidité essentielles à la composition de textes, tandis que la vitalité du Zapf International en fait un bon caractère de titrage – une vitalité qui persiste même dans les dessins les plus gras. Les caractères gras dont la structure est proche du Sabon ont souvent l’air évasés et déformés.
+
+Les typographes du quinzième siècle – Nicolas Jenson par exemple – ne mélangeaient guère les caractères, sauf lorsqu’ils mélangeaient les langues. Ils adoraient la régularité dans la page. Le romain gras est un appendice dont ils se passaient volontiers. Si vous utilisez l’un des beaux caractères inspirés du romain simple de Jenson et que, malgré tout, vous cherchez à l’embellir par l’ajout d’un caractère gras, vous pouvez toujours envisager l’utilisation de l’équivalent d’un gras pour Jenson. Or les seuls caractères foncés qu’il a gravés sont des gothiques.
+
+#### 6.5.4 Choisir un caractère de titrage qui renforce la structure visuelle du texte.
+
+Les caractères de titrage, les caractères pour très grands corps et les scriptes peuvent être sélectionnés à peu près comme on sélectionne les caractères gras. La similitude incestueuse est rarement une nécessité, mais l’empathie et la compatibilité s’imposent souvent. Si beau soit-il, un caractère comme le Bodoni Bauer – avec ses forts contrastes et sa construction géométrique – a peu à offrir en tant que caractère de titrage lorsqu’il est associé à un texte composé en Garamond ou en Bembo, qui présentent de faibles contrastes et une structure essentiellement calligraphique. L’association Bodoni/Baskerville est beaucoup plus heureuse, le Bodoni n’étant pas une négation du Baskerville mais plutôt une exagération. 
+
+#### 6.5.5 Coupler les caractères avec et sans empattements selon leur structure interne.
+
+Quand le texte courant est composé avec un caractère à empattements, un caractère sans empattements apparenté est souvent utile pour les autres éléments contextuels, comme des tableaux, des légendes, ou des notes. Pour les textes compliqués, comme des définitions de dictionnaires, il peut être nécessaire de mélanger des caractères à empattements et des caractères sans empattements dans une même ligne. Si vous avez opté pour une famille incluant un équivalent sans empattements, vos problèmes se trouvent résolus. Mais de nombreuses unions heureuses entre caractères à empattements et sans empattements ne demandent qu’à être célébrées.
+
+Supposons que votre texte principal soit composé en Méridien – un caractère avec empattements, romain et italique, conçu par Adrian Frutiger. Il convient d’abord de rechercher si, parmi les créations de Frutiger, il existe une linéale apparentée. Frutiger est un dessinateur de caractères prolixe, qui offre un grand choix de caractères avec et sans empattements. L’Univers est sa linéale la plus utilisée. Mais un autre caractère sans empattements – celui auquel il a donné son nom – est structurellement plus proche de Méridien pour lequel il est un bon compagnon.
+
+Le Syntax de Hans Eduard Meier est une linéale dont la structure se distingue sensiblement du Frutiger et de l’Univers. Elle s’inspire de formes Renaissance, comme celles du Garamond. Elle se marie bien avec les Garamond Stempel et Adobe ou le Sabon – autre descendant de Garamond dessiné par Jan Tschichold, contemporain et compatriote de Meier.
+
+Si vous optez pour une linéale plus géométrique, comme le Futura, un caractère renais-sance ne sera pas le compagnon idéal. De nombreux romains inspirés du travail de Bodoni s’accordent mieux à l’esprit du Futura. Ils tendent davantage à la pureté de la géométrie qu’au mouvement de la calligraphie.
+(retour:)
+*Les traducteurs remercient Christophe Kechroud-Gibassier pour sa lecture et ses conseils.* 
+
+[^1]: Le corps exprime la taille de la lettre. En PAO, 1 point typographique vaut 0,353 mm. [N.d.T.] 
+[^2]: En anglais : *revival*. Sur ce point de lexique, cf. John Downer : « Call it what it is », *Tribute*, 2003. [N.d.T.] 
+[^3]: Pour plus de précision touchant le Garamond, nous renvoyons le lecteur à Michel Wlassikoff, « Garamond. Quelques éclaircissements sur un caractère typographique qui n’a pas fini de révéler ses secrets », in *Étapes graphiques*, nº 203, avril 2012, Paris, Pyramid, 2012, p. 16–25. [N.d.É] 

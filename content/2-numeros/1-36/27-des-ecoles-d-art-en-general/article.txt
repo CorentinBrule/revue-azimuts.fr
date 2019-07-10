@@ -1,0 +1,74 @@
+Titre: Des écoles d’art en général et de l’École supérieure d’art et design de Saint-Étienne en particulier
+----
+Auteur: Emmanuel Tibloux
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 337–344
+----
+Informations: Article paru dans *Azimuts* nº 33, 2009
+----
+Biographie: Emmanuel Tibloux est né en 1966. Après des études à l’École normale supérieure de Fontenay/Saint-Cloud, il a été directeur de l’Institut Français de Bilbao et directeur de l’École régionale des beaux-arts de Valence jusqu’en 2007. Il est actuellement directeur de l’École supérieure d’art et design de Saint-Étienne. Emmanuel Tibloux a également été commissaire d’expositions pour la Biennale Internationale Design de Saint-Étienne en 2008 et 2010, a collaboré à diverses revues (*ArtPress*, *L’infini*, *Lignes*…) à l’édition des œuvres de Georges Bataille (Gallimard, Pléiade, 2004) et publié sous le pseudonyme de Virgile Tavernier, un roman (*Le déclin de la beauté*, Gallimard/Digraphe, 1994)
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2011
+----
+Texte:
+Sans doute aucun projet d’école d’art particulière ne peut-il faire l’économie d’une réflexion sur ce qu’est fondamentalement une école d’art. Dans le contexte actuel de réforme des enseignements supérieurs artistiques et suite à la publication récente du rapport de l’Agence d’Évaluation de la Recherche et de l’Enseignement Supérieur (*AERES*[^1]), d’évaluation prescriptive portant sur la possibilité d’attribution du grade de Master aux titulaires du *DNSEP* délivré par les écoles d’art, une telle réflexion est un préalable d’autant plus indispensable que la spécificité des écoles d’art dans le champ de l’enseignement supérieur ne semble pas toujours clairement perçue.
+
+### 1. L’enseignement en école d’art
+
+L’enseignement en école d’art est un enseignement à la création. Les principes qui le régissent ont ceci de particulier qu’ils renversent, ou du moins mettent en question, trois grandes oppositions hiérarchisées qui commandent la conception occidentale de l’enseignement, en particulier la conception de l’enseignement supérieur, dont l’université est le lieu d’élection.
+
+*1.1* À la logique cumulative qui régit la plupart des systèmes d’enseignement, les écoles d’art répondent par une logique expérimentale, qui favorise l’audace et la créativité et tient l’erreur et l’errance pour des moments nécessaires dans le processus de formation du sujet étudiant.
+
+*1.2* Au cloisonnement des disciplines et des spécialités, qui induit un système d’évaluations individuelles, elles opposent un souci d’appréhension globale et l’exigence d’un véritable fonctionnement collégial, en tenant les tensions et les différends inhérents à ce genre de fonctionnement pour des moments féconds dans l’élaboration du jugement.
+
+*1.3* Au primat métaphysique de l’intelligible sur le sensible et de la théorie sur la pratique, qui informe là aussi toute la conception occidentale de l’enseignement, elles répondent non pas par un strict renversement, qui se contenterait de produire des grands sensibles et des praticiens ignorants, mais en soutenant, notamment à travers un corps enseignant composé d’artistes et de praticiens lucides de leur discipline, que l’intelligible ne se présente jamais indépendamment de sa forme sensible et que la théorie n’a de sens et de valeur qu’à s’éprouver dans la pratique.
+
+Ces trois traits distinctifs peuvent se résumer sous un trait fondamental, qui permet de dégager plus fortement la spécificité des écoles d’art dans le champ de l’enseignement supérieur: c’est qu’à la différence de l’université, la finalité de l’enseignement qui y est dispensé ne réside pas dans l’acquisition de connaissances mais dans l’apprentissage de savoirs, non pas dans le rapport à un objet mais dans le développement des capacités du sujet[^2] et plus précisément dans le développement de la capacité du sujet à s’auto-produire.
+
+C’est la raison pour laquelle les écoles d’art, loin d’être à la traîne, sont aux avant-postes dans la professionnalisation de leurs étudiants: elles sont parfaitement en prise sur les mutations actuelles de la société et de l’économie qui conduisent à indexer ce que les économistes appellent l’employabilité, non plus tant sur le niveau des connaissances et la capacité à occuper une fonction préexistante que sur la maîtrise des savoirs et la capacité à inventer son propre emploi.
+
+### 2. La recherche en école d’art
+
+Ces données contribuent également à spécifier la recherche telle qu’elle peut être développée dans les écoles d’art. Il importe à cet égard de distinguer deux niveaux de recherche.
+
+À un premier niveau, la recherche en école d’art est immanente aux études. S’il est sans doute abusif de parler de recherche lors des trois premières années du cursus, cela ne l’est plus à partir de la quatrième année, au cours de laquelle l’étudiant est amené à amorcer le projet plastique qu’il soutiendra en vue de l’obtention de son diplôme de fin d’études. Le caractère intrinsèquement expérimental de la démarche, sa mise à l’épreuve des regards et des jugements croisés du collège d’enseignants dans le cours de l’élaboration du projet, puis d’un jury extérieur lorsque le projet est considéré comme achevé, concourent à configurer le travail de l’étudiant selon un protocole en trois temps qui est celui-là même de la recherche: hypothèse(s), développement et mise à l’épreuve méthodique de celle(s)-ci, validation du résultat par une instance *ad hoc*.
+
+Au-delà de cette recherche immanente aux études, deux conditions sont réunies dans les écoles d’art pour le développement d’une recherche spécifique de niveau supérieur, distincte et complémentaire à la fois de la recherche académique (université) et de la recherche-développement (entreprise): la recherche-création. Ces deux conditions sont les suivantes:
+
+*2.1* Vocation à travailler d’un point de vue artistique sur l’esthétique, c’est-à-dire sur l’expérience sensible du monde, domaine vers lequel convergent les recherches de laboratoires universitaires de multiples disciplines (sciences humaines, physique, chimie, biologie, ingénierie…) et qui est l’un des plus investis par les départements R&D des grandes entreprises de service (EDF, Orange…). Dans la perspective d’une recherche générale, académique, artistique et industrielle, les écoles d’art sont les plus à même d’apporter la compétence artistique.
+
+*2.2* Concentration de compétences et d’expériences hétérogènes: théoriciens-chercheurs dans diverses disciplines (histoire de l’art, théorie des arts, philosophie, sociologie, économie…), artistes (eux-mêmes se divisant en plusieurs catégories selon le(s) medium(s) de prédilection: peinture, sculpture, photographie, vidéo, multi-média…), designers (produit, mobilier, espace, graphiques, services…), écrivains. La capacité de réunir et de mobiliser, dans un même lieu et autour d’un même objet global (l’expérience sensible du monde), des compétences et des expériences hétérogènes, est unanimement considérée comme un élément favorable à une recherche féconde et innovante.
+
+### 3. L’École supérieure d’art et design de Saint-Étienne (Esadse)
+
+Tant par son histoire que par sa mutation en cours sous la forme de son intégration à la Cité du design, l’Esadse est appelée à incarner ces principes et à être en prise directe sur la grande transformation économique et sociale des temps présents. Fondée en 1803 sous le nom d’École de dessin, rebaptisée École régionale des arts industriels en 1884, École régionale des beaux-arts en 1923 puis École supérieure d’art et design en 2006, l’Esadse est depuis son origine étroitement liée à l’essor industriel et au développement économique de la ville. Son histoire épouse celle des arts industriels et met en jeu toutes les tensions qui s’y rattachent: art et économie, esthétique et fonctionnalité, souveraineté et commande, beaux-arts, arts appliqués et arts décoratifs, art et design.
+
+Loin de river l’école au passé, l’assomption de cette tradition est au contraire la meilleure façon d’ouvrir l’école aux grands enjeux contemporains. Si la phase actuelle du capitalisme est indiscutablement celle du post-taylorisme et plus généralement de l’au-delà du mode de production industrielle tel qu’il se met en place au XIX<sup>e</sup> siècle, elle n’en poursuit pas moins un processus qui s’engage au 19 e siècle et se noue autour de la question des arts industriels: celui d’un intérêt déclaré par le monde économique pour les valeurs et les processus issus du monde artistique. Qu’on fasse le «portrait de l’artiste en travailleur» pour s’intéresser ensuite au «travail créateur[^3]», qu’on spécifie le capitalisme sous l’aspect de son «nouvel esprit[^4]» ou qu’on le qualifie de cognitif[^5] ou d’esthétique[^6], on tourne toujours autour du même processus qui est au cœur même du capitalisme actuel: celui de la mobilisation économique de la créativité.
+
+À cette nouvelle donne les écoles d’art peuvent évidemment rester indifférentes en campant sur la position de l’autonomie du champ artistique ou en misant sur le développement conjoint du marché de l’art, des réseaux de diffusion et des politiques des publics. Parce que la question du rapport à l’industrie et à l’économie travaille l’école de Saint-Étienne depuis son origine; parce que je considère que la mission d’un établissement d’enseignement supérieur est de former des sujets à connaître, habiter et rendre plus viable le monde auquel ils seront appelés à prendre part après l’école; parce qu’enfin l’époque actuelle fait de la créativité, qui est la matière même des enseignements et de la recherche en école d’art, un enjeu économique et social de première importance, je place au contraire cette nouvelle donne au cœur de mon projet pour l’école de Saint-Étienne.
+
+Face à la mobilisation générale de la créativité, à des fins non seulement économiques mais aussi sociales et plus largement anthropologiques, deux orientations ou deux stratégies sont possibles: celle du consentement et celle de la critique[^7]. C’est à la mise en œuvre de ces deux stratégies que l’école a vocation à préparer, en s’appuyant sur une double articulation/tension: entre les deux filières art et design d’une part, entre l’école et la Cité du design d’autre part.
+
+*3.1 Art et design :* S’ils désignent assurément des territoires distincts dans le champ de la création, s’ils orientent des devenirs et préfigurent des parcours professionnels pour les étudiants, ces deux noms ne s’épuisent pas dans la circonscription de territoires et l’orientation professionnelle: ils polarisent aussi deux grands processus de subjectivation et deux types de stratégies face aux nouveaux enjeux de la créativité. Du côté de l’art: un travail de recherche de formes et de processus qui se dérobent à l’usage et à la mobilisation économique générale de la créativité tout en interrogeant et en déconstruisant cette logique. Du côté du design: un travail de recherche de formes et de processus qui place au premier plan la question de l’usage et des modes de vie et mobilise la créativité au service d’un monde plus viable, soit dans l’acceptation des modèles économiques actuels, soit dans leur remise en cause quand ils sont considérés comme néfastes au regard de la viabilité du monde.
+
+*3.2 L’école et la Cité du design :* Plate-forme de recherche et de diffusion dédiée au design envisagé comme outil de réflexion et d’anticipation des mutations sociales et des dynamiques économiques, la Cité du design est une émanation exemplaire de la convergence actuelle des champs artistique et économique. Elle constitue à ce titre un éco-système remarquable pour la mise en œuvre du projet esquissé ici. D’un côté elle permet à l’école de bénéficier de tous les stimuli, partenaires et données que ses infrastructures et ses réseaux lui permettent de capter; de l’autre elle constitue un terrain d’observation et d’expérimentation *in vivo* des nouvelles formes et des nouveaux enjeux de la créativité – soit ce qui est sans doute le rêve de toute école d’art et plus largement de tout établissement ayant vocation à développer la recherche expérimentale: un laboratoire-monde.
+
+[^1]: [aeres-evaluation.fr](www.aeres-evaluation.fr)
+
+[^2]: Cette distinction, usuelle en herméneutique, est notamment développée par le philosophe André Gorz dans *L’immatériel. Connaissance, Valeur et Capital*, Paris, Galilée, 2003.
+
+[^3]: Pierre-Michel Menger, *Portrait de l’artiste en travailleur. Métamorphoses du capitalisme*, Paris, Le Seuil, 2003 et *Le travail créateur. S’accomplir dans l’incertain*, Paris, Gallimard-Le Seuil-Éditions de l’EHESS, 2009.
+
+[^4]: Luc Boltanski et Ève Chiapello, *Le nouvel esprit du capitalisme*, Paris, Gallimard, 1999.
+
+[^5]: Yann Moulier Boutang, *Le capitalisme cognitif. La nouvelle grande transformation*, Paris, Amsterdam, 2007.
+
+[^6]: Olivier Assouly, *Le capitalisme esthétique*, Paris, Le Cerf, 2008.
+
+[^7]: Voir sur ce point, Laurent Jeanpierre, «L’art contemporain au seuil de l’entreprise», *Valeurs croisées*, Les Ateliers de Rennes, Biennale d’art contemporain #1, Les Presses du réel, 2009.

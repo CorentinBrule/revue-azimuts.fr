@@ -1,0 +1,162 @@
+Titre: La machine de Tuning
+----
+Auteur: David-Olivier Lartigaud
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 59–72
+----
+Biographie: David-Olivier Lartigaud est spécialisé en théorie et pratique des nouveaux médias. Il est professeur à l’ESADSE où il dirige avec François Brument le RANDOM (lab). Chargé de cours à l’UFR d’arts plastiques et sciences de l’art de l’université Paris 1, il fut organisateur des colloques internationaux «Programmation orientée art 1 & 2» à la Sorbonne, en 2004 et 2007. Il a été responsable, de 2003 à 2007, de la ligne de recherche «Sens et usage de la programmation informatique en art» et coordonne actuellement la ligne de recherche «Objectiver», toutes deux soutenues par la DGCA. Il a récemment dirigé la publication d’*ART++* aux éditions HYX (2011) et a contribué à l’ouvrage *Search Terms: Basse déf.*, sous la direction de Nicolas Thély, aux éditions B42 (2012).
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2015
+----
+Texte:
+(image: edelweiss.jpg class: medium caption: )
+
+##### Ça circule. Ça tourne. Ça luit. Ça chauffe. Dans la tour en furie du PC moddé, les six ventilateurs à plein régime peinent à refroidir les ships overclockés. Les pales frappent l’air violemment, hurlant un sifflement strident. Au cœur de la caisse bourrée de cathodes rougeoyantes, la carte graphique est plongée dans la lave en fusion. Les multicœurs souffrent pour afficher les millions de polygones sur les moniteurs 3D. De son fauteuil, le joueur essoufflé, égaré sur une planète désertique, tente d’échapper à une horde de mechas hostiles. Au bout de la map, la délivrance. Mais alors qu’il s’apprête à bondir pour rejoindre son QG salvateur, un boss gigantesque, auréolé d’une myriade de drones serviles, surgit du sol. Le joueur tente un frag massif, le doigt crispé sur la gâchette. Les subwoofers explosent. Les décibels passent le seuil de la douleur. Le fracas de la bataille est épique, la tôle se tord et se perce, les jaillissements de flammes sont titanesques. Les HP tremblent, le bureau tremble, le salon tremble, le joueur vibre… Un coup de sonnette. Le joueur est forcé à la pause. Il s’extirpe, moite, abasourdi, chancelant jusqu’à la porte d’entrée. Bonsoir. Bonsoir. C’est le voisin du dessus qui n’en peut plus. Il faut dire qu’il n’aime pas beaucoup les basses…
+
+### Starter
+
+Un PC tuné, moddé (de *modification*), c’est l’exagération. C’est une machine speedée sous stéroïdes. Poussée aux limites, elle doit livrer l’impossible. Tout y est plus gros, plus démonstratif: elle impressionne, inspire le respect… peut-être même la crainte.
+
+Rembobinons. On a beau chercher, écumer le Web, l’histoire du *modding* n’a pas été écrite. Certains voient l’origine dans l’Apple I, d’autres situent cette pratique aux sources mêmes des premiers ordinateurs, d’autres encore estiment que le *modding* est né au début des années 1990… Pas très précis. Si l’on distingue les inventeurs de micro-ordinateurs (comme François Gernelle ou Steve Wozniac) des «modifieurs» de machines, la pratique semble plutôt avoir vu le jour dans les années 1980 avec les premiers bricolages d’ordinateurs domestiques tels le Commodore 64, l’Apple II ou les PC balbutiants (car le *modding* de super-calculateur était une pratique, on sans doute, peu répandue). De l’ajout de cartes à la greffe d’extensions bidouillées, les ordis d’antan ont vite perdu leur pucelage. Mais c’est les PC qui prirent le plus cher: avec leurs panneaux dévissables, et leur ports accueillants, ils étaient faits pour être ouverts et recevoir des cartes et interfaces diverses.
+
+### Turbo
+
+Et puis un jour, un bouton *Turbo* germa sur les 286, juste à côté du *Reset*. Quoi? On pouvait faire tourner le processeur de sa machine plus ou moins lentement! Hé! On passe direct en turbo[^1], mec. En y regardant de plus près, on découvrit effaré que les constructeurs réduisaient volontairement la vitesse de cadençage de leur proco pour en conserver la stabilité. Les frileux! L’*overclocking* était né. Overclocker sa machine permet de la rendre plus rapide, jusqu’à 50 % sur certains modèles. Un petit tour par le BIOS, on multiplie le FSB (Front Side Bus2) et le tour est joué, aux risques et périls de celui qui le fait, évidemment. Car le problème de la petite opération, c’est le dégagement de chaleur. Un processeur accéléré peut chauffer jusqu’à cramer, il risque de faire n’importe quoi (erreurs de calcul, microarchitecture en folie…) ou même, pire, il peut ralentir! Pour parer à ça, il faut refroidir avec de l’air, de l’eau ou, allons-y, de l’azote liquide. Ces systèmes de refroidissement prennent beaucoup de place car plus ils sont gros, mieux c’est: un proco glacé à -50 °C, ça tient le choc[^3]. Alors il faut aménager ou faire péter la caisse. Allez, on sort le matos.
+
+(image: corsair_ln2.jpg caption:)
+
+### Mécanique des fluides
+
+Évidemment, les constructeurs (Cooler Master, Antec, Aquacomputer, Corsair, Bitspower…) ont flairé la niche! Vous voulez des gros tubes de refroidissement? Des ventilos à faire décoller les tables? Vendu! Le ventilateur devient propulseur, hélice, moteur à réaction. Pourtant, un bon ventilateur doit être le plus stable et le plus silencieux possible… On s’en tape! L’imaginaire associé est celui de la mécanique aéronautique ou spatiale, de la vitesse et des moteurs assourdissants, c’est un monde de chrome et de voyage galactique, de bruit et de fureur. Même les panneaux de contrôle des ventilateurs deviennent des morceaux de bravoure. On croirait ces vieux autoradios LCD avec leurs petites animations inutilement complexes, ou de véritables tableaux de bord: surveiller la température de son proco devient plus technique que de se poser sur Tchouri.
+
+(image: mods.jpg class: large caption: légende?)
+
+Côté hydraulique, c’est la surenchère aussi. La tour se remplit de tuyaux transparents où circulent divers fluides. Exacerbés, luisants, gonflés comme des bodybuilders, ces tuyaux anarchiquement enchevêtrés, ou rigoureusement organisés, montrent le génie du moddeur. C’est l’esthétique de l’«usine à gaz». C’est aussi les circonvolutions du cerveau, la machine se rapproche du vivant ou d’une sorte de mutant avec sa circulation sanguine externe et son bulbe hypertrophié: de la puissance de calcul brute.
+
+Mais qu’on ne s’y trompe pas, ce n’est pas de l’eau ou de l’air qui circule vraiment dans tout ça: c’est de la testostérone. Par ces tuyaux, ces vrombissements, le nerd se sent mâle, enfin. Lui, chétif, boutonneux, à lunette (on caricature à peine[^4]) et maintenant en possession d’une machine ultracool: théoriquement, un vrai filet à pécho les meufs (sauf que dans le coin, à cinq mètres alentour du bureau, y en a pas beaucoup…). Mais, surtout, il se sent plus alpha dans la tribu des geeks. Quand il ira se répandre dans les forums, décrire les performances de sa machine ultra-technique ou qu’il ira la montrer dans des salons ou concours spécialisés, il passera pour un dur, un barré, un vrai ouf.
+
+### Big Show
+
+Car il ne faut pas oublier qu’on est dans du spectaculaire, en direct de la tour du PC. Il faut de la lumière et du bruit. La lumière, c’est les cathodes et les led. L’intérieur d’une caisse s’éclaire comme un concert de rock. Les éléments techniques doivent être mis en valeur mais surtout, il faut que ça raconte quelque chose: une nuit d’acier bleu sur la planète UV6, le rouge orangé incandescent des forges du Mordor, le blanc clinique de THX 1138, le vert fluo d’une seringue du *ré-animator*. Plein de petits bonheurs peuvent compléter l’effet: des disques durs à coque transparente, des cartes mères surmusclées au look futuriste (comme celles du fabriquant ASRock, par exemple), des caisses partiellement ou totalement en plexi et, pour les plus confiants, des ventilos avec led dans les pales qui, durant leur rotation, peuvent afficher des messages ou des anims stylées.
+
+Le son est confié à un bon gros système audio. Des amplis de malade, des enceintes de malade: faut que ça déchire tout, avec l’aide – on s’en doute – d’une carte son balaise qui allège un peu le boulot du processeur.
+
+Pour parachever ce petit monde intérieur, n’oublions pas la pièce maîtresse: la carte graphique. Déjà lookée tuning pour les plus chères, également overclockable, c’est le Koh-I-Noor de la caisse, ne serait-ce que par son prix. Certaines valent dans les 8 000 euros… Autant dire qu’il faut farmer des plombes dans WoW pour se la payer.
+
+Et une fois de plus, les constructeurs se frottent les mains… Jusqu’à l’extinction annoncée. Car tout ça sent la fête de fin de promo. On s’amuse mais on est aussi un peu amer. Avant de tomber dans le sinistre, voyons quand même le morceau le plus goûtu:
+
+### La caisse
+
+C’est le lieu d’expression le plus débridé puisque à la différence des composants internes – qui exigent une certaine rigueur d’installation – pour la caisse, tout est permis. Attention cependant à ne pas confondre le *modding* et le *case modding*. Si les deux passions se rejoignent, elles ne se superposent pas complètement. Celui qui tune son PC cherche la performance technique, le case moddeur, lui, n’a pas besoin de notions informatiques pour se faire plaisir[^5]. C’est de l’habillage, du décor, qui peut même s’appliquer à des machines bonnes pour la benne. Explication.
+
+### Le case modding
+
+Un PC, dans les années 1980, c’était une «boîte beige», parfois gris clair, parfois marron. Une caisse de métal peinte à l’apparence terriblement administrative. Une boîte pas très intéressante à regarder mais à la taille difficile à ignorer: un bloc d’ennui posé là, sur le bureau. Parfois glissée sous le moniteur, sous la table (pas très pratique pour accéder au lecteur de disquette), la boîte rappelle son origine informatique, statisticienne, industrielle.
+
+Du sérieux, de l’orthonormé, du calcul, du neutre. À croire que la couleur n’était réservée qu’aux grosses machines comme les CRAY **X-MP** et leur rouge Ferrari ostentatoire ou, à l’autre extrémité, aux ordinateurs-jouets. Les *Personal Computers*, eux, restaient tristes, cantonnés aux tonalités fades du veston de l’employé de bureau cherchant à se fondre dans le décor jusqu’à la retraite… Pourtant, ces machines commencent à cracher plus que du *dBase*: des jeux vidéo, de la 3D, de la musique, du réseau et, surtout, des langages de programmation pas si hermétiques que ça. L’univers intérieur se déploie, le hacking est sexy et le potentiel est immense. En comparaison, la caisse semble un peu tirer la gueule. Alors on commence à lui coller quelques stickers dessus (mieux que les magnets qui effacent les disques durs…); puis on ose la peinture. Unie, pour rendre la boîte plus gaie… et pourquoi ne pas tenter des motifs, des dessins, des collages, des scarifications? Le *case modding* est inventé, la surenchère ne s’arrêtera plus. Du clavier repeint à la construction complète d’une nouvelle caisse, le ciel s’ouvre; l’étendue des délires est sans limite, on entame le grand huit du n’importe quoi.
+
+Bon. Pour débroussailler tout ça, il faut prendre le temps de parcourir les milliers de photos en ligne sur le sujet. On voit néanmoins assez rapidement se dégager deux tendances: ceux qui prennent le *case modding* au sérieux et ceux qui s’en moquent.
+
+### Les case moddeurs sérieux
+
+Tous les case moddeurs ne sont pas des clones. Selon les passions de chacun, les références connues, l’habileté manuelle ou technique, une tour peut prendre des aspects carrément différents.
+
+#### Les tatillons
+Suite à une injonction divine ou à un besoin de reconnaissance immodéré, certains moddeurs vont s’investir dans la fabrication d’une caisse ultime. Le projet devient alors un long pèlerinage technique où chaque étape est pesée et documentée, pas à pas. Les mods plus complexes atteignent une renommée quasi mythique à travers les forums: le mod *Dark Blade* de G69T[^6], le *WMD* (*Weapon of Mass Destruction*) de Peter Dickison[^7], *L3p d3sk* de Peter Brands[^8]… Dans ces tours, outre le tuning du matériel, la moindre plaque, grille, patte, vis est étudiée, façonnée, poncée et/ou peinte avec amour. Dans un cas, ce seront les multiples couches de peinture qui donneront à la caisse des reflets inimitables, dans un autre, c’est l’accumulation de détail technique qui bluffera les plus endurcis. On est dans la quête d’une certaine perfection, d’un micro-monde entièrement maîtrisé et optimisé. Mais pas si drôle au bout du compte. Ces mods frisent souvent la prétention, non? C’est de la passion? Ah d’accord.
+
+Dans cette catégorie, certains cherchent également à externaliser les composants de la tour au maximum afin de faire (presque) disparaître la boîte. Ces caisses déstructurées ont l’avantage de pouvoir dévoiler une partie de leur organologie subtile. Du beau travail![^9]
+
+#### Les rétros
+On remarquera une vague rétro de moddeurs portée essentiellement par le courant *steampunk*[^10]. Entre H.G. Wells et Docteur Who, ces réalisations nous plongent dans un passé modifié à base d’ordinateurs à vapeur, de cadrans multiples, de souris en cuivre et de claviers en pierre. Plutôt plaisants, parfois troublants d’imitation et de patine; avec ces mods, on se croirait chez Robida ou dans les années 1930, en Égypte ancienne ou chez les Incas. On se demanderait presque pourquoi tous ces trucs électroniques n’ont pas été inventés plus tôt. C’est cinématographique. L’uchronique, on marche ou pas.
+
+#### Les garagistes 
+On dirait que certains se plantent carrément. Que le gars a commencé à réparer le pot de sa bagnole puis l’a remonté par erreur sur son autre caisse, celle du PC. Les mods qui citent directement leurs confrères tuneurs de GTI ne sont pas si fréquents que ça. Ils donnent des mélanges expressifs quoique incertains. On est dans de l’objet intermédiaire. Est-ce un moteur à cylindre en V? Un réservoir de Ducati? Un chopper en réparation? Le rapprochement entre les deux tunings est si évident que la passerelle devait être faite. Mais est-ce qu’on y marche dans les deux sens? Dans les moteurs de leurs tires, les tuneurs collent-ils des Core-I7 pour réguler l’injection?
+
+#### Les maquettistes
+Là, c’est l’ordinateur monde. La caisse devient immersive. Avant même d’allumer la bécane, on est plongé dans un univers particulier: un niveau de *Doom*, une architecture futuriste ou la centrale de Tchernobyl. Eh si! Le mod *S.T.A.L.K.E.R*[^11] est une maquette fidèle de la centrale explosée minutieusement reconstituée par un ado de 16 ans. Pas très pratique, mais ce n’est pas le propos: le moddeur Hiroto Ikeuchi, lui, va tellement loin dans ses micro-scènes que l’ordinateur s’éclipse presque totalement. L’écran est à moitié couvert de morceaux de mini-architectures, le clavier n’est plus vraiment accessible et des personnages déambulent un peu partout sur le bureau. C’est de l’installation. Entre art brut et culture pop, on est dans des formes extrêmes de *case modding* où l’objet de base, l’ordinateur, est oublié, enseveli. Est-ce une manière de faire advenir les mondes virtuels? Incantation? Injonction? Est-ce pour signifier que l’on se sent mieux dans les jeux vidéo que dans la vraie vie? On est assurément dans le registre de l’inquiétude, dans une fuite de la réalité (exorcisation du nucléaire, pour le mod sur Tchernobyl) vers une petite parcelle de fiction.
+
+(image: hiroto_ikeuchi.jpg class: large caption:)
+
+#### Les sculpteurs
+La caisse réaffirme son côté objet. On ne veut plus l’oublier, on veut la rendre sculpturale. Le mod *The Shryne*[^12] de Love Hultèn ou les mods *Ténuis* de G-tek[^13] sont bien représentatifs de ce courant qui semble militer pour un design autre que le fonctionnalisme industriel. On notera que dans ces créations, le plastique est généralement une matière honnie au profit du bois et du métal. S’il y a plastique, il est patiné ou travaillé pour imiter d’autres matières. Définitivement, il apparaît comme une matière sans noblesse qui ne satisfait pas l’utilisateur. On le maquille ou on le remplace par d’autres matériaux. Mais quel intérêt de faire croire qu’un ordinateur est en marbre ou en ronce de noyer? C’est toute la question du faux dans le *modding*.
+
+#### Les transformistes
+Nombres de moddeurs se spécialisent dans la transformation. Tu crois que c’est une console Nintendo? Faux! C’est un ordinateur moddé. Tu crois que c’est une boîte de corn-flakes? Faux! c’est un ordinateur moddé. Tu crois que… C’est bon, on a compris. L’intérêt de l’exercice est limité quoique parfois techniquement difficile. Mais cette fascination pour le faux, l’objet trompeur, le matériau imité est une constante du *modding*. Est-ce lié à l’ordinateur lui-même, machine qui peut tout simuler? De la simulation, on glisserait à la dissimulation. La caisse, qui cache les organes de la machine, veut d’abord imiter autre chose puis devient elle-même cachée par une autre.
+
+#### Les rateurs
+Ils sont nombreux, les mods approximatifs. Mal fichus («c’est mon premier!»), mal finis («pas eu le temps», «plus l’envie»), ils peuplent Internet et probablement les greniers et les poubelles. Après tout, certains entretiennent des jardins potagers vermoulus ou passent des heures à ne rien prendre à la pêche. On n’est pas forcément bon dans son hobby… et heureusement, d’ailleurs. On se détend, là, on lâche la pression, on se fait plaisir[^14].
+
+Bref, on pourrait continuer cette taxinomie mais arrêtons là. Remarquons que cette production hétéroclite génère une forme particulière de critique. On trouve énormément de sites, genre, «Top 10» des meilleurs mods ou des pires. Dans ces billets et commentaires qui tracent les contours diffus de ce que pourrait être le *modding*, on note que ni la technique, ni la qualité esthétique – quoique assez directement attaquée – ne sont les objets essentiels du jugement: c’est la cohérence du projet qui est estimée, l’adéquation entre forme et fond ainsi que la puissance d’évocation symbolique. Car un processeur, aussi fracassant soit-il, reste un petit carré de céramique. Nous sommes donc face à un phénomène de transposition. La machine doit parler d’elle-même et, par ce fait, de son utilisateur.
+
+### Les case moddeurs narquois
+
+Ils sont les premiers à tourner en dérision leur pratique. C’est d’ailleurs un paradoxe car un PC moddé, même s’il se moque du *modding*, reste un pc moddé. Passons. Pourquoi, donc, cracher dans la soupe? La première raison est certainement le plaisir potache d’oser être plus crétin que les autres. On hérite ainsi d’un castor empaillé[^15] transformé en tour de PC, d’un ordinateur scotché à même le corps[^16], d’une caisse transformée en chiotte bien crade car ce sont «les toilettes de Quake[^17]», de composants noyés dans de la mousse expansée[^18] et de dizaines de tours remplacées par des boîtes de pizza, des cartons d’emballage, des fours micro-ondes, des cages à animaux, des packs de bière, des bouteilles de whisky et même un cercueil[^19]. Cette ménagerie qui se plaît à heurter le «bon goût» oscille entre la distanciation pour pointer le kitsch généré par le *modding* [voir l’article de V. Philizot p. 109], et la destruction en règle de l’imagerie proprette associée aux ordinateurs[^20]. C’est une forme d’éloge du chaotique, de l’approximatif, du bordel, du glauque et du sale. Un pamphlet contre le soigné et le bien conçu avec souvent un effet de «retour de l’organique» considéré comme malsain. Étrangement, d’ailleurs, puisque la nature fournit les «machines» les plus sophistiquées; aucun ordinateur, à l’heure actuelle, ne surpasse l’optimisation énergétique et les capacités du vivant (comme se réparer, par exemple). Pourtant l’organique est traité sous l’angle de la chair à vif, du sang, du purulent et du maladif. Une manière, sans doute, d’exorciser le mariage entre nos corps et le numérique. On est certes dans la citation cyberpunk à la Tetsuo[^21], mais peut-être doit-on y voir avant tout une manière pour le moddeur d’exécrer sa machine, objet monstrueux qui dévore son temps et donc, sa substance vitale. Cette dégradation aspectuelle de la machine est aussi un moyen de montrer que la caisse n’est rien; que ce qui compte vraiment est ce qu’on fait avec. D’où le caractère suspect du design des Macintosh, qui, en surjouant la simplicité, est considéré comme un moyen d’abêtir ses utilisateurs. Le *modding* dégueu d’un PC fait volontairement effet de contraste: on n’est pas chez Apple, ici! On a les mains dans le cambouis, ça sent l’huile et les aisselles mais ce qu’on produit est cool, d’autant plus brillant que cela semble sortir d’un tas d’ordures.
+
+### No sex last night
+
+Et les filles dans tout ça? À part lors de remises de prix sur d’improbables podiums ou comme potiches sur les stands des constructeurs les moins scrupuleux, on ne les croise pas beaucoup. Pas intéressées, elles planent comme un horizon inaccessible sur ce monde largement masculin. Parmi les rares moddeuses, celles qui s’expriment se plaignent d’être immédiatement taxées de «hot» dès qu’elles se manifestent, au détriment d’un vrai jugement sur leur travail[^22]. Désolante tribu de mâles empêtrés dans les clichés machistes. Cette solitude et cette incompréhension de l’autre sexe va même pousser certains moddeurs à transformer leur PC en fille, voire en soubrette à petite culotte visible[^23]… Piteuse Galathée de polystyrène, ce mod *Kana* est certainement un des plus controversé de l’univers du *case modding*. Considéré par certains comme une totale réussite par la qualité de la sculpture, ce mod se retrouve également rangé parmi les pires de tous les temps. La pulsion paraît trop manifeste, mal sublimée. On est à deux pas d’une *sex doll*, pas que nombre de moddeurs n’auraient jamais franchi. Déraisonnable, outrageant pour les femmes transformées une fois de plus en objet, ce mod, par sa naïveté et sa maladresse dérangeante, a le mérite ténu d’exister. Car il en dit long. On n’est pas plongé dans le cybersex mais plutôt dans *Wierd Science*[^24], à la recherche d’une créature idéale, inconnue, imaginée, statique, sous les traits grossiers d’une vision adolescente. C’est un appel de détresse. Soyons durs et moquons-nous de ce moddeur qui brame haut et fort sa misère affective et sexuelle. Soyons doux et imaginons que ce type cherche une présence à ces côtés[^25].
+
+### Judgment day
+
+Et oui, le *Case modding* est une pratique un peu débile, gênante comme une mauvaise blague. Imaginez, vous débarquez chez un ami de courte date. Il vous invite, vous prenez l’apéro et il vous dit: «Ma passion, c’est le *case modding*, tu connais? – Ah non, fais voir!» Il vous conduit jusqu’à son bureau et là, bing, vous découvrez un PC tuné en xénomorphe (le monstre d’Alien) ou en Batmobile (la voiture de Batman). Malaise. Imaginez si vous étiez tombé sur la soubrette en polystyrène.
+
+Et pourtant, certains consacrent encore de précieuses heures, voire des années, à transformer leur PC en autre chose. Le phénomène paraît d’autant plus absurde que l’ordinateur est un objet de consommation rapide. En quelques mois, mémoires, processeurs, moyens de stockage deviennent lents et ne permettent plus de faire tourner les programmes récents. Après quatre ou cinq ans, la machine se réduit bien souvent à un rebut dont l’utilisateur lambda cherche à se débarrasser. Alors quoi, le PC tuné est-il une vanité? Ou une momie? Un embaumement précoce rendant la conservation de cadavre plus acceptable? *Memento mori*.
+
+Le temps se couvre, tout s’assombrit. Extinction des cathodes. Avec la banalisation des portables, des tablettes et de la miniaturisation des composants, le *modding* est appelé à disparaître. Adieu tours gigantesques aux cartes mères si vastes qu’on n’en remplissait jamais tous les *slots*. Ces villes électroniques aux artères new-yorkaises, lisibles comme une carte de Cassini, se transforment maintenant en minuscules parallélépipèdes sans âme. Plus rien à voir, plus rien à changer, plus rien à raconter. La boîte beige est définitivement devenue une boîte noire, plate, lisse, inaccessible. Une dalle froide, la pierre tombale du *modding*. Ok, on peut coller un bel autocollant ou même faire une gravure au laser sur la coque de sa tablette, mais bon, c’est petit bras, c’est peine-à-jouir, juste médiocre.
+
+[^1]: Le terme «turbo», en référence aux voitures, a été globalement mal compris par les utilisateurs: ce n’était pas un moyen d’accélérer le processeur mais de rendre son cadençage compatible avec une ancienne norme de fréquence utilisée notamment pour cadencer certains jeux vidéo. L’imaginaire du bouton turbo est néanmoins resté plus vif que les raisons correctes de son utilisation. Le terme «turbo» a été repris récemment par Intel afin de qualifier la gestion dynamique des processeurs multicœurs (DST).
+
+[^2]: Dans les systèmes les plus récents, le FSB est remplacé par le QPI, ce qui change la manière d’overclocker. Pour plus de détails: [assembler-pc.fr/overclocking-I7-920-classique.html](http://www.assembler-pc.fr/overclocking-I7-920-classique.html) À savoir qu’Intel, par exemple, propose maintenant des processeurs «overclockables». [intel.fr/content/www/fr/fr/gaming/overclocking-intel-processors.html](https://www.intel.fr/content/www/fr/fr/gaming/overclocking-intel-processors.html)
+
+[^3]: Le problème de ce type de refroidissement «extrême» est l’évaporation rapide de l’azote. Il faut réapprovisionner régulièrement (tous les quarts d’heure) le réservoir, à moins d’avoir une citerne branchée sur l’ordinateur. De plus, l’azote liquide a un coût assez élevé. Ceci contribue à réserver ce type de refroidissement à des démonstrations de performances plutôt qu’à un usage régulier.
+
+[^4]: Bien sûr, on caricature. L’auteur du fameux mod *Dark Blade*, G69T (69 comme son année de naissance), était déjà mari et père de famille quand il a réalisé ce projet, de 2004 à 2006. Pour se faire une idée plus précise de l’univers des tuneurs de PC, voir notamment le reportage sur un concours d’*overclocking* à cette adresse: [youtube.com/watch?v=LrsN3r_gVJU](https://www.youtube.com/watch?v=LrsN3r_gVJU). On s’étonnera de l’âge de certains participants, ce genre de pratique n’étant pas réservée à des adolescents mais plutôt à de jeunes adultes et au-delà. Ceci peut notamment s’expliquer par le prix élevé de certains composants, difficilement accessibles pour la bourse d’un adolescent. La population des participants est très majoritairement masculine.
+
+[^5]: On notera que le *case modding* se pratique aussi sur les consoles de jeu. Les résultats esthétiques sont sensiblement identiques, avec une mise en rapport plus directe avec l’univers du jeu vidéo, voire d’un jeu préféré. Le *case modding* de console semble aussi concerner un public plus jeune.
+
+[^6]: [bit-tech.net/modding/2007/10/24/dark_blade_part_1/1/](http://www.bit-tech.net/reviews/modding/dark_blade_part_1/1/)
+
+[^7]: [bit-tech.net/modding/2005/10/19/wmd_g-gnome/1/](http://www.bit-tech.net/reviews/modding/wmd_g-gnome/1/)
+
+[^8]: [l3p.nl](http://www.l3p.nl)
+
+[^9]: Voir notamment les caisses en éditions limitées de www.darwinmachine.com et l’*Edelweiss* de Lessdegrees: [million-dollar-pc.com/systems-2009/special/lessdegrees/pius-edelweiss.htm](http://www.million-dollar-pc.com/systems-2009/special/lessdegrees/pius-edelweiss.htm)
+
+[^10]: Voir, par exemple, cette page: [computersciencedegreehub.com/10-awesome-steampunk-computer-case-mods](http://www.computersciencedegreehub.com/10-awesome-steampunk-computer-case-mods)
+
+[^11]: [thebestcasescenario.com/forum/showthread.php?8183-Project-unit-4](http://www.thebestcasescenario.com/forum/showthread.php?8183-Project-unit-4)
+
+[^12]: [lovehulten.com/shrine.html](http://www.lovehulten.com/shrine.html)
+
+[^13]: [gtek-computerdesign.com/products.html](http://www.gtek-computerdesign.com/products.html)
+
+[^14]: Un aperçu du niveau très inégal des mods peut être consulté, par exemple, sur ce compte rendu de la convention *Gamescom*: [kotaku.com.au/2010/08/the-busty-beautiful-custom-computers-of-gamescom/](http://www.kotaku.com.au/2010/08/the-busty-beautiful-custom-computers-of-gamescom/) De nombreux autres reportages équivalents peuvent être trouvés en ligne.
+
+[^15]: [yourpsychogirlfriend.com/beav/](http://www.yourpsychogirlfriend.com/beav/) Ce mod «Castor» extrême a été produit par une artiste, Kasey McMahon, travaillant à Los Angeles. Le projet est d’autant plus ironique qu’il fait l’objet d’une fiche *Instructables* visant à en expliquer toutes les étapes d’élaboration afin de le reproduire «à la maison». S’il s’agit ici clairement d’un travail provoquant et critique visant à faire connaître son auteur, l’œuvre n’en reste pas moins un mod. Le castor est complété d’un clavier opossum construit sur le même principe.
+
+[^16]: [geekologie.com/2008/10/not-awesome-worst-casebody-mod.php](http://www.geekologie.com/2008/10/not-awesome-worst-casebody-mod.php)
+Comme indiqué dans l’article, l’auteur de cette photographie est inconnu.
+
+[^17]: [envador.com/cases/toiletPC/](http://www.envador.com/cases/toiletPC/) L’auteur de ce mod a été spécialement prolixe dans la décennie 2000 et son site montre nombre d’autres réalisations dont la guitare PC, le barbecue PC ou le PVC PC…
+
+[^18]: [g-news.ch/articles/nhp200nc](http://www.g-news.ch/articles/nhp200nc)
+
+[^19]: Voir notamment les sites [smosh.com/smosh-pit/photos/24-epic-computer-case-mods](http://www.smosh.com/smosh-pit/photos/24-epic-computer-case-mods) et [oddee.com/item_96568.aspx](http://www.oddee.com/item_96568.aspx)
+
+[^20]: Une profanation légendaire, toujours d’actualité, s’intitule le *Macquarium*, bricolage qui consiste à transformer un ordinateur Macintosh en aquarium avec poissons vivants. Nous n’abordons pas dans cet article le modding de Mac, pratique existante quoique plus confidentielle que dans le monde du PC.
+
+[^21]: Pas celui de Katsuhiro Ōtomo (quoique) mais plutôt celui de Shinya Tsukamoto (*Tetsuo, the Iron Man*, 1989).
+
+[^22]: [reddit.com/r/GirlGamers/comments/29s2bp/girls_who_play_gamesmod_pcs_are_so_hot_why_do](http://www.reddit.com/r/GirlGamers/comments/29s2bp/girls_who_play_gamesmod_pcs_are_so_hot_why_do)
+
+[^23]: [sae.cside.com/sae/kat/pc/ern005/ern005.html](http://www.sae.cside.com/sae/kat/pc/ern005/ern005.html)
+
+[^24]: Film de John Hughes sorti en 1985 racontant l’histoire de deux adolescentsqui réussissent à créer une femme «idéale» à partir d’un programme d’ordinateur.
+
+[^25]: Le dessin à la base du projet à été fait par une certaine Kanna Higashi, à la demande du moddeur. Il faudrait bien évidemment creuser pour comprendre l’origine exacte de cette réalisation, ceux qui excède l’ambition de cet article.

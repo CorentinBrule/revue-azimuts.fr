@@ -1,0 +1,29 @@
+Titre: Équipes
+----
+Direction editoriale:
+- annees: 2018–
+	enseignants: Marc Monjou
+- annees: 2012–2018
+	enseignants: Marc Monjou, Samuel Vermeil
+- annees: 2010–2012
+	enseignants: Marc Monjou, Jean-Marie Courant
+----
+Etudiants chercheurs: 
+-  annee: 2018–2019
+	etudiants: Daria Ayvazova, Corentin Brulé, Lorène Ceccon, Cléa Di Fabio, Marion Fraboulet, Samuel Gay, Elizabeth Hale, Camille Lamy, Laura Quidal, Kévin Zanin
+-  annee: 2017–2018
+	etudiants: Daria Ayvazova, Lorène Ceccon, Camille Chatelaine, Céline Chip, Cléa Di Fabio, Elizabeth Hale, Camille Lamy, Marie-Émilie Michel, Laura Quidal
+-  annee: 2016–2017
+	etudiants: Daria Ayvazova, Lorène Ceccon, Camille Chatelaine, Céline Chip, Cléa Di Fabio, Elizabeth Hale, Camille Lamy, Marie-Émilie Michel, Laura Quidal
+-  annee: 2015–2016
+	etudiants: Daria Ayvazova, Lorène Ceccon, Camille Chatelaine, Céline Chip, Cléa Di Fabio, Gwenaël Fradin, Elizabeth Hale, Camille Lamy, Marie-Émilie Michel
+-  annee: 2014–2015
+	etudiants: Yann Alary, Daria Ayvazova, Lorène Ceccon, Camille Chatelaine, Céline Chip, Alice Courilleau, Gwenaël Fradin, Julie Gayral, Camille Lamy, Romain Le Liboux, Marie-Émilie Michel
+-  annee: 2013–2014
+	etudiants: Yann Alary, Léa Barbier, Paul Buros, Timothée Deloire, Joris Favennec, Cécile Galicher, Julie Gayral, Mathilde Gullaud, Adrien Houillère, Romain Le Liboux, Jason Michel, Marie-Caroline Terenne, Léo Virieu Mandrelli
+-  annee: 2012–2013
+	etudiants: Léa Barbier, Paul Buros, Joris Favennec, Cécile Galicher, Mathilde Gullaud, Jason Michel, Fei Qi, Marie-Caroline Terenne, Léo Virieu Mandrelli
+-  annee: 2011–2012
+	etudiants: Bastien Bouvier, Lionel Catelan, Jessy Gemayel, Matthieu Meyer, Thomas Piquet, Léo Virieu Mandrelli
+-  annee: 2010–2011
+	etudiants: Édouard Cabrol, Lionel Catelan,  Audrey Dodo, Bertrand Fèvre, Jessy Gemayel, Louise Pédel

@@ -1,0 +1,102 @@
+Titre: M–Formula, ou Théorie de la marionnette
+----
+Auteur: William Addison Dwiggins
+----
+Type: Texte inédit
+----
+Section: Varia
+----
+Pages: 473–482
+----
+Informations: Texte traduit et présenté par Adrien Vasquez et Samuel Vermeil
+----
+Biographie:
+Adrien Vasquez est designer graphique et type designer. Il travaille à Londres avec John Morgan, avec qui il fonde la fonderie typographique ABYME en 2017.
+
+Samuel Vermeil est designer graphique et enseignant à l’École supérieure d’art et design de Grenoble-Valence. Il a été également responsable du design graphique d’*Azimuts*, revue du post-diplôme Design et recherche de l’École supérieure d’art et design de Saint-Étienne de 2013 à 2018.
+----
+Bibliographie:
+
+- William Addison Dwiggins, *WAD to RR: a letter about designing type*, Department of Printing and Graphic Arts, Harvard College Library, Cambridge, Massachusetts, 1940 
+- Stephen Heller «The man who invented graphic design», *Eye* nº 23, vol. 6, 1996
+- Rob Saunders, *William Addison Dwiggins: «Black & White Smith»*, conférence, TypeCon 2013, [(letterformarchive.org/dwiggins)](https://letterformarchive.org/dwiggins)
+- Paul Shaw, «Tradition and innovation: the design work of William Addison Dwiggins», *Design Issues*, vol. 1, nº 2, MIT Press, 1984, p. 26–41
+- Walter Tracy, *Letters of credit: a view of type design*, Gordon Fraser, Londres, 1986
+- Gerard Unger, «Experimental nº 223», *Quaerendo*, vol. 11, nº 4, 1981, p. 302–24
+- Tiffany Wardle, *Experimental typefaces of William Addison Dwiggins*, Department of Typography and Graphic Communication, University of Reading, 2000 
+- Voir aussi Dorothy van Abbe, *The Dwiggins Marionettes*, Abrams, NY, 1970 et *Stencilled ornement and illustration*, Püterstein-Hingham, 1979
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2014. Images: ©William Addison Dwiggins; ©ed.Random House
+----
+Texte:
+(image: wad-m-formula_1_figA-B.jpg class: medium caption: Fig. A [gauche] et B [droite]. Schématisation des traits du visage d’une marionnette)
+
+##### En 1929, à l’âge de 49 ans, le designer américain William Addison Dwiggins (1880–1956) commence une nouvelle carrière en tant que dessinateur de caractères typographiques, sur l’invitation de la compagnie Mergenthaler Linotype. 	
+
+##### Dwiggins était déjà reconnu à l’époque en tant que calligraphe, typographe et illustrateur, en particulier dans les domaines de la publicité et de l’édition. Atypique et talentueux, il commence également à partir de 1930 à fabriquer avec passion des marionnettes pour le théâtre. Une autre des particularités de son travail est l’utilisation de ce qu’il appelle «épinards géométriques», des ornements qu’il obtient à partir de séries de formes en pochoirs, une technique dont il se servait aussi pour ses illustrations et ses croquis de caractères typographiques. Pour Linotype, il dessine plusieurs caractères, notamment le Metro (1929), un sans serif, l’Electra (1935) et le Caledonia (1939), deux caractères serifs pour la composition de textes longs. Dès 1929, il travaille à plusieurs propositions de caractères pour la composition de journaux, dont aucun ne sera achevé. 	
+
+##### Le développement du caractère expérimental nº 223, une proposition pour un nouveau caractère pour journaux, est documenté dans la correspondance entre Dwiggins et Chauncey H. Griffith (1879–1956), alors directeur typographique à Mergenthaler et responsable du développement du *Legibility Group*, une collection de plusieurs caractères, dont le Ionic nº 5 (1925) et l’Excelsior (1931), conçus spécialement pour et alors utilisés par un très grand nombre de journaux. Nous proposons ici une traduction d’un texte de Dwiggins daté du 3 juillet 1937 et issu de cette correspondance, qui nous donne un aperçu de l’approche imaginative et peu conventionnelle caractéristique de son travail.
+
+(separateur:)
+
+Mémorandum 1. Mes espions rapportent qu’à chaque coin du pays, les imprimeurs qui se disent publicitaires cherchent un caractère typographique qui puisse supporter une bonne charge d’encre sur un papier couché, qui ne bave pas, ne s’étale pas, mais ait l’air net et précis sur ce type de papier. Ils le veulent aussi dans leurs annonces presse, pour obtenir une couleur relativement forte en même temps qu’un aspect fini et claquant.
+(retour:)
+Mémorandum 2. Je relève ces quelques phrases dans l’article de Raymond Hopper que vous m’avez envoyé: «Quels seront les caractères typographiques de demain?»[^1] «Je suis convaincu que la prochaine étape sera … une modification de la beauté qui fut une fois celle de la Grèce et Rome» (je l’espère.) «Les formes classiques auxquelles nous retournerons bientôt – auxquelles nous retournons dès maintenant – ne seront simplement pas celles du vieux et familier Caslon.»
+
+(image: wad-m-formula_2_figC.jpg class: half small caption: Fig. C. «Épinard géométrique», label de couverture pour *The Time Machine* de H.G. Wells [1931])
+(image: wad-m-formula_3_figD.jpg class: half small caption: Fig. D. Frederick Goudy, lettrine)
+
+« … Peu importe … ce qui peut suivre … devra moins à l’imitation traditionnelle du lettrage manuel … Fondu dans le métal, taillé par des machines de précision, imprimé, et non peint … Les lignes dures et propres du processus de gravure; les impressions aux encres sombres même sur papiers lisses et glacés; une familiarité et un amour inné pour la gravure; l’aspect nouveau qui est la marque des productions soi-disant modernistes; tout tend à encourager une forte envie pour quelque chose de brillant, de scintillant. Il y aura un raffinement, une finesse, qui manquait tout à fait au Caslon et au Cloister, aussi charmantes qu’aient pu être leurs formes.»
+(retour:)
+Mémorandum 3. En taillant les têtes de mes marionnettes dans le bois je me suis heurté au problème de devoir projeter le visage d’une jeune fille, de façon à ce que la poupée ressemble vraiment à une jeune fille de 18 ans – traits caractéristiques subtilement modelés, délicats, frais, jeunes – jusqu’aux gens des derniers rangs. (Les vieilles personnes comme nous sont faciles à sculpter et projeter.) J’ai commencé par faire des têtes délicatement modelées. [Fig. A] Celles-ci étaient charmantes à bout de bras, mais leurs qualités féminines n’ont pas été transportées jusqu’aux bancs du fond. J’ai alors fait une découverte. Au lieu de courbes douces pour les joues, etc., j’ai taillé des plans plats avec des bords bien nets. [Fig. B]
+
+Ces traits simplifiés, vus sur scène, se transforment comme par magie en courbes délicatement arrondies et en modelés subtils; et les visages ressemblent alors à ceux de jeunes filles, aussi bien depuis le fond de la salle que des bancs de devant.
+
+(image: wad-m-formula_5_figF-1.jpg class: half small caption: Fig. F «L’essence de la M-Formula fut résumée par Dwiggins ... comme ‹une méthode pour tromper l’œil [en regardant des objets très réduits] lui faisant voir des courbes qui n’existent pas.›» [Kent Lew, sur le forum *Typophile*, 2008, <a href="http://www.typophile.com/node/41687">typophile.com/node/41687</a>])
+(image: wad-m-formula_6_figF-2.jpg class: half small caption:)
+Mémorandum 4. En observant les sortes d’épinards géométriques que j’ai fait pousser comme ornements typographiques, je note que des lignes droites et des courbes géométriques correctement assemblées accomplissent un meilleur effet de grâce et de mouvement que les combinaisons de courbes et de formes fluides. Leur «grâce» est en quelque sorte augmentée – amenée à un niveau supérieur par la qualité angulaire des éléments. De plus, une nouvelle sorte d’énergie et d’excitation est ajoutée au mélange.
+
+[Fig. C] n’est pas le meilleur exemple pour illustrer ce point, mais comparez la «vitalité» (et la «grâce» qui en ressort – qui s’exprime) avec les courbes soigneusement construites de Frederick [Goudy]. [Fig. D]
+
+J’ai longtemps réfléchi aux questions abordées dans les Mémorandum 3 et 4, en vue de découvrir une méthode pour modeler des caractères typographiques autrement que de manière traditionnelle – pour produire dans les mots imprimés les résultats étonnants atteints avec les têtes de marionnettes et les épinards géométriques.
+
+J’ai essayé différents systèmes, et en ai extrait un ensemble de lettres qui, sous la loupe réductrice, montrent une bonne partie du genre de choses que je visais. Cela n’est pas vraiment visible sauf en réduction. La lentille que j’utilise pour la réduction ramène approximativement les dessins à 12 points lorsque la planche est au sol et vous debout.
+
+Ces lettres montrent une anatomie «classique» traitées *à la marionnette*[^2]. Vous verrez la méthode dans les dessins. Elle est plus évidente dans les bas de casse que dans les capitales, mais c’est OK parce que l’essentiel de la personnalité d’un caractère est dans ses b.c. [bas de casse].
+
+On ne peut pas en être absolument sûr, évidemment, [mais] j’ai dans l’idée que ces lettres ne ressemblent à aucun dessin de caractère existant. Elles valent peut-être la peine d’être passées à la photo-réduction. Je pense qu’il y a quelque chose de bien dans cette direction.
+
+(image: wad-m-formula_7_figF-3.jpg class: medium caption: Fig. F «L’essence de la M-Formula fut résumée par Dwiggins ... comme ‹une méthode pour tromper l’œil [en regardant des objets très réduits] lui faisant voir des courbes qui n’existent pas.›» [Kent Lew, sur le forum *Typophile*, 2008, <a href="http://www.typophile.com/node/41687">typophile.com/node/41687</a>])
+
+(separateur:)
+
+### Marionettes + Spinach = Typefaces
+
+Dans ses notes rassemblées sous le titre *M-Formula*, Dwiggins énonce une idée élaborée au fil de ses expériences: à savoir que l’échelle du regard, à l’instar de la vitesse pour les futuristes, modifie la perception des objets, qu’il faut tenir compte de ce phénomène, l’anticiper et en jouer dans l’élaboration d’un dessin de caractère. Ce qui semble ne pas avoir été affirmé au fil des développements ultérieurs, c’est que les formes nouvelles qui émergeaient de ces opérations de réduction/simplification, étaient non seulement efficaces d’un point de vue fonctionnel, mais aussi intéressantes en terme d’invention formelle.
+
+On comprend sans doute plus facilement les relations possibles entre la réalisation de marionnettes de théâtre et la typographie si l’on remplace ce mot typographie, toujours un peu vague, par celui de dessin de caractères. Le caractère devient ici, par le jeu sémantique, un personnage qui s’incarne dans une voix, celle que le dessin dans ses inflexions confie au texte une fois composé. Les caractères typographiques ont des voix. Comme des acteurs, certains parlent fort alors que d’autres murmurent, et la pratique de la typographie consiste souvent en la mise en forme d’un dialogue entre les différentes couleurs et tessitures des protagonistes. Le Caledonia, écrit Dwiggins «a la fluidité et la clarté d’un bon discours, avec juste une touche agréable d’accent écossais»[^3].
+
+Ces considérations générales sur le théâtre typographique ne doivent pas nous transformer en *Cantatrice chauve*. L’intérêt de cette analogie a comme limite une interprétation trop littérale. Néanmoins, écrire c’est aussi produire des sons. Et les questions typographiques rencontrent à cet endroit les questions d’acoustique. Dwiggins «projette» l’image de la jeune fille de sa pièce de théâtre jusqu’aux bancs du fond, comme l’acteur projette sa voix. Il a recours pour cela au stratagème d’une simplification des traits de son personnage (comme les formats de compression permettent aujourd’hui le transport de chansons). Ainsi en va-t-il dans ses projets de caractères expérimentaux. Les marionnettes ne sont-elles pas déjà des personnages en réduction? Les réduire encore serait les transformer en lettre? Sans doute est-ce une part de l’opération exécutée par Dwiggins. 
+
+Pour que les caractères gardent leur expression malgré la réduction, il ne suffit pas de reproduire terme à terme les détails du dessin à différentes échelles[^4]. Dwiggins, pour dépasser cette difficulté, semble s’appuyer sur des expériences antérieures faites dans ses travaux d’illustrateur et concepteur de livres, ce qu’il appelle les *geometrical spinach* (épinards géométriques).
+
+Décors et ornements géométriques sont réalisés librement à l’aide de pochoirs découpés dans un film acétate transparent[^5]. Diverses pièces, signes abstraits, s’assemblent pour former rythmes, motifs et donner corps à des ensembles plus larges et vigoureux. Cette technique de dessin, issue de la tradition typographique du pochoir, est réinterprétée avec la souplesse et la liberté offertes par l’acétate. L’idée qui s’exprime dans cette façon de produire des images est celle qu’une somme d’éléments abstraits formant un tout identifiable – une figure, souvent florale, parfois un paysage – compose, selon la formule, un ensemble autrement signifiant que la seule somme de ses parties[^6]. Cet aller-retour en deçà/au-delà du signe et du sens est un jeu visuel aujourd’hui bien connu. Gerard Unger, familier de l’œuvre de Dwiggins, nous en donne une traduction contemporaine, avec le caractère expérimental *Decoder*.
+
+Il serait possible de développer une autre analogie, encore, entre les éléments du pochoir qui s’agencent de façons diverses et les membres articulés des marionnettes suspendus aux fils qui leur donnent mouvement. Cet exercice du pochoir appliqué à la conception et au dessin de caractère typographique permet à Dwiggins de trouver les formes simples, tendues et expressives qu’il cherche pour son entreprise de réduction des signes. Les signes s’articulent comme les mots et les phrases d’un discours. Il se rejoue ici à l’échelle du signe, au moment de l’élaboration des formes, ce qui est à l’œuvre dans le langage. Articule (quand tu parles)…
+
+(image: wad-m-formula_17_dwiggins_marionettes.jpg class: large caption: Image extraite de *The Dwiggins Marionettes*)
+
+
+[^1]: «What will be Tomorrow’s Type», Raymond Hopper, date et source inconnues.
+
+[^2]: En français dans le texte.
+
+[^3]: Caledonia «has the ease of good clear speech, with just the touch of pleasant Scotch accent» (Steven Heller, «The man who invented graphic design», *Eye* nº 23, vol. 6, 1996, p. 34).
+
+[^4]: Cela sera contredit par la nouvelle technique qui apparaît dans les années 1950, la photocomposition. Est-ce une des raisons de l’abandon de ces expériences?
+
+[^5]: Introduit dans l’industrie en 1934 pour les films photographiques, l’acétate sera aussi utilisé comme sur-couverture de protection dans l’édition.
+
+[^6]: En référence à une loi de la Gestalttheorie.

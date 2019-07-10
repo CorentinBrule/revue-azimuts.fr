@@ -1,0 +1,15 @@
+Titre: Parlement
+----
+Auteur: XML
+----
+Type: Traduction
+----
+Section: Dossier
+----
+Pages: 126-145
+----
+Biographie:
+----
+Disponible: non
+----
+Texte:

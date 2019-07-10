@@ -1,0 +1,5 @@
+Title: Azimuts
+----
+Description: Revue de recherche en design
+----
+Credits: *Design* Gwenaël Fradin

@@ -1,0 +1,109 @@
+Titre: *Call it what it is.* Appelons-les par leur nom
+----
+Auteur: John Downer
+----
+Type: Traduction
+----
+Section: Varia
+----
+Pages: 163–170
+----
+Informations: Présentation et traduction par Gwenaël Fradin et Samuel Vermeil
+----
+Biographie: John Downer est peintre en lettres, spécialisé dans le lettrage à la feuille d’or. Après des études d’art, il commence en 1983 sa carrière de dessinateur de caractères typographiques indépendant. Il écrit sur la typographie et son histoire pour les magazines *Emigre*, *House* et d’autres publications.
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2016. Images: ©Emigre; ©Nick Shinn
+----
+Texte:
+(image: specimen-cover-tribute.jpg class: small caption: *Tribute*, Frank Heine, 2003. Page de couverture du spécimen édité par la fonderie Emigre.)
+
+##### Écrit par John Downer en 2003 à l’occasion de la publication du caractère *Tribute* de Frank Heine par la fonderie américaine Emigre, ce texte accompagne le spécimen de présentation. Le projet de Heine est un hommage très libre à l’œuvre de François Guyot, graveur français établi en Hollande aux environs de 1565.
+##### On peut rapprocher ce type de projet d’autres réalisations de la fonderie Emigre, dont le *Mrs Eaves* de Zuzana Licko. Ce dessin de caractères est lui aussi fondé sur une base historique, le *Baskerville*, mais traduit de façon très personnelle par son auteur à travers le prisme de l’histoire individuelle, psychologique, d’une liaison amoureuse: Mrs Eaves était la maîtresse de John Baskerville; le caractère est le portrait de cette femme à travers les yeux de son amant; dans un jeu de miroir, Zuzana Licko paraît s’identifier, à l’un comme à l’autre.
+##### Tels que les décrit Robin Kinross, les *revivals*[^1] sont apparus en typographie à l’orée du XX<sup>e</sup> siècle avec la nécessité d’adapter les caractères en usage à la nouvelle technologie développée par les machines à composition chaude de Monotype et Linotype[^2]. À chaque grand bouleversement de l’écosystème technique, cette notion réapparaît en prenant des accents différents à travers la réalisation de dessins de caractères dont la nécessité et le projet sont très hétérogènes.
+##### John Downer entre ici dans le détail de ce tableau cubiste.
+
+(separateur:)
+
+Lorsqu’un designer s’inspire – ouvertement ou non – de modèles historiques pour créer un caractère typographique, il semble important qu’il le fasse honnêtement, sans quoi il risque de susciter une polémique. Parmi les nombreuses choses à prendre en considération, on peut mentionner notamment l’obtention des autorisations appropriées et la mention correcte des droits. Et quant à la fidélité au modèle, à l’exactitude historique, à l’opportunité d’une révision, elles peuvent être longuement débattues avec plus ou moins de passions, comme le savent les designers.
+
+D’un côté, lorsqu’un dessinateur de caractères fait l’effort d’expliciter ses sources d’inspiration, il s’expose à la critique et aux limites déontologiques qu’implique le fait de s’approprier le travail d’un autre. D’un autre côté, s’il manque de citer ses sources ou pire, qu’il cherche délibérément à les cacher, il risque de passer pour malhonnête.
+
+Face à ces difficultés, on peut se demander quelle est la bonne marche à suivre. Il me semble qu’il y en a plusieurs.
+
+Pour comprendre les différences fondamentales entre le plagia (habituellement considéré comme mauvais) et la conservation (habituellement considérée comme une bonne chose), observons les divers moyens par lesquels les caractères les plus récents proviennent d’autres dessins, plus anciens. Il existe en effet de nombreuses approches, et les recenser peut s’avérer utile dans l’analyse des pratiques relatives au *revival* en général.
+
+La pertinence d’un *revival* en typographie ne dépend pas seulement du travail entrepris par le designer pour créer une version praticable d’une idée ancienne; elle dépend aussi de ce que le designer ou l’éditeur du caractère peut dire de la genèse de son travail.
+
+Naturellement, le risque de polémique est d’autant plus grand si les informations qui accompagnent la publication d’un caractère sont inexactes ou mensongères. En revanche, si l’histoire du projet et la démarche du designer résistent à l’examen minutieux des historiens et des spécialistes, le nouveau dessin aura de fortes chances d’être considéré comme une contribution bienvenue dans le monde des *revivals* – non pas tant pour la révérence à un modèle typographique que pour la relation qu’il entretient à l’histoire de celui-ci.
+
+Les historiens considèrent l’histoire de la typographie d’une tout autre manière que les dessinateurs et les critiques spécialisés. Cette idée a été développée lors du discours inaugural du congrès de l’Association typographique internationale (ATypI) en 2002 à Rome[^3], par Paul F. Gehl, historien et responsable d’une collection de caractères anciens à la Newberry Library de Chicago.
+
+Dans son discours, Gehl note que les experts en typographie (auxquels j’ajouterai les influents promoteurs de cette activité), sont connus pour communiquer à l’aide de descriptions imprécises et de termes inappropriés. L’introduction par Monotype en 1929 d’une série de caractères sous le nom de *Bembo* – inspirée des premiers caractères romains d’Alde Manuce aux alentours de 1495 – est citée par Gehl pour montrer comment Stanley Morison (le consultant typographique de Monotype) a présenté le *Bembo* de manière inexacte, comme il l’avait déjà fait pour d’autres caractères de Monotype des années 1920 basés sur des sources historiques. Selon Gehl, Morison, «[…] a insisté pour définir ses recréations historiques des années 1920 comme des «reconstitutions» de caractères du début de l’imprimerie alors qu’en réalité, la plupart d’entre elles étaient de nouveaux caractères, remarquables, inspirés par d’anciens tout aussi réussis».
+
+Cette observation parlera aux critiques de dessin de caractères. Car la précision dépend souvent de la sémantique, qui a son importance. Il semble que le terme «reconstitution» aurait pu précisément être employé pour désigner une recréation fidèle qui aurait été gravée à la main et fondue dans le métal; mais ce n’est pas exactement ce qu’il s’est passé lors du processus de création de fac-similés de caractères centenaires. Réaliser une «reconstitution» dans le sens le plus littéral du mot demanderait manifestement un graveur de caractères pour travailler de la même manière et avec le même matériel que l’auteur original. Le terme «reconstitution» s’est inséré dans le vocabulaire typographique courant par héritage et par facilité. Or ceux qui réalisent les caractères numériques ne font aucune gravure, au sens propre du terme; ces caractères doivent être acceptés pleinement comme des recréations des splendeurs du passé.
+
+Le médium numérique n’a pas de matérialité sculpturale. Il permet seulement de réaliser une silhouette, avec les traits caractéristiques d’un caractère produit par la gravure et à l’échelle – exclusive – à laquelle il sera imprimé, en relief, à l’envers et en métal. Or, au lieu de retirer de la matière pour obtenir la forme voulue, le caractère numérique prend forme à l’écran par la modification de ses contours. Donc à proprement parler, une «reconstitution numérique» n’a simplement pas de sens.
+
+Mais ne laissons pas la sémantique nous empêcher complètement de qualifier de manière adéquate les répliques numériques actuelles de caractères historiques. Quand il existe un vocabulaire suffisamment large proposant une terminologie appropriée, alors les descriptions pertinentes sont presque toujours possibles. Pour autant, afin de remplacer un vocabulaire obsolète dont la signification a été perdue ou est devenue erronée, nous avons besoin d’une nouvelle nomenclature, adaptée à l’ère numérique. Faute de mieux, les oxymores tels que «graveur numérique» et «fonderie numérique», qui sont courants dans notre milieu, ont au moins le mérite de posséder le terme «numérique».
+
+On peut dire la même chose du terme «revival» couramment utilisé pour décrire l’actualisation de caractères jamais vraiment tombés en désuétude avant leur adaptation à une nouvelle technique. Qualifier un caractère de *revival numérique *indique que l’original provient d’un support antérieur au numérique, le plus souvent le métal. Réaliser un *revival* en typographie c’est ressusciter un caractère oublié, et non faire du réchauffé à partir d’un caractère toujours en usage. Comme Gehl le notait, «Prenons la résolution de ne pas les appeler ‹reproductions› historiques, ‹reconstitutions› ni même ‹re-designs›, à moins que l’intention soit exactement celle-là: reproduire un caractère qui fonctionne comme l’original».
+
+Plus loin dans son discours à l’ATypI, Gehl remarquait: «De par ma profession de collectionneur, je rencontre souvent des designers, des enseignants et des étudiants en design. Ce que j’ai à dire aujourd’hui est donc conditionné non pas par ma compréhension de ce que vous faites – bien ou mal – en tant que typographes et théoriciens de la typographie, mais par ce que font les designers et étudiants de ce que vous produisez et dites à propos des caractères». Cela dit, quelques définitions pourraient être utiles. Voici celles que je propose. J’ai séparé mes descriptions en deux catégories: l’une pour les dessins qui restent très proches de l’original, et l’autre pour ceux qui s’en inspirent plus librement. 
+
+Le *Tribute* convoque, me semble-t-il, le style français de Guyot principalement comme point de départ d’une œuvre originale de fiction historique – quoiqu’improbable –, avec ses mérites et ses limites.
+
+(image: scotch_roman.jpg class: small caption: Scotch Modern Display, Nick Shinn, 2009. Reconstitution décorative du genre populaire «Scotch», en usage au XIX<sup>e</sup>.)
+
+### 1.
+### Revivals/reconstitutions/réhabilitations
+
+Très proches de leurs modèles historiques (caractères au plomb, poinçons gravés à la main, etc.), réalisés à des fins commerciales ou non, avec le bon dosage de préservation historique et une sensibilité aux qualités propres à l’original – le tout soutenu par de solides connaissances dans l’étude des caractères.
+
+### Anthologies/études/remixes
+
+Étroitement basés sur les dessins de différents caractères réalisés par une seule et même personne, ou gravés par des mains différentes, mais dans un style commun ou un même genre; ils sont une sorte de pots-pourris ou d’aperçus réalisés dans le but de fournir l’«échantillon» d’une production plutôt que la reproduction d’un exemple particulier de celle-ci.
+
+### Imitations/clones/contrefaçons
+
+Étroitement basés sur des succès commerciaux (quelle que soit la technique), ils s’immiscent tardivement dans un secteur du marché qui n’est pas encore parvenu à saturation, en étant souvent un peu plus qu’une mauvaise imitation de ce qui a déjà été jugé par les experts comme un *revival* légitime. Caractères «moi aussi» (*Me Too*), ou caractères «copié/collé» (*copycat*) comme on les appelle, ces projets font preuve d’opportunisme plutôt que d’originalité. Ils ne relèvent pas de ce qu’on peut appeler *revivals* parce qu’ils ne font rien revivre. 
+
+(image: karloff.jpg class: small caption: Karloff, Peter Biľak et Pieter van Rosmalen, 2012. Le projet explore l’alliance de contrastes extrêmes à travers l’hybridation de l’élégance du style Didot et l’outrance des Italiennes décoratives du XIX<sup>e</sup>.)
+
+### 2. 
+### Révisions/réévaluations/réinterprétations
+
+Sortes d’exercices de laboratoire, librement inspirés de réussites artistiques (quelle que soit la technique), souvent sans beaucoup de soucis de leur viabilité commerciale, immédiate ou différée.
+
+### Hommages/tributs/panégyriques
+
+Projets librement inspirés de styles historiques et/ou de modèles particuliers, généralement considérés avec admiration et respect pour leurs mérites évidents, mais réalisés en prenant la liberté artistique de s’écarter des originaux et d’ajouter une touche personnelle – liberté qu’on ne s’accorde pas normalement avec les *revivals* au strict sens du terme.
+
+### Encores/suites/reprises
+
+Projets librement inspirés de succès commerciaux (quelle que soit la technique), à comprendre comme une manière d’explorer encore ou exploiter davantage un genre consacré; traire la vache à lait une fois de plus.
+
+### Extensions/variations/produits-dérivés
+
+Librement adaptés de réussites artistiques ou de succès commerciaux (quelle que soit la technique) et ne propose que des avancées mineures dans un style déjà populaire et convenu; ils sont très semblables à la catégorie précédente.
+
+### Caricatures/parodies/farces
+
+Librement inspirées des caractéristiques principales d’un modèle donné, souvent avec l’humour ou l’ironie comme objectif principal; mais souvent aussi avec l’humour ou l’ironie comme effet involontaire.
+(retour:)
+Il y a des siècles, les interprétations librement adaptées de caractères existants étaient plus faciles à réaliser que les reproductions fidèles parce que le niveau de compétence nécessaire pour produire les poinçons était élevé. Mais à la fin du XIX<sup>e</sup> siècle, l’utilisation du pantographe comme outil pour réaliser poinçons et matrices a éliminé la nécessité du travail manuel du graveur. La vitesse de reproduction des caractères typographiques existants a donc augmenté. La photocomposition a été une autre étape dans l’accélération de la copie, et les fontes numériques peuvent maintenant être copiées en un instant par presque tout le monde.
+
+Aujourd’hui, la facilité avec laquelle nous réalisons des copies numériques de caractères gravés il y a des siècles nous permet de les traduire comme bon nous semble. Nous pouvons aussi bien restituer fidèlement leur aspect d’origine que chercher à leur ajouter une certaine fraîcheur ou actualité. Cependant nous ne pouvons pas faire qu’elles soient identiques à leur modèles historiques, parce qu’un caractère typographique numérique n’est pas un caractère au plomb. Chacune de ces techniques produit des artefacts de natures différentes, avec une identité propre et chacune d’elles a sa singularité.
+
+Pour évaluer un projet de *revival* typographique il est important de comprendre que les fontes numériques ne peuvent faire autre chose que *simuler* l’aspect de leurs modèles historiques. Des expressions comme «hommage numérique» ou «fiction historique» peuvent être utilisées pour décrire ce que nous essayons de faire quand nous rendons hommage à ces caractères d’un lointain passé tout en gardant une certaine distance avec le modèle.
+
+Le *Tribute* de Frank Heine possède de façon évidente un élément de «caricature» dans son dessin, mais cela ne relègue pas le caractère à cette seule catégorie; car en dépassant la parodie, Heine en a fait une exploration personnelle. Il met en cause un bon nombre d’opinions traditionnelles en vigueur chez nous – «connaisseurs» de caractères réalisés à la main –, opinions que nous avons longtemps tenues pour être la vérité historique tant appréciée et recherchée dans les *revivals*. Le résultat est une savante alchimie de caricature, d’hommage et de fantaisie dans la réinterprétation.
+(retour:)
+*Nota: Librement inspirée aux éditeurs par le propos, l’iconographie qui accompagne ce texte n’est pas le fait de l’auteur.*
+
+[^1]: Nous avons choisi de conserver le terme de *revival* (courant en anglais mais peu usité en français) en raison de la difficulté à trouver un équivalent actuel satisfaisant, mais aussi parce qu’il nous semble très expressif. *Revivre, vivifier,* sont des mots proches dont le sens enrichit et complète le terme avec justesse dans le contexte de la création de caractères typographiques.
+
+[^2]: Voir Robin Kinross, «Un traditionalisme au visage nouveau», in *La typographie moderne*, éd. B42, Paris, 2012, p. 62–79.
+
+[^3]: Paul F. Gehl, *A meditation in Rome, ‘How can type history be good history?’* ATypI Roma, September 20, 2002, Russell Maret, New York, 2012. [Ndt]

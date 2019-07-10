@@ -1,0 +1,56 @@
+Titre: La lecture artificielle
+----
+Auteur: Pierre Lévy
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 173–178
+----
+Disponible: oui
+----
+Informations: Article paru dans *Azimuts* nº 7/8, 1994
+----
+Biographie: Pierre Lévy, né en 1956 à Tunis, est docteur en sociologie et en sciences de l'information et de la communication. Il s'intéresse aux implications culturelles et cognitives des technologies numériques et a été chercheur au CREA (École polytechnique, Paris) sur l'histoire de la cybernétique et de l'intelligence artificielle (1983-1986) et au Neurope Lab sur l'économie et la technologie de la connaissance (1991-1995). Pierre Lévy a notamment enseigné à l'Université du Quebec à Montréal (1987-1989), à l'Université de Paris-Nanterre (1990-1992) et au département « hypermedia » de l'Université de Paris-St Denis.
+Il réalise de nombreuses conférences en France et dans le monde, a reçu des distinctions  et publié plusieurs ouvrages tels que La Machine Univers. Création, cognition et culture informatique (1987), L'idéographie dynamique, vers une imagination artificielle ? (1991), De la programmation considérée comme un des beaux-arts (1992) et Qu'est-ce que le virtuel ? (1995).
+----
+Texte:
+
+(image: lecture_artificielle001.jpg caption: Roue de lecture, utilisée au Moyen Âge et en Extrême Orient.)
+
+Nous lisons un texte. Que se passe-t-il ? D’abord, le texte est troué, caviardé, parsemé de blancs. Ce sont les mots, les membres de phrases que nous n’entendons pas (au sens perceptif mais aussi intellectuel du terme). Ce sont les fragments de texte que nous ne comprenons pas, ne prenons pas ensemble, que nous ne réunissons pas aux autres, que nous négligeons. Si bien que, paradoxalement, lire, écouter, c’est commencer par négliger, par délire ou délier le texte.
+
+En même temps que nous le déchirons par la lecture (ou, en ce moment même, par l’écoute), nous *froissons* le texte. Nous le replions sur lui-même. Nous rapportons l’un à l’autre les passages qui se correspondent. Les membres épars, étalés, dispersés sur la surface des pages ou dans la linéarité du discours, nous les cousons ensemble : lire un texte, c’est retrouver les gestes textiles qui lui ont donné son nom.
+
+Les passages du texte entretiennent virtuellement une correspondance, presque une activité épistolaire, que nous actualisons tant bien que mal, en suivant ou non les instructions de l’auteur. Facteurs du texte, nous voyageons d’un bord à l’autre de l’espace du sens en nous aidant du système d’adressage et de pointeurs dont l’auteur, l’éditeur, le typographe l’ont balisé. Mais nous pouvons désobéir aux instructions, prendre des chemins de traverse, produire des plis interdits, nouer des réseaux secrets, clandestins, faire émerger d’autres géographies sémantiques.
+
+Tel est le travail de la lecture : à partir d’une linéarité ou d’une platitude initiale, cet acte de déchirer, de froisser, de tordre, de recoudre le texte pour ouvrir un milieu vivant où puisse se déployer le sens. L’espace du sens ne préexiste pas à la lecture. C’est en le parcourant, en le cartographiant que nous le fabriquons.
+
+<br/>
+
+Mais pendant que nous le replions sur lui-même, produisant ainsi son rapport à soi, sa vie autonome, son aura sémantique, nous rapportons aussi le texte à d’autres textes, à d’autres discours, à des images, à des affects, à toute l’immense réserve fluctuante de désirs et de signes qui nous constitue. Ici, ce n’est plus l’unité du texte qui est en jeu, mais la construction de soi, construction toujours à refaire, inachevée. Ce n’est plus le sens du texte qui nous occupe, mais la direction et l’élaboration de notre pensée, la précision de notre image du monde, l’aboutissement de nos projets, l’éveil de nos plaisirs, le fil de nos rêves. Cette fois-ci, le texte n’est plus froissé, replié en boule sur lui-même, mais découpé, pulvérisé, distribué, évalué selon les critères d’une subjectivité accouchant d’elle-même.
+
+Écouter, regarder, lire revient finalement à se construire. Dans l’ouverture à l’effort de signification qui vient de l’autre, en travaillant, en trouant, en froissant, en découpant le texte, en nous l’incorporant, en le détruisant, nous contribuons à ériger le paysage de sens qui nous habite.
+
+Jusqu’à maintenant, vous n’avez pas encore lu le mot d’« hypertexte ». Et pourtant, il n’a été question que de cela. Les technologies intellectuelles, presque toujours, extériorisent et réifient une fonction cognitive, une activité mentale. Ce faisant, elles réorganisent l’économie ou l’écologie intellectuelle dans son ensemble et modifient en retour la fonction cognitive qu’elles étaient censées seulement assister ou renforcer. Les rapports entre l’écriture (technologie intellectuelle) et la mémoire (fonction cognitive) sont là pour en témoigner.
+
+L’arrivée de l’écriture a accéléré un processus d’artificialisation et d’extériorisation de la mémoire qui a sans doute commencé avec l’hominisation. Son usage massif a transformé le visage de Mnémosyne. Nous avons fini par concevoir le souvenir comme un enregistrement.
+
+<br/>
+
+La semi-objectivation de la mémoire dans le texte a sans doute permis le développement d’une tradition critique. En effet, l’écrit creuse une distance entre le savoir et son sujet. C’est peut-être parce que je ne suis plus ce que je sais que je peux le remettre en question. L’écriture a fait surgir aussi un dispositif de communication, dans lequel les messages sont bien souvent séparés dans le temps et dans l’espace de leur source d’émission et donc reçus hors contexte. Du côté de la lecture, il a donc fallu raffiner les pratiques interprétatives. Du côté de la rédaction, on a dû imaginer des systèmes d’énoncés auto-suffisants, indépendants du contexte. Avec l’écriture et plus encore avec l’alphabet et l’imprimerie, les modes de connaissance théoriques et herméneutiques ont donc pris le pas sur les savoirs narratifs et rituels des sociétés orales. L’exigence d’une vérité universelle, objective et critique n’a pu s’imposer que dans une écologie cognitive largement structurée par l’écrit.
+
+On sait que les premiers textes alphabétiques ne séparaient pas les mots. Ce n’est que très progressivement que furent inventés les blancs entre les vocables, la ponctuation, les paragraphes, les claires divisions en chapitres, les tables des matières, les index, l’art de la mise en page, le réseau de renvoi des encyclopédies et dictionnaires, les notes de bas de page… en somme, tout ce qui facilite la lecture et la consultation des documents écrits. Contribuant à plier les textes, à les structurer, à les articuler par delà leur linéarité, ces technologies auxiliaires composent ce que l’on pourrait appeler un appareillage de lecture artificielle. L’hypertexte, l’hypermédia ou le multimédia interactif poursuivent un processus déjà ancien d’artificialisation de la lecture. Si lire consiste à sélectionner, à schématiser, à construire un réseau de renvois internes au texte, à associer à d’autres données, à intégrer les mots et les images à une mémoire personnelle en recon­­struction permanente, alors les dispositifs hypertextuels constituent bel et bien une sorte de réification, d’extériorisation des processus de lecture.
+
+On l’a vu, la lecture artificielle existe depuis longtemps. Quelle différence peut-on faire entre le système qui s’était stabilisé sur les pages des livres et des journaux et celui qui s’invente aujourd’hui sur les supports numériques ?
+
+Par rapport aux techniques antérieures, la numérisation introduit d’abord une petite révolution copernicienne : ce n’est plus le lecteur qui suit les instructions de lecture et se déplace dans le texte, mais c’est désormais un texte mobile, kaléidoscopique, qui présente ses facettes, tourne, se plie et se déplie à volonté devant le lecteur.
+
+D’autre part, l’écriture et la lecture échangent leurs rôles. Celui qui participe à la structuration de l’hypertexte, au tracé en pointillé des possibles plis du sens, est déjà un lecteur. Symétriquement, celui qui actualise un parcours ou manifeste tel ou tel aspect de la réserve documentaire, contribue à la rédaction, achève momentanément une écriture interminable. Les coutures et renvois, les chemins de sens originaux que le lecteur invente peuvent être incorporés à la structure même des corpus. Depuis l’hypertexte, toute lecture est une écriture potentielle.
+
+Mais surtout, les dispositifs hypertextuels et les réseaux numériques ont *déterritorialisé* le texte. Il ont fait émerger un texte sans frontières nettes, sans intériorité définissable. Il y a maintenant du *texte*, comme on dit de l’eau ou du sable. Le texte est mis en mouvement, pris dans un flux, vectorisé, métamorphique. Il est ainsi plus proche du mouvement même de la pensée ou de l’image que nous nous en faisons aujourd’hui.
+
+Le texte subsiste toujours, mais la page s’est dérobée. La page, c’est-à-dire le *pagus* latin, ce champ, ce territoire enclos par le blanc des marges, labouré de lignes et semé par l’auteur de lettres, de caractères ; la page, lourde encore de la glaise mésopotamienne, adhérant toujours à la terre du néolithique, cette page très ancienne s’efface lentement sous la crue informationnelle, ses signes déliés partent rejoindre le flot numérique. Tout se passe comme si la numérisation établissait une sorte d’immense plan sémantique, accessible en tout lieu et que chacun pourrait contribuer à produire, à plier diversement, à reprendre, à modifier, à replier… Est-il besoin de le souligner ? Les formes économiques et juridiques héritées de la période précédente empêchent aujourd’hui ce mouvement de déterritorialisation d’aller jusqu’à son terme.
+
+L’interprétation, c’est-à-dire la production du sens, ne renvoie plus, désormais, à l’intériorité d’une intention, ni à des hiérarchies de significations ésotériques, mais plutôt à l’appropriation toujours singulière d’un navigateur. Le sens émerge d’effets de pertinence locales, il surgit à l’intersection d’un plan sémiotique déterritorialisé et d’une visée d’efficacité ou de plaisir. Je ne m’intéresse plus à ce qu’a pensé un auteur introuvable, je demande au texte de me faire penser, ici et maintenant.

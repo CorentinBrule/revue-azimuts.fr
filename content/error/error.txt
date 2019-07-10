@@ -1,0 +1,3 @@
+Titre: Page non trouvée
+----
+Texte: La page à laquelle vous tentez d’accéder n’est plus en ligne ou a été déplacée. Merci de vous rendre sur la [page d’accueil](https://www.revue-azimuts.fr).

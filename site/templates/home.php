@@ -1,0 +1,30 @@
+<?php snippet('header') ?>
+<main class="content load" role="main" data-page="<?= $page->slug() ?>">
+    <div class="nav-center home">
+         <?php foreach($pages->find('numeros')->children()->visible()->flip() as $issue): 
+                    $title = $issue->titre()->kt();
+                    $number = $issue->numero();
+                    $release = $issue->parution();
+                ?>
+                <div id="caption-<?= $number; ?>" class="home-caption-item">
+                    <span class="home-number"><?= $number; ?></span><span class="home-title"><?= $title; ?></span>
+                </div>
+                <?php endforeach ?>
+    </div>
+    <div id="home">
+            <?php foreach($pages->find('numeros')->children()->visible()->flip() as $issue): ?>
+            <div class="home-single">
+                <?php $image = $issue->image('image.jpg')->thumb(array('width' => 1800));
+                    $title = $issue->titre();
+                    $number = $issue->numero();
+                    $release = $issue->parution();
+                if($image): ?>
+                    <a class="item home-single-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
+                        <img class="lazy home-single-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>">
+                        <figcaption><p><span class="home-number"><?= $number; ?></span><span class="home-title"><em><?= $title; ?></em></span><span class="home-release"><?= $release; ?></span></p></figcaption>
+                    </a>
+                <?php endif ?>
+            </div>
+        <?php endforeach ?>
+    </div>
+<?php snippet('footer') ?>

@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.article-content-text.cinq-conversations p + p {
+    text-indent: 0px;
+    margin-top: 0.5rem;
+}

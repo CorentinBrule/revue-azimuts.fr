@@ -1,0 +1,22 @@
+Titre: Traité
+----
+Auteur: Laboratoire Désorceler la finance
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 107–128
+----
+Autres informations:
+----
+Biographie: 
+----
+Bibliographie:
+----
+Disponible:
+----
+Credits:
+----
+Texte:
+(image: image.jpg class: small medium large caption: Légende)

@@ -1,0 +1,27 @@
+Titre: Présentation
+----
+Presentation: *Azimuts* est une revue de recherche en design fondée en 1991 par les étudiants-chercheurs du post-diplôme de l’École supérieure d’art et design de Sant-Étienne. Publication unique dans le paysage éditorial du design, la revue constitue à la fois un lieu de réflexions, d’échanges et de critiques sur les enjeux du design contemporain, ainsi qu’un terrain d’expérimentations et de recherches graphiques et typographiques.
+
+La revue *Azimuts* recueille les points de vue de personnalités du monde du design, de la culture et de la recherche en général. Les numéros s’organisent autour de dossiers thématiques ayant trait au design et plus généralement à la culture matérielle ou à sa critique. La rubrique ‘Varia’ accueille des contributions hors-dossier et la rubrique ‘Anthologie’ permet de découvrir ou re-découvrir des textes et documents difficilement accessibles (soit épuisés, soit encore jamais traduits en langue française). La rubrique ‘Comptes rendus’ est un espace de libre critique de l’actualité de la recherche en design et des publications du champ.
+
+La revue *Azimuts* est classée depuis 2009 dans la *Liste des revues pour le domaine Arts* de l’Agence d’Évaluation de la Recherche et de l’Enseignement supérieur (Aeres).
+
+----
+
+Infos 1:
+*Éditeur* [École supérieure d’art et design de Saint-Étienne](http://www.esadse.fr/)
+*Directeur de publication* Claire Peillod
+*Direction éditoriale* [Marc Monjou](http://marcmonjou.fr/)
+*Direction graphique* Un designer graphique est invité à chaque numéro
+(image: logo_esadse.svg link: http://www.esadse.fr/)
+
+----
+Infos 2:
+*Contacts et renseignements*
++33 (0)4 77 47 74 76, [contact@revue-azimuts.fr](mailto:contact@revue-azimuts.fr)
+Revue Azimuts, ESADSE/Cité du design
+3 rue Javelin Pagnon, 42000 Saint-Étienne
+
+*Diffusion* Pollen/Difpop
++33 (0)1 43 62 08 07
+[mariechristine@difpop.com](mailto:mariechristine@difpop.com)

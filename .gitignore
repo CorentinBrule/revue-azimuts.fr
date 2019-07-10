@@ -1,0 +1,42 @@
+# Content
+# ------------
+content/**/*.jpg
+content/**/*.jpeg
+content/**/*.png
+content/**/*.tif
+content/**/*.eps
+content/**/*.pdf
+content/**/imgweb/
+
+# Other
+# ------------
+ressources/
+old/
+
+# System files
+# ------------
+
+Icon
+.DS_Store
+
+# Cache Files
+# ---------------
+
+/site/cache/*
+!/site/cache/index.html
+
+# Accounts
+# ---------------
+
+/site/accounts/*
+!/site/accounts/index.html
+
+# Sessions
+# ---------------
+
+/site/sessions/*
+!/site/sessions/index.html
+
+# License
+# ---------------
+/site/config/.license

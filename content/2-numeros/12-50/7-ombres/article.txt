@@ -1,0 +1,22 @@
+Titre: Ombres
+----
+Auteur: Ketty Steward
+----
+Type: Texte inédit
+----
+Section: Dossier
+----
+Pages: 129–144
+----
+Autres informations:
+----
+Biographie: 
+----
+Bibliographie:
+----
+Disponible:
+----
+Credits:
+----
+Texte:
+(image: image.jpg class: small medium large caption: Légende)
