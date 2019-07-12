@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -14,8 +14,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -26,7 +26,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -369,7 +369,7 @@ h6,
     flex-basis: 7rem;
 }
 @media (max-width:1024px) {
-    .site-title, 
+    .site-title,
     .nav-icon-wrapper{
         -ms-flex-preferred-size: 7rem;
     flex-basis: 3rem;
@@ -533,10 +533,10 @@ button.article-gallery-close {
 }
 
 @media (max-width:1024px) {
-    
+
     .nav-center .secondary-nav{
         display: none;
-        
+
     }
     .main-nav li:first-of-type {
         border-top: 1px solid #000;
@@ -586,6 +586,30 @@ button.article-gallery-close {
     margin: 0 auto;
     max-width: 48rem;
 }
+
+#archive{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.home-multi{
+	/*width: calc(100%/8);*/
+	flex-basis: calc(100%/8);
+}
+
+.home-multi-wrapper {
+    display: block;
+    position: relative;
+}
+
+.home-multi-image{
+    /*display: block;*/
+		width: 100%;
+		height: auto;
+    margin: 0 auto;
+}
+
 
 .home-single{
     margin: 0.5rem 0;
@@ -676,7 +700,7 @@ button.article-gallery-close {
             flex-basis: 100%;
         margin: 0 0 2rem 0;
     }
-    
+
     .issue-presentation {
         -ms-flex-preferred-size: 100%;
             flex-basis: 100%;
@@ -723,7 +747,7 @@ button.article-gallery-close {
 
 .numeros .numeros-infos{
     margin: 2.5rem auto 0;
-    max-width: 28rem;  
+    max-width: 28rem;
 }
 
 /* Index */
@@ -737,6 +761,28 @@ button.article-gallery-close {
     text-align: center;
     margin-bottom: 1rem;
     margin-top: 4rem;
+}
+
+#button-next-issues{
+	padding: 0.25rem;
+}
+
+#index-archives{
+	display: none;
+}
+input#show-button{
+	display: none;
+}
+.input-label{
+	display: block;
+	text-align: center;
+}
+.input-label:hover{
+	cursor: pointer;
+}
+
+input#show-button:checked ~ #index-archives {
+  display:block;
 }
 
 
@@ -873,7 +919,7 @@ button.article-gallery-close {
         display: inline;
         padding-right: 0;
     }
-    .index-title p, 
+    .index-title p,
     .index-author p{
         display: inline;
     }
@@ -908,7 +954,7 @@ button.article-gallery-close {
     .index-issue-release {
         display: none
     }
-    
+
     .index-issue,
     .index-pages,
     .index-issue-single {
@@ -1026,7 +1072,7 @@ button.article-gallery-close {
 }
 
 @media (max-width:480px) {
-    .article-content-text h3, 
+    .article-content-text h3,
     .article-content-text h4 {
         padding-left: 1rem;
     }
@@ -1112,7 +1158,7 @@ button.article-gallery-close {
     position: relative;
     width: calc(50% - 0.6rem);
     vertical-align: bottom;
-    
+
 }
 .article-content-image + .article-content-image,
 .article-content-image + .article-content-image + .article-content-image + .article-content-image {
@@ -1154,7 +1200,7 @@ figcaption {
         line-height: 1.4;
         max-width: none;
     }
-    
+
 }
 @media (max-width:480px) {
     .article-content-text figcaption p,
@@ -1250,7 +1296,7 @@ hr{
 @media (max-width:480px) {
    .footnote-number {
         width: 1rem;
-    } 
+    }
     .footnotes .footnote-content p {
         width: calc(100% - 1rem);
     }
@@ -1372,7 +1418,7 @@ hr{
         display: block;
     }
     .article-gallery-slide-caption,
-    .article-gallery-counter, 
+    .article-gallery-counter,
     .pagin{
         font-size: 0.596rem;
         line-height: 1.4;
