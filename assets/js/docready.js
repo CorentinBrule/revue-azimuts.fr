@@ -388,7 +388,11 @@ function init() {
                 if (lineStr.indexOf(searchTerm) === -1) {
                     $(this).hide();
                 } else {
-                    $(this).show();
+                    if($(this).hasClass("archive")){
+                      $(this).css("display","flex");
+                    }else{
+                      $(this).show();
+                    }
                 }
             });
         });
