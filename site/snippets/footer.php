@@ -8,8 +8,9 @@
     'assets/js/jquery.sortElements.min.js',
     'assets/js/nprogress.min.js',
     'assets/js/lazyload.min.js',
-    'assets/js/docready.min.js?v=1.11',
-    
+    'assets/js/docready.js',
+
         ]) ?>
+<!-- 'assets/js/docready.min.js?v=1.11', -->
 </body>
 </html>

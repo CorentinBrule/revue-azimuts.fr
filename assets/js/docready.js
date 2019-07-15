@@ -5,6 +5,7 @@ var timerSFN, timerSC, timerPC;
 var menuState = false;
 var $mainContent, $el;
 var nbCaptions = 0;
+var archiveBool = false;
 
 function init() {
     var wh = $(window).height();
@@ -28,7 +29,7 @@ function init() {
             $('.nav-icon').trigger('click');
         }
     }
-        
+
     $('.nav-icon').on('click', function () {
         $('.nav-wrapper').toggleClass("nav-is-active");
         if (!menuState) {
@@ -136,7 +137,7 @@ function init() {
             });
         });
     }
-                       
+
     function buildFootnote() {
         $('a.footnote-ref').each(function () {
             var myhref = $(this).attr('href');
@@ -339,6 +340,7 @@ function init() {
     function indexSort() {
         $('a.sort').on('click', function (e) {
             e.preventDefault();
+            $('#button-next-issues').addClass("sorting");
             var thislink = $(this);
             sortTable(thislink);
         });
@@ -361,6 +363,21 @@ function init() {
                 return $(a).data(sb) > $(b).data(sb) ? 1 : -1;
             }
         });
+    }
+
+    function archiveToggle(){
+      $('.archive').addClass("hidden-archive");
+      $("#button-next-issues").on('click',function(e){
+        archiveBool = !archiveBool;
+        console.log(archiveBool);
+        if (archiveBool){
+          $("#button-next-issues").addClass("button-activate");
+          $('.archive').removeClass("hidden-archive");
+        }else{
+          $("#button-next-issues").removeClass("button-activate");
+          $('.archive').addClass("hidden-archive");
+        }
+      })
     }
 
     function search() {
@@ -429,12 +446,13 @@ function init() {
     tableToggle();
     lazyLoad();
     indexSort();
+    archiveToggle();
     search();
     newTab();
     emptySearch();
     load();
     $mainContent = $(".site");
-    
+
     if (wv > 768) {
         showFootnoteOnclick();
         titleScrolled();

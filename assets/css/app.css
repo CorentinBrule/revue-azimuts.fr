@@ -764,15 +764,59 @@ button.article-gallery-close {
 }
 
 #button-next-issues{
+	width: 100%;
+	position: relative;
 	padding: 0.25rem;
 }
 
+#button-next-issues span::before{
+	content:"↓"
+}
+#button-next-issues span::after{
+	content:"↓"
+}
+
+.sorting {
+	position: fixed !important;
+	bottom: 0;
+	right: 0;
+	background: white;
+	font-style: italic;
+}
+
+.sorting span{
+	text-decoration: line-through;
+}
+
+.sorting span::before{
+	content:" "!important;
+}
+.sorting span::after{
+	content:" "!important;
+}
+
+.button-activate span{
+		text-decoration: none;
+}
+
+.button-activate span::before{
+	content:"• "!important;
+}
+.button-activate span::after{
+	content:" •"!important;
+}
+
+
+.hidden-archive{
+	display: none!important;
+}
+/*
 #index-archives{
 	display: none;
 }
 input#show-button{
 	display: none;
-}
+}*/
 .input-label{
 	display: block;
 	text-align: center;
@@ -780,11 +824,11 @@ input#show-button{
 .input-label:hover{
 	cursor: pointer;
 }
-
+/*
 input#show-button:checked ~ #index-archives {
   display:block;
 }
-
+*/
 
 .nav-search-input {
     -webkit-appearance: none;
@@ -856,6 +900,9 @@ input#show-button:checked ~ #index-archives {
         flex-basis: 3.5rem;
 }
 
+a .index-issue:hover{
+	font-style: italic;
+}
 
 .index-title-author{
     -ms-flex-preferred-size: calc(100% - 10rem);
