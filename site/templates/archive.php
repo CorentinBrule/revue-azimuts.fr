@@ -2,12 +2,21 @@
 <p>coucou</p>
 <main class="content load" role="main" data-page="<?= $page->slug() ?>">
     <div class="nav-center running-title">
+      <?php if($page->titre()->html()!=""): ?>
         <?= $page->titre()->kt() ?>
+      <?php else: ?>
+        Azimuts <?= $page->numero()->html() ?>
+      <?php endif ?>
     </div>
     <div class="issue">
         <section class="issue-content">
             <h1 class="article-content-title heading">
-               <?= $page->titre()->kt() ?></h1>
+              <?php if($page->titre()->html()!=""): ?>
+                <?= $page->titre()->kt() ?>
+              <?php else: ?>
+                Azimuts <?= $page->numero()->html() ?>
+              <?php endif ?>
+              </h1>
             <div class="issue-content-header">
                 <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 600));
                 if($image): ?>
@@ -20,24 +29,26 @@
                     <div class="issue-presentation-content text-large">
                         <?= $page->presentation()->kt() ?>
                     </div>
-                    <div class="issue-content-infos">
-                        <?= $page->pages()->html() ?>,
-                        <?php if(!$page->editeur()->exists()): ?>
-                          <span class="sc">ESADSE</span>/Cité du design,
-                        <?php elseif ($page->editeur()->html()=="IRDD"): ?>
-                          <span class="sc">IRDD</span> (Istitut Régional pour le Développement du Design),
-                        <?php else: ?>
-                          <?= $page->editeur()->html() ?>,
+                    <ul class="issue-content-infos">
+                        <?php if(!$page->pages()->html()!=""): ?>
+                          <li><?= $page->pages()->html() ?>,</li>
                         <?php endif ?>
-                        <?= $page->parution()->html() ?>,
+                        <?php if(!$page->editeur()->exists()): ?>
+                          <li><span class="sc">ESADSE</span>/Cité du design,</li>
+                        <?php elseif ($page->editeur()->html()=="IRDD"): ?>
+                          <li><span class="sc">IRDD</span> (Istitut Régional pour le Développement du Design),</li>
+                        <?php else: ?>
+                          <li><?= $page->editeur()->html() ?>,</li>
+                        <?php endif ?>
+                          <li><?= $page->parution()->html() ?></li>
                         <?php if($page->prix()->html()!=""): ?>
-                          <?= $page->prix()->html() ?>,
+                          <li><?= $page->prix()->html() ?></li>
                         <?php endif ?>
                         <?php if($page->issn()->html()!=""): ?>
-                          <span class="sc">ISSN</span>:&#8239;<?= $page->issn()->html() ?>
+                          <li><span class="sc">ISSN</span>:&#8239;<?= $page->issn()->html() ?></li>
                         <?php endif ?>
                         <?php if($page->isbn()->html()!=""): ?>
-                          <span class="sc">ISBN</span>:&#8239;<?= $page->isbn()->html() ?>
+                          <li><span class="sc">ISBN</span>:&#8239;<?= $page->isbn()->html() ?></li>
                         <?php endif ?>
                     </div>
 
