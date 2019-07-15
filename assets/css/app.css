@@ -311,6 +311,7 @@ sup {
     }
 }
 .text-large,
+.article-introduction-text,
 h6,
 .subheading{
     font-size: 0.766rem;
@@ -319,6 +320,7 @@ h6,
 
 @media (max-width:480px) {
     .text-large,
+		.article-introduction-text,
     h6,
     .subheading{
         font-size: 0.681rem;
@@ -1047,12 +1049,19 @@ a .index-issue:hover{
     }
 }
 
+.article-introduction-text{
+	font-style: italic;
+	padding: 0 1rem;
+}
+
 .article-content-text{
     text-align: center;
 }
 .article-content-text p, h3, h4, h5, h6, ul, ol, li{
     text-align: left;
 }
+
+.article-introduction-text p,
 .article-content-text p,
 .article-infos-content p,
 .article-infos-content-title,
@@ -1069,6 +1078,7 @@ a .index-issue:hover{
 }
 
 @media print {
+		.article-introduction-text,
     .article-content-text p,
     .article-infos-content p,
     .article-infos-content-title,
@@ -1099,6 +1109,7 @@ a .index-issue:hover{
     margin-top: 1rem;
 }
 
+.article-introduction-text,
 .article-content-text {
     margin-top: 3rem;
 }
@@ -1129,6 +1140,7 @@ a .index-issue:hover{
     padding: 0 1rem;
 }
 
+.article-introduction-text p + p,
 .article-content-text p + p,
 .article-content-text h5 + h5,
 .article-content-text h6 + h6,
@@ -1138,11 +1150,13 @@ a .index-issue:hover{
     text-indent: 1.5rem;
 }
 
+.article-introduction-text figure:first-child + p,
 .article-content-text figure:first-child + p{
     text-indent: 0;
 }
 
 @media (max-width:480px) {
+		.article-introduction-text p + p,
     .article-content-text p + p,
     .article-content-text h5 + h5,
     .article-content-text h6 + h6,
@@ -1153,6 +1167,7 @@ a .index-issue:hover{
     }
 }
 
+.article-introduction-text p + p,
 .article-content-text p + h3,
 .article-content-text p + h4,
 .article-content-text p + h5,
@@ -1239,6 +1254,7 @@ figcaption {
     .article-content-image + .article-content-image {
         margin-left: 0;
     }
+		.article-introduction-text figcaption p,
     .article-content-text figcaption p,
     .article-content-header figcaption p,
     .home-single-wrapper figcaption p{
@@ -1250,6 +1266,7 @@ figcaption {
 
 }
 @media (max-width:480px) {
+		.article-introduction-text figcaption p,
     .article-content-text figcaption p,
     .article-content-header figcaption p,
     .home-single-wrapper figcaption p,
@@ -1266,6 +1283,7 @@ figcaption {
     figcaption {
         display: block;
     }
+		.article-introduction-text figcaption p,
     .article-content-text figcaption p,
     .article-content-header figcaption p,
     .home-single-wrapper figcaption p{

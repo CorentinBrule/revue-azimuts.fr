@@ -9,13 +9,17 @@
                 <?= $page->titre()->kt() ?></h1>
             <h2 class="article-content-author heading">
                 <?= $page->auteur()->html() ?></h2>
-            <?php if(!$page->informations()->empty()): ?>    
+            <?php if(!$page->informations()->empty()): ?>
             <div class="article-content-infos">
                 <?= $page->informations()->kt() ?>
             </div>
             <?php endif ?>
         </section>
-
+        <?php if($page->introduction()->exist()): ?>
+        <section class=article-introduction-text>
+            <?= $page->introduction()->kt() ?>
+        </section>
+        <?php endif ?>
         <section class="article-content-text <?= $page->slug() ?> text-large">
             <?= $page->texte()->kt() ?>
         </section>
@@ -46,8 +50,8 @@
             <?php
             $currentauthor = $page->auteur();
             $items = $pages->find('numeros')->children()->children()->not($site->activePage())->flip()->filterBy('auteur', $currentauthor, ','); ?>
-            
-            <?php 
+
+            <?php
             $data = $pages->find('numeros')->children()->children()->not($site->activePage())->flip()->filterBy('auteur', $currentauthor, ',');
             $valuearray = array();
             foreach($data as $article) {
