@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 <main class="content load" role="main" data-page="<?= $page->slug() ?>">
     <div class="nav-center">
-        <input id="search" class="nav-search-input" type="text" placeholder="Rechercher" role="research"> 
+        <input id="search" class="nav-search-input" type="text" placeholder="Rechercher" role="research">
     </div>
     <div class="index">
         <section class="index-content">
@@ -13,23 +13,45 @@
                 <a href="#" class="sort index-type sc" data-sortby="type" data-sortdir="ASC">Type</a>
             </div>
             <div class="index-content-articles">
-            <?php 
-            $items = $site->find('numeros')->children()->children()->visible()->flip(); 
+            <?php
+            $items = $site->find('numeros')->children()->children()->visible()->flip();
             foreach($items as $item):?>
-            <?php if($item->section() != 'Éditorial'): ?> 
-            <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
-                <?php if($item->disponible()->value() == 'oui'): ?>
-                <a class="item" href="<?= $item->url() ?>">
-                <?php endif ?>
-                    <span class="index-issue tab"><?= $item->parent()->numero()->html() ?></span>
-                    <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
-                <?php if($item->disponible()->value() == 'oui'): ?>
-                </a>
-                <?php endif ?>
-            </div>
-            <?php endif ?>
+              <?php if($item->section() != 'Éditorial'): ?>
+              <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  <a class="item" href="<?= $item->url() ?>">
+                  <?php endif ?>
+                      <span class="index-issue tab"><?= $item->parent()->numero()->html() ?></span>
+                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  </a>
+                  <?php endif ?>
+                </div>
+              <?php endif ?>
             <?php endforeach ?>
-            </div>   
+            <label id="button-next-issues" class="input-label" for="show-button">
+                <span>&#8595;Anciens numéros&#8595;</span>
+            </label>
+            <input type=radio id="show-button" name="group">
+
+            <div id="index-archives">
+
+              <?php
+              $items = $site->find('archives')->children()->children()->visible()->flip();
+              foreach($items as $item):?>
+              <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  <a class="item" href="<?= $item->url() ?>">
+                  <?php endif ?>
+                      <span class="index-issue tab"><?= html($item->parent()->numero()->htlm()) ?></span>
+                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  </a>
+                  <?php endif ?>
+                </div>
+            <?php endforeach ?>
+          </div>
+            </div>
         </section>
     </div>
 </main>
