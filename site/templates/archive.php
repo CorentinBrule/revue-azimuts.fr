@@ -61,8 +61,8 @@
                 <span class="sort index-pages sc">Pages</span>
                 <span class="sort index-title sc">Titre</span>
                 <span class="sort index-author sc">Auteur</span>
+                <span class="sort index-type sc"> </span>
                 <span class="sort index-available sc">Lire</span>
-                <!--<span class="sort index-type sc">Type</span>-->
             </div>
             <div class="index-content-articles">
                 <?php
@@ -70,18 +70,19 @@
                 foreach($items as $item): ?>
                       <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>">
                       <?php if($item->disponible()->value() == 'oui'): ?>
-                      <a class="item" href="<?= $item->url() ?>"><?php endif ?>
+                        <a class="item" href="<?= $item->url() ?>">
+                      <?php endif ?>
                           <span class="index-pages tab"><?= html($item->pages()) ?></span>
                           <span class="index-title-author">
                             <span class="index-title"><?= $item->titre()->kt() ?></span>
                             <span class="index-author"><?= $item->auteur()->kt() ?></span>
                           </span>
+                          <span class="index-type"><?= $item->type()->kt() ?></span>
                           <span class="index-available">
                             <?php if($item->disponible()->value() == 'oui') echo html('•') ?>
                           </span>
-                          <span class="index-type"><?= html($item->type()) ?></span>
                       <?php if($item->disponible()->value() == 'oui'): ?>
-                      </a>
+                        </a>
                       <?php endif ?>
                       </div>
                 <?php endforeach ?>
