@@ -1053,6 +1053,9 @@ a .index-issue:hover{
 	font-style: italic;
 	padding: 0 1rem;
 }
+.article-introduction-text em{
+	font-style: normal;
+}
 
 .article-content-text{
     text-align: center;
