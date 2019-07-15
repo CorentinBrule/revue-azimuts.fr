@@ -28,7 +28,11 @@
       <div class="entry-available">
           <a class="item" href="<?= $item->url() ?>">
               <span class="index-issue-single tab"><?= html($item->numero()) ?></span>
-              <span class="index-issue-title"><?= $item->titre()->kt() ?></span>
+              <?php if($item->titre()->html()!=""): ?>
+                <span class="index-issue-title"><?= $item->titre()->kt() ?></span>
+              <?php else: ?>
+                <span class="index-issue-title"><em>Azimuts <?= $item->numero()->html() ?></em></span>
+              <?php endif ?>
               <span class="index-issue-release tab"><?= html($item->parution()) ?></span>
           </a>
     </div>
