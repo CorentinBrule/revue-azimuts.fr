@@ -593,23 +593,31 @@ button.article-gallery-close {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	overflow: hidden;
+	height: 80vh;
 }
 
 .home-multi{
-	/*width: calc(100%/8);*/
+	width: calc(100%/8);
 	flex-basis: calc(100%/8);
+	height: 25%;
 }
 
 .home-multi-wrapper {
     display: block;
     position: relative;
+		overflow: hidden;
 }
 
 .home-multi-image{
-    /*display: block;*/
+    display: block;
 		width: 100%;
 		height: auto;
     margin: 0 auto;
+		object-fit: none;
+}
+.home-multi-image:hover{
+	object-fit: contain;
 }
 
 
@@ -948,6 +956,10 @@ a .index-issue:hover{
     font-size: 1rem;
 }
 
+span.index-available:not(.sort){
+	padding-left: 0.6rem;
+}
+
 .index-issue-title {
     -ms-flex-preferred-size: calc(100% - 5.75rem);
         flex-basis: calc(100% - 5.75rem);
@@ -1060,7 +1072,7 @@ a .index-issue:hover{
 .article-content-text{
     text-align: center;
 }
-.article-content-text p, h3, h4, h5, h6, ul, ol, li{
+.article-content-text p, h3, h4, h5, h6, ul, ol, li, blockquote{
     text-align: left;
 }
 
@@ -1072,6 +1084,7 @@ a .index-issue:hover{
 .article-content-text h4,
 .article-content-text h5,
 .article-content-text h6,
+.artcile-content-text blockquote,
 .article-infos-content ul,
 .article-infos-content-reference,
 .footnotes,
@@ -1089,6 +1102,7 @@ a .index-issue:hover{
     .article-content-text h4,
     .article-content-text h5,
     .article-content-text h6,
+		.article-content-text blockquote,
     .article-infos-content ul,
     .article-infos-content-reference,
     .footnotes,
@@ -1143,6 +1157,11 @@ a .index-issue:hover{
     padding: 0 1rem;
 }
 
+.article-content-text blockquote p{
+	padding: 0 1rem;
+	/*padding-left: 1.5em;*/
+}
+
 .article-introduction-text p + p,
 .article-content-text p + p,
 .article-content-text h5 + h5,
@@ -1177,12 +1196,19 @@ a .index-issue:hover{
 .article-content-text p + h6,
 .article-content-text h3 + h4,
 .article-content-text h5 + h6,
+.article-content-text blockquote + p,
+.article-content-text h4 + blockquote,
+.article-content-text p + blockquote,
 .article-content-text h6 + p,
 .article-content-text h6 + h3,
 .article-content-text h6 + h4,
 .article-content-text h6 + h5{
     margin-top: 1rem;
 }
+/*
+.article-content-text blockquote{
+	: 0.5rem;
+}*/
 
 .article-content-text h5 + p,
 .article-content-text h5 + h3,
