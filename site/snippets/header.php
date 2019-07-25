@@ -42,9 +42,11 @@
     <meta name="twitter:description" content="<?= $site->description()->html() ?>">
     <meta name="twitter:image" content="<?= $image->url() ?>">
 
+    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
     <!--<?= css('assets/css/app.min.css?v=1.11') ?>-->
     <?= css('assets/css/app.css?v=1.11') ?>
     <?= css('assets/css/custom-articles.css?v=1') ?>
+    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
 
     <link rel="apple-touch-icon" sizes="57x57" href="<?= $site->url() ?>/assets/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="<?= $site->url() ?>/assets/favicon/apple-icon-60x60.png">
@@ -70,7 +72,7 @@
         <div class="pagetitle"></div>
         <div class="nav-bar">
             <p class="site-title sc"><a class="item" href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a></p>
-
+            <noscript><em id="noscript-message">no script version</em></noscript>
             <div class="nav-left">
                 <?php if($page->template() == 'article'): ?>
                 <span class="ajax-nav-left">

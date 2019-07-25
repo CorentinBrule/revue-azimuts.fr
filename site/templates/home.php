@@ -35,6 +35,7 @@
                 if($image): ?>
                     <a class="item home-single-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
                         <img class="lazy home-single-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>">
+                        <noscript><img class="home-single-image" src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"></noscript>
                         <figcaption><p><span class="home-number"><?= $number; ?></span><span class="home-title"><em><?= $title; ?></em></span><span class="home-release"><?= $release; ?></span></p></figcaption>
                     </a>
                 <?php endif ?>
@@ -51,6 +52,7 @@
           if($image): ?>
               <a class="item home-multi-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
                   <img class="lazy home-multi-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>">
+                  <noscript><img class="home-multi-image" src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"></noscript>
                   <figcaption><p><span class="home-number"><?= $number; ?></span><span class="home-title"><em><?= $title; ?></em></span><span class="home-release"><?= $release; ?></span></p></figcaption>
               </a>
           <?php endif ?>

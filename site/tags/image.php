@@ -25,18 +25,18 @@ kirbytext::$tags['image'] = array(
     $link    = $tag->attr('link');
     $caption = $tag->attr('caption');
     $file    = $tag->file($url);
-      
+
 
     // use the file url if available and otherwise the given url
     $url = $file ? $file->url() : url($url);
-    
+
     // thumbs
     $url = thumb($file, array('width' => '1500', 'quality' => 80))->url();
     $urlhd = thumb($file, array('width' => '2000', 'quality' => 80))->url();
-    
+
     $img = explode('.', basename($url));
     $path = dirname($url). '/';
-      
+
     // alt is just an alternative for text
     if($text = $tag->attr('text')) $alt = $text;
 
@@ -93,12 +93,25 @@ kirbytext::$tags['image'] = array(
       ));
     };
 
+    $_image_noscript = function($class) use($tag,$url,$alt,$title){
+      return html::img('',array(
+        'width'  => $tag->attr('width'),
+        'height' => $tag->attr('height'),
+        'class'  => $class,
+        'title'  => $title,
+        'alt'    => $alt,
+        'src'    => $url
+      ));
+      };
+
     if(kirby()->option('kirbytext.image.figure') or !empty($caption)) {
       $image  = $_link($_image($tag->attr('imgclass')));
+      $image_noscript = $_link($_image_noscript($tag->attr('imgclass')));
       $figure = new Brick('figure');
       $figure->addClass('article-content-image lightbox');
       $figure->addClass($tag->attr('class'));
       $figure->append($image);
+      $figure->append('<noscript>'.$image_noscript.'</noscript>');
       if(!empty($caption)) {
         $figure->append('<figcaption>' . kirbytext($caption) . '</figcaption>');
       }

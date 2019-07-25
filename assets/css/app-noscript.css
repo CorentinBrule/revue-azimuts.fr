@@ -1,0 +1,83 @@
+html,main,body,header{
+  background-color: black;
+  text-decoration: inherit;
+}
+.nav-bar{
+  background-color: black;
+  color: white;
+}
+*,header,a{
+  color: white;
+  font-family: monospace;
+}
+
+/* home */
+
+#noscript-message{
+
+}
+#archive{
+  flex-direction: column;
+  height: auto;
+  overflow-x: hidden;
+}
+
+.home-multi{
+  margin-right: 0;
+}
+.home-multi-image{
+  height: auto;
+  max-height: 80vh;
+  margin: auto;
+}
+figcaption {
+    display: block;
+}
+.equipes-content-hidden{
+  display: block;
+}
+
+
+/* arcticles & numéros */
+
+#search{
+  display: none;
+}
+
+.entry, .entry-available a, .index-content-sort{
+  border-bottom: 1px solid white;
+}
+
+.index-content-sort {
+  background-color: black;
+}
+
+/* article */
+
+.article-footer,
+.article-footer-wrapper,
+.article-gallery-slide-caption {
+  background-color: black;
+}
+
+.footnotes{
+
+}
+
+.footnotes li{
+  margin-bottom: 0.4rem;
+  list-style: decimal;
+}
+
+
+/* à propos */
+
+.nav-center{
+  padding-top: 1rem;
+}
+.secondary-nav{
+  background-color: black;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+  padding-bottom: 0.2rem;
+}
