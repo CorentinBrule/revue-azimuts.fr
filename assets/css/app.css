@@ -592,32 +592,36 @@ button.article-gallery-close {
 #archive{
 	display: flex;
 	flex-direction: row;
-	flex-wrap: wrap;
-	overflow: hidden;
+	overflow-x: scroll;
+	overflow-y: hidden;
 	height: 80vh;
 }
 
 .home-multi{
-	width: calc(100%/8);
-	flex-basis: calc(100%/8);
-	height: 25%;
+	height: 100%;
+	margin-right: 0.5rem;
 }
 
 .home-multi-wrapper {
-    display: block;
-    position: relative;
-		overflow: hidden;
 }
 
 .home-multi-image{
     display: block;
-		width: 100%;
-		height: auto;
-    margin: 0 auto;
-		object-fit: none;
+		height: 100%;
+		width: auto;
 }
-.home-multi-image:hover{
-	object-fit: contain;
+
+@media (max-width:768px) {
+	#archive{
+		flex-direction: column;
+		height: auto;
+		overflow-y: auto;
+	}
+	.home-multi-image{
+		height: auto;
+		max-height: 90vh;
+		margin: auto;
+	}
 }
 
 
@@ -1032,7 +1036,7 @@ span.index-available:not(.sort){
             flex-basis: 100%;
         padding-right: 0;
     }
-    .index-content-articles .entry-available a {
+    .index-content-articles .entry-available a {media
         color: #808080;
     }
     .index-issue-title, .sort.index-title {

@@ -123,16 +123,59 @@ function init() {
 
     function homeCaption() {
         $(document).on('scroll', function () {
-        docScroll = $(document).scrollTop();
-            $('.home-single-wrapper').each(function () {
+            docScroll = $(document).scrollTop();
+            archiveY = $("#archive").offset().top - (1/2 * wh);
+            if(docScroll < archiveY){
+                $('.home-single-wrapper').each(function () {
+                    //console.log(archiveY);
+                    var myN = $(this).attr('data-n');
+                    var topDistance = $(this).offset().top - (1 / 2 * wh);
+                    //var scrollTop = $(this).scrollTop();
+                    //console.log(docScroll);
+                    if (topDistance < docScroll) {
+                        //console.log(myN);
+                        $('.home-caption-item').removeClass('is-active');
+                        $('#caption-' + myN).addClass('is-active');
+                    } else {
+                        $('#caption-' + myN).removeClass('is-active');
+                    }
+                });
+            }else{
+              var archiveScroll = $("#archive").scrollLeft();
+              $('.home-multi-wrapper').each(function () {
+                  var myN = $(this).attr('data-n');
+                  var leftDistance = $(this).get(0).offsetLeft;
+                  //console.log(leftDistance);
+                  if(archiveScroll > leftDistance-200 && archiveScroll < leftDistance +100) {
+                      //console.log(myN);
+                      $('.home-caption-item').removeClass('is-active');
+                      $('#caption-' + myN).addClass('is-active');
+                  }
+              });
+            }
+        });
+
+        $('.home-multi-wrapper').on('mouseover', function () {
+            $('.home-caption-item').removeClass('is-active');
+            var myN = $(this).attr('data-n');
+            $(this).addClass('is-active');
+            $('#caption-' + myN).addClass('is-active');
+            //console.log($(this).offsetLeft);
+        });
+
+        $('#archive').on('scroll', function () {
+            //archiveWidth = $(this).offset().width;
+            archiveScroll = $(this).scrollLeft();
+            //homeOffset = $('#home').offset().left;
+            //console.log(archiveScroll);
+            //console.log($('.home-multi-wrapper')[0].offsetLeft);
+            $('.home-multi-wrapper').each(function () {
                 var myN = $(this).attr('data-n');
-                var topDistance = $(this).offset().top - (1 / 2 * wh);
-                var scrollTop = $(this).scrollTop();
-                if ((topDistance) < docScroll) {
+                var leftDistance = $(this).get(0).offsetLeft;
+                //console.log(leftDistance);
+                if(archiveScroll > leftDistance-200 && archiveScroll < leftDistance +100) {
                     $('.home-caption-item').removeClass('is-active');
                     $('#caption-' + myN).addClass('is-active');
-                } else {
-                    $('#caption-' + myN).removeClass('is-active');
                 }
             });
         });
@@ -333,7 +376,12 @@ function init() {
     function lazyLoad() {
         var myLazyLoad = new LazyLoad({
             elements_selector: ".lazy",
-            load_delay: 150
+            load_delay: 150,
+            callback_loaded: function(el){
+              if (el.classList.contains("home-multi-image")){
+                  el.parentNode.parentNode.style.width = el.width + "px"
+              }
+            }
         });
     }
 
@@ -439,6 +487,19 @@ function init() {
 
         });
     }
+
+    function hackFirefoxWidthBug() {
+        $(window).on('resize', function () {
+          imageWidth = $(".home-multi-image").first().width()
+          containerWidth = $(".home-multi").first().width()
+          if (containerWidth != imageWidth){
+              $(".home-multi").each(function(){
+                  $(this).width(imageWidth);
+              });
+          }
+        });
+    }
+
     buildDataN();
     checkMenuState();
     flickity();
@@ -468,6 +529,7 @@ function init() {
         subMenu();
         escape();
         backToRef();
+        hackFirefoxWidthBug();
     } else {
         mobileFootnote();
     }

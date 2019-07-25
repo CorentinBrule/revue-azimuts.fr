@@ -10,6 +10,19 @@
                     <span class="home-number"><?= $number; ?></span><span class="home-title"><?= $title; ?></span>
                 </div>
                 <?php endforeach ?>
+          <?php foreach($pages->find('archives')->children()->visible()->flip() as $issue):
+                     $title = $issue->titre()->kt();
+                     $number = $issue->numero();
+                     $release = $issue->parution();
+                 ?>
+                 <div id="caption-<?= $number; ?>" class="home-caption-item">
+                    <?php if($title == ""): ?>
+                      <span class="home-title"><em>Azimuts</em> n° <?= $number; ?></span>
+                    <?php else: ?>
+                      <span class="home-number"><?= $number; ?></span><span class="home-title"><?= $title; ?></span>
+                    <?php endif ?>
+                 </div>
+                 <?php endforeach ?>
     </div>
     <div id="home">
       <div id="issues">
