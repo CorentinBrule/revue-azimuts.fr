@@ -617,10 +617,16 @@ button.article-gallery-close {
 		height: auto;
 		overflow-y: auto;
 	}
+
+	.home-multi{
+		margin: auto;
+		margin-bottom: 0.5rem;
+	}
+
 	.home-multi-image{
 		height: auto;
-		max-height: 90vh;
-		margin: auto;
+		max-height: 80vh;
+		margin: 0;
 	}
 }
 
@@ -658,6 +664,11 @@ button.article-gallery-close {
 }
 .home-title {
     margin: 0 10px;
+}
+
+.home-number-mobile{
+		font-style: normal;
+		margin-right: 10px;
 }
 
 @media (max-width:768px) {
