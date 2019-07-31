@@ -40,16 +40,18 @@
             <?php
             $items = $site->find('archives')->children()->children()->visible()->flip();
             foreach($items as $item):?>
-            <div class="archive <?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
-                <?php if($item->disponible()->value() == 'oui'): ?>
-                <a class="item" href="<?= $item->url() ?>">
-                <?php endif ?>
-                    <span class="index-issue tab"><?= html($item->parent()->numero()->htlm()) ?></span>
-                    <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
-                <?php if($item->disponible()->value() == 'oui'): ?>
-                </a>
-                <?php endif ?>
-              </div>
+              <?php if($item->section() != 'Éditorial' && $item->parent()->type() != 'Catalogue'): ?>
+              <div class="archive <?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  <a class="item" href="<?= $item->url() ?>">
+                  <?php endif ?>
+                      <span class="index-issue tab"><?= html($item->parent()->numero()->htlm()) ?></span>
+                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
+                  <?php if($item->disponible()->value() == 'oui'): ?>
+                  </a>
+                  <?php endif ?>
+                </div>
+              <?php endif ?>
             <?php endforeach ?>
 
             </div>
