@@ -376,13 +376,20 @@ function init() {
     function lazyLoad() {
         var myLazyLoad = new LazyLoad({
             elements_selector: ".lazy",
-            load_delay: 150,
-            callback_loaded: function(el){
-              if (el.classList.contains("home-multi-image")){
-                  el.parentNode.parentNode.style.width = el.width + "px"
-              }
-            }
+            load_delay: 150
         });
+        if ($('#archive').length){
+
+            var secondLazyLoad = new LazyLoad({
+                elements_selector: ".lazy",
+                container: document.getElementById('archive'),
+                callback_loaded: function(el){
+                    if (el.classList.contains("home-multi-image")){
+                        el.parentNode.parentNode.style.width = el.width + "px"
+                    }
+                }
+            });
+        }
     }
 
     function indexSort() {
