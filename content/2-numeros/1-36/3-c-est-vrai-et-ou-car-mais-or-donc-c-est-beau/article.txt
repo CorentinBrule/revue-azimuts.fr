@@ -7,3 +7,70 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 17–28
+----
+Disponible: oui
+----
+Informations: Texte paru dans *Azimuts*, nº 4, 1993.
+Traduit de l’italien par Jacques Demarcq
+
+----
+Introduction:
+Ezio Manzini est l’un des rares théoriciens actuels du design à en situer clairement l’enjeu au cœur de nos sociétés et de leurs crises. Ingénieur et architecte, directeur de la recherche à la Domus Academy de Milan, il a mené de nombreuses études sur les rapports étroits qu’entretiennent l’évolution technique et la conception des projets.
+
+Dans un premier livre, *La Matière de l’invention* (éditions du Centre Georges Pompidou, 1989), Manzini a examiné comment les plastiques, métaux, céramiques et composites ont accru et diversifié leurs performances, échangé leurs technologies et leurs domaines d’application et se sont spécialisés au point de devenir des matériaux sur mesure conçus en vue de tel ou tel projet. Il s’agissait de montrer que les possibilités ouvertes par ces matériaux rejaillissent sur le processus de conception d’un produit et invitent à reconsidérer ses qualités culturelles autant que techniques.
+
+Son deuxième ouvrage, *Artefact* (éditions du Centre Georges Pompidou, 1992), aborde l’autre face de la relation entre technologie et projet : quelle influence le concepteur peut-il exercer sur l’industrie, ses choix et ses méthodes ? Manzini part du constat que notre environnement artificiel n’a jamais été plus paradoxal : les objets perdent de leur matérialité et pourtant leurs déchets nous envahissent ; l’information prolifère tellement qu’elle ne produit plus que du bruit ; connaissances et techniques se développent, mais notre monde artificiel a tout d’une seconde nature dont les lois restent mystérieuses. Devant cet état de crise, Manzini plaide pour une écologie de l’artificiel, proposant une attitude qui, au-delà des déséquilibres du milieu physique, s’attache à résoudre les problèmes d’ordre culturel liés à l’hyperartificialité de notre environnement sémiotique et sensoriel. Ne cédant pas au catastrophisme, il dessine de nouvelles bases pour le projet industriel, avec pour objectif de réaliser des artefacts dotés à nouveau d’individualité et témoignant autant de la sagesse des hommes que de leur génie créatif. La revue *Azimuts* a voulu prolonger cette passionnante réflexion en posant à Ezio Manzini quelques-unes des questions que ne peut manquer de susciter la lecture de son livre, *Artefact*.
+----
+Texte:
+
+> AZ: *Dans tout projet, il y a une part d’esthétique industrielle. Après avoir lu *Artefacts*, on peut se demander si ce n’est pas une éthique industrielle que le concepteur devrait mettre en œuvre ?*
+
+EM: Le concepteur, selon moi, devrait suivre des principes relevant d’une « éthique du projet » mais j’ignore si à cette éthique correspond ce que vous appelez « éthique industrielle ». Dans mon vocabulaire, « éthique du projet » signifie : faire son possible pour améliorer la qualité du monde. J’ai conscience que cette définition est vague : que signifie « faire son possible » et que signifie « la qualité du monde » ?
+
+« Faire son possible » renvoie à la nécessité, pour le concepteur, de tenir compte du système à l’intérieur duquel il opère et, en même temps, à la possibilité de l’infléchir dans la direction qui semble la plus juste. Ainsi un designer est-il forcé de tenir compte des règles du marché, mais il peut tenter de leur faire prendre une direction plus favorable.
+
+« La qualité du monde » est un concept aussi général qu’il est très flou. La notion de qualité a en soi une valeur relative : la qualité est une convention sociale historiquement déterminée ; si bien que cette référence à la qualité du monde prend assurément une connotation « faible ». Cela est d’autant plus évident lorsqu’on la compare au caractère « fort » des références éthiques du Mouvement moderne. Le Mouvement moderne proposait des valeurs qui semblaient claires, simples et fortes : 1º) le projet moderne est une contribution au progrès ; 2º) multipliant les produits et développant la consommation, il contribue à la démocratie (celle de la consommation) ; 3º) il propose une esthétique qui se révèle aussi une éthique, puisque les produits et matériaux qui se montrent dans leur « vérité » ne sont pas seulement beaux, ils sont également justes. Aujourd’hui, ces trois affirmations sont remises en question. Est en crise l’idée de Progrès, si bien qu’il n’y a plus de référence assez sûre et générale pour guider les choix. La « démocratie de la consommation », qui se réalise grâce à une meilleure conception des produits, ne tient pas devant les problèmes écologiques, d’une part, la pauvreté et les inégalités du monde, d’autre part. Enfin, le concept de « vérité » des produits a vu ses bases minées par l’innovation technique elle-même et a perdu toute chance de signifier quelque chose d’un point de vue pratique.
+
+> AZ: *Existe-t-il des produits vrais ?*
+
+EM: Au sens strict, l’adjectif « vrai » ne devrait pas être attribué à un produit. « Vrai » pour le dictionnaire signifie : qui correspond à la réalité effective de la chose. Tout produit peut donc être considéré comme « vrai » dans la mesure où il correspond forcément à sa propre réalité.
+
+Au sens large, le concept de « vérité » d’un produit a été employé par le Mouvement moderne pour qualifier une certaine transparence, une certaine sincérité : un matériau « vrai » est celui qui se présente sous un visage exprimant ses propriétés intrinsèques ; un produit « vrai » est celui qui montre avec clarté la manière dont il fonctionne. Mais cette interprétation, avec l’éthique et l’esthétique de la vérité qui s’y rattachent, n’a pu être mise en pratique qu’à un moment du développement technique au cours duquel chaque matériau revêtait une apparence privilégiée (apparence qui pouvait être considérée comme son « vrai visage ») et où les appareillages fonctionnels avaient une forme reconnaissable (forme « vraie » correspondant à leur fonction). Aujourd’hui, la diminution d’échelle de la manipulation technique, la capacité d’intervenir sur le très petit et le très rapide ont remis en question ce concept de « vérité ». Les matériaux peuvent assumer « sincèrement » n’importe quelle image – et n’ont donc pas d’image plus « vraie » que toutes les autres qu’ils pourraient prendre. Les appareillages s’étant parallèlement miniaturisés n’ont plus eux-mêmes de forme « vraie » qui soit reconnaissable et à l’échelle de notre perception ils peuvent prendre n’importe quel type de forme.
+
+C’est pourquoi on peut dire aujourd’hui que l’unique « vérité » technique est la possibilité de produire des quantités de formes différentes et d’apparaître sous autant de visages.
+
+> AZ: *Comment définiriez-vous un produit vrai, qui satisfasse aux critères écologiques de l’environnement artificiel que vous esquissez dans ce même livre ?*
+
+EM: Je ne le définirais pas comme un « produit vrai », mais comme un « produit qui répond vraiment à des critères écologiques ». Le concept de « vérité » ne concerne plus alors le produit proprement dit, mais le fait, qui doit être vérifiable, que ce produit présente un intérêt pour l’environnement.
+
+> AZ: *Est-ce que vous contribuez, même indirectement, à la conception de tels produits ?*
+
+EM: C’est ce que je tente de faire : soit en tant qu’intervenant culturel (avec l’espoir que mes idées influenceront d’autres opérateurs), soit en collaborant directement avec l’industrie.
+
+> AZ: *Que pensez-vous de l’usage que fait aujourd’hui la publicité des thématiques du recyclage et de la non-pollution, sans que ce discours recouvre forcément des réalités nouvelles (le berlingot d’eau-de-javel baptisé « éco-recharge », l’automobile « entièrement recyclable », etc.) ?*
+
+EM: Je suis préoccupé par l’emploi déformé qui est souvent fait de ces thèmes et par la confusion et la désaffection qui peut en résulter dans le public. Je pense néanmoins que la publicité doit être abordée sous un angle positif : la publicité est un outil de communication, le moyen de créer une « culture de la consommation ». C’est à ce niveau que l’on devrait parler d’une « éthique industrielle ».
+
+> AZ: *De même, votre pensée ne serait-elle pas un alibi que la société industrielle se donne pour continuer à agir comme auparavant ?*
+
+EM: C’est possible ! Mais lorsqu’on se veut designer ou théoricien du design, on ne saurait éluder la nécessité de se mesurer à la société industrielle en général et aux chefs d’entreprise en particulier. Il s’agit toutefois d’envisager cette confrontation de manière dynamique, comme la mise en relation d’acteurs qui n’ont pas forcément le même point de vue, mais qui, en interagissant, aboutissent à un certain résultat. Le designer tente d’améliorer « la qualité du monde » et l’industriel pense aux affaires. L’un des rôles du premier (sur la base de l’« éthique du projet » dont j’ai parlé) est de convaincre le second qu’il peut faire des affaires en proposant de la qualité. Mais ce n’est pas le seul. Pour que la production adopte des critères qualitatifs, il faut que cette orientation réponde à une demande du marché : le rôle du designer est aussi d’aider à ce que cette demande croisse – ce qu’il peut faire en intervenant sur le plan culturel.
+
+> AZ: *Si vos idées l’emportaient, le concepteur ne devrait-il pas inventer un circuit social en même temps qu’un produit matériel, y compris lorsqu’il s’agit de produit dont la récupération commerciale est sans intérêt (emballage plastique ou ordinateur obsolète) ?*
+
+EM: Je ne suis pas sûr d’avoir bien compris la question. En tout cas, s’il s’agit de dire que le but du projet n’est pas seulement de définir le produit lui-même, mais aussi de concevoir les services qui s’y rattachent, de proposer des « scénarios culturels de référence » et d’aider à l’émergence d’une culture de la consommation, mon accord est total avec cette conception.
+
+> AZ: *N’est-ce pas écologiquement une hérésie que de continuer à concevoir des produits individuels au lieu d’envisager des projets d’ensemble dans lequel chaque produit aurait sa place : créer des automobiles, par exemple, sans penser d’abord à quel type de ville elles sont destinées ?*
+
+EM: Je crois que le véritable problème est d’accepter la complexité des systèmes sur lesquels nous intervenons et d’apprendre à nous mouvoir à l’intérieur. S’il ne faut pas oublier que tout produit particulier fait partie d’un système plus général, cela n’interdit pas d’intervenir sur le particulier tout en investissant dans une telle intervention le maximum de sensibilité au général et en reconnaissant les limites et spécificités de ce cas particulier. C’est là ce que nous entendons par l’expression « apprendre à se mouvoir à l’intérieur de la complexité ». La paralysie autrement nous menacerait, qui consisterait à ne rien faire en attendant de pouvoir tout changer.
+
+> AZ: *Suite logique de la question précédente : ne vous arrive-t-il pas, de temps en temps, de rêver à des utopies ?*
+
+EM: Quelquefois… Mais j’ai fini par comprendre que l’utopie est un rêve dangereux : dans la plupart des cas elle conduit à la paralysie, celle de ne rien faire en attendant sa réalisation. Et quand dans l’histoire elle se réalise, le rêve se transforme en cauchemar : on a fait les pires choses au nom d’utopies qui paraissaient excellentes.
+
+« Apprendre à se mouvoir à l’intérieur de la complexité » signifie également accepter la relativité de tout point de vue et donc le fait qu’il ne s’agit pas tant de réaliser une utopie que de confronter en permanence des points de vue différents. Cela n’empêche nullement qu’on puisse, comme je l’ai dit ailleurs, proposer des « scénarios », c’est-à-dire des visions d’ensemble que l’on cherchera à rendre actives, un peu à la manière de « pôles attractifs » créant une dynamique entraînant d’autres acteurs sociaux. Mais je tiens à dire que ce concept de « scénario » est beaucoup moins fort et autoritaire que celui d’utopie – ou si l’on veut, j’entends par « scénario » une sorte d’utopie faible.
+
+> AZ: *N’est-il pas déjà trop tard ? Ne va-t-on pas vers un monde développé et aseptisé dont le tiers-monde serait la poubelle ?*
+
+EM: Trop tard par rapport à quoi ? L’unique « trop tard » que l’on puisse définir avec précision a trait aux problèmes écologiques « durs », tels ceux qui conduiraient irrémédiablement à la fin de l’espèce humaine – un peu comme on dit : « l’avion dégringole et il est trop tard pour tenter une quelconque manœuvre ». Ceci considéré, une réponse simple est possible : peut-être est-il vraiment « trop tard », mais puisque nous n’en sommes pas sûrs, on peut faire comme si ce n’était pas le cas et tenter d’agir dans le sens qui paraît le meilleur. En dehors de ces problèmes écologiques « durs », les domaines sur lesquels on peut s’interroger sont anthropologiques, sociologiques, économiques, culturels, etc., tous domaines où l’idée de « trop tard » me laisse perplexe. J’ai l’impression qu’elle présuppose quelque chose de daté et de rigide qui pourrait être perdu ou préservé. Tout indique pourtant que l’histoire des hommes a été celle d’une continuelle évolution. Dans les domaines susmentionnés tout a profondément changé et quand les hommes se sont aperçus du changement il était chaque fois « trop tard » …
+
+Aujourd’hui encore le monde est en train de changer. La direction qu’il prend peut nous plaire plus ou moins. À partir de quoi nous pouvons agir afin de pousser dans un sens ou dans un autre. Mais l’unique chose certaine est que demain sera différent d’aujourd’hui, que personne ne peut vraiment le prévoir ni rien déterminer et que ce que le monde sera dépend quand même en partie de nous. Les choses ainsi considérées, il n’est jamais « trop tard ».
