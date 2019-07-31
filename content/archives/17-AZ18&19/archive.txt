@@ -1,4 +1,4 @@
-Titre: Catalogue 2e Biennale Internationale Design Saint-Étienne
+Titre: Catalogue 2^e Biennale Internationale Design Saint-Étienne
 ----
 Numero: 18-19
 ----
@@ -6,22 +6,23 @@ Parution: 2000
 ----
 Pages: 592 pages
 ----
-Prix: 
+Prix:
 ----
 ISSN: 1160 9958 18-19
 ----
 ISBN: 1160 9958 18-19
 ----
-Presentation: 
+Presentation:
 
 ----
-Direction editoriale: 
+Direction editoriale:
 ----
-Direction graphique: 
+Direction graphique:
 ----
-Design graphique: 
+Design graphique:
 ----
-Etudiants chercheurs: 
+Etudiants chercheurs:
 ----
 Editeur: IRDD
 ----
+Type: Catalogue 

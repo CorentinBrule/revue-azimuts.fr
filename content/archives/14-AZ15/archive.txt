@@ -1,4 +1,4 @@
-Titre: Catalogue 1ère Biennale Internationale Design Saint-Étienne
+Titre: Catalogue 1^ère Biennale Internationale Design Saint-Étienne
 ----
 Numero: 15
 ----
@@ -6,20 +6,21 @@ Parution: 1998
 ----
 Pages: 392 pages
 ----
-Prix: 
+Prix:
 ----
 ISSN: 1160 9958 15
 ----
-Presentation: 
+Presentation:
 
 ----
-Direction editoriale: 
+Direction editoriale:
 ----
-Direction graphique: 
+Direction graphique:
 ----
-Design graphique: 
+Design graphique:
 ----
-Etudiants chercheurs: 
+Etudiants chercheurs:
 ----
 Editeur: IRDD
 ----
+Type: Catalogue 

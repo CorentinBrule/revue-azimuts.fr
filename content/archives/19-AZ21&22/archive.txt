@@ -1,4 +1,4 @@
-Titre: Catalogue 3e Biennale Internationale Design Saint-Étienne
+Titre: Catalogue 3^e Biennale Internationale Design Saint-Étienne
 ----
 Numero: 21-22
 ----
@@ -6,22 +6,23 @@ Parution: 2002
 ----
 Pages: 632 pages
 ----
-Prix: 
+Prix:
 ----
 ISSN: 1160 9958 21-22
 ----
 ISBN: 1160 9958 21-22
 ----
-Presentation: 
+Presentation:
 
 ----
-Direction editoriale: 
+Direction editoriale:
 ----
-Direction graphique: 
+Direction graphique:
 ----
-Design graphique: 
+Design graphique:
 ----
-Etudiants chercheurs: 
+Etudiants chercheurs:
 ----
 Editeur: IRDD
 ----
+Type: Catalogue 
