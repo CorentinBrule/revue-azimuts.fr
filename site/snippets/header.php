@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>
-        <?= $site->title()->html() ?><?php if($page->template() == 'numero'): ?>&ensp;<?= $page->numero()->html() ?>&ensp;<?= $page->titre()->html() ?><?php endif ?><?php if($page->template() == 'article'): ?>&ensp;<?= $page->parent()->numero()->html() ?>&ensp;<?= html::decode($page->titre()->kt()) ?><?php endif ?><?php $templates = ['a-propos', 'numeros', 'articles']; if(in_array($page->template(), $templates)): ?>&ensp;<?= $page->titre()->html() ?><?php endif ?>  
+        <?= $site->title()->html() ?><?php if($page->template() == 'numero'): ?>&ensp;<?= $page->numero()->html() ?>&ensp;<?= $page->titre()->html() ?><?php endif ?><?php if($page->template() == 'article'): ?>&ensp;<?= $page->parent()->numero()->html() ?>&ensp;<?= html::decode($page->titre()->kt()) ?><?php endif ?><?php $templates = ['a-propos', 'numeros', 'articles']; if(in_array($page->template(), $templates)): ?>&ensp;<?= $page->titre()->html() ?><?php endif ?>
     </title>
     <meta name="title" content="<?php if($page->template() == 'numero'): ?><?= $site->title()->html() ?> <?= $page->numero()->html() ?>, <?= $page->titre()->html() ?><?php endif ?><?php if($page->template() == 'article'): ?><?= html::decode($page->titre()->kt()) ?><?php endif ?><?php $templates = ['a-propos', 'numeros', 'articles', 'home']; if(in_array($page->template(), $templates)): ?><?= $site->title()->html() ?><?php endif ?>">
     <meta name="description" content="<?= $site->description()->html() ?>">
@@ -17,7 +17,9 @@
         <?php $image = $page->parent()->image('image.jpg')->thumb(array('width' => 800)); ?>
         <?php endif ?>
     <?php elseif($page->template() == 'numero'): ?>
-        <?php $image = $page->image('image.jpg')->thumb(array('width' => 800)); ?>
+        <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 800)); ?>
+    <?php elseif($page->template() == 'archive'): ?>
+        <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 800)); ?>
     <?php else: ?>
         <?php $image = $pages->find('numeros')->children()->last()->image('image.jpg')->thumb(array('width' => 800)); ?>
     <?php endif ?>
@@ -39,10 +41,13 @@
     <meta name="twitter:title" content="<?php if($page->template() == 'numero'): ?><?= $site->title()->html() ?> <?= $page->numero()->html() ?>, <?= $page->titre()->html() ?><?php endif ?><?php if($page->template() == 'article'): ?><?= html::decode($page->titre()->kt()) ?><?php endif ?><?php $templates = ['a-propos', 'numeros', 'articles', 'home']; if(in_array($page->template(), $templates)): ?><?= $site->title()->html() ?><?php endif ?>">
     <meta name="twitter:description" content="<?= $site->description()->html() ?>">
     <meta name="twitter:image" content="<?= $image->url() ?>">
-    
-    <?= css('assets/css/app.min.css?v=1.11') ?>
+
+    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
+    <!--<?= css('assets/css/app.min.css?v=1.11') ?>-->
+    <?= css('assets/css/app.css?v=1.11') ?>
     <?= css('assets/css/custom-articles.css?v=1') ?>
-    
+    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
+
     <link rel="apple-touch-icon" sizes="57x57" href="<?= $site->url() ?>/assets/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="<?= $site->url() ?>/assets/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="<?= $site->url() ?>/assets/favicon/apple-icon-72x72.png">
@@ -67,16 +72,21 @@
         <div class="pagetitle"></div>
         <div class="nav-bar">
             <p class="site-title sc"><a class="item" href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a></p>
-
+            <noscript><em id="noscript-message">no script version</em></noscript>
             <div class="nav-left">
                 <?php if($page->template() == 'article'): ?>
-                <span class="ajax-nav-left">   
+                <span class="ajax-nav-left">
                     <a class="item" href="<?= $page->parent()->url() ?>"><?= $page->parent()->numero()->html()  ?></a>
                 </span>
                 <?php endif ?>
 
                 <?php if($page->template() == 'numero'): ?>
-                <span class="ajax-nav-left">          
+                <span class="ajax-nav-left">
+                    <?= $page->numero()->html()  ?>
+                </span>
+                <?php endif ?>
+                <?php if($page->template() == 'archive'): ?>
+                <span class="ajax-nav-left">
                     <?= $page->numero()->html()  ?>
                 </span>
                 <?php endif ?>
@@ -86,7 +96,7 @@
                   <li><a class="item menu-items menu-item-<?= $p->slug() ?> nav-mobile<?php e($p->isOpen(), ' active') ?>" href="<?= $p->url() ?>" data-page="<?= $p->slug() ?>"><?= $p->titre()->html() ?></a></li>
             <?php endforeach ?>
         </nav>
-        <div class="nav-icon-wrapper">    
+        <div class="nav-icon-wrapper">
             <button class="nav-icon" role="navigation">
                 <svg class="nav-icon-closed" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 15"><path d="M0,7h18v1H0V7z M0,14h18v1H0V14z M0,0h18v1H0V0z"></path></svg>
                 <svg class="nav-icon-opened" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><path d="M18,0.8L17.2,0L9.1,8.2L0.8,0L0,0.8l8.2,8.2L0,17.2L0.8,18l8.2-8.1l8.1,8.1l0.8-0.8L9.9,9.1L18,0.8z"></path></svg>
@@ -95,4 +105,4 @@
         </div>
     </header>
 
-    <div class="site">        
+    <div class="site">

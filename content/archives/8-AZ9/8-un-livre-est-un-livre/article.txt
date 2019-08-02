@@ -1,0 +1,9 @@
+Titre: Un livre est un livre
+----
+Auteur: Anne Mœglin‑Delcroix
+----
+Section: 
+----
+Pages: 26
+----
+Texte: 

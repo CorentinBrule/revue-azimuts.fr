@@ -21,11 +21,11 @@
                     <div class="issue-content-infos">
                         <?= $page->pages()->html() ?>, <span class="sc">ESADSE</span>/Cité du design, <?= $page->parution()->html() ?>, <?= $page->prix()->html() ?>, <span class="sc">ISSN</span>:&#8239;<?= $page->issn()->html() ?>
                     </div>
-                    
+
                 </div>
             </div>
          </section>
-            
+
          <section class="index-content">
             <div class="index-content-sort">
                 <span class="sort index-pages sc">Pages</span>
@@ -40,7 +40,7 @@
                 foreach($sections as $section => $items): ?>
                     <div class="section <?= str::slug($section) ?>"><div class="section-title"><?= $section ?></div>
                         <?php foreach($items as $item) : ?>
-                        <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>"> 
+                        <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>">
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         <a class="item" href="<?= $item->url() ?>"><?php endif ?>
                             <span class="index-pages tab"><?= html($item->pages()) ?></span>
@@ -53,34 +53,18 @@
                     </div>
                 <?php endforeach ?>
             </div>
+
     </section>
-        
+
     <section class="issue-footer">
         <div class="issue-credits">
              <em>Direction&nbsp;éditoriale</em> <?= $page->direction_editoriale()->html() ?> / <em>Direction&nbsp;graphique</em> <?= $page->direction_graphique()->html() ?> / <em>Design&nbsp;graphique</em> <?= $page->design_graphique()->html() ?> / <em>Étudiants&nbsp;chercheurs</em> <?= $page->etudiants_chercheurs()->html() ?>
         </div>
     </section>
-    
+
     <section class="index-content issue">
         <div class="index-content-title text-large">Autres numéros</div>
-        <div class="index-content-sort">
-            <a class="index-issue-single sc" data-sortby="issue">Nº</a>
-            <a class="index-issue-title sc" data-sortby="title">Titre</a>
-            <a class="index-issue-release sc">Année</a>
-        </div>
-        <div class="index-content-issues">
-            <?php 
-            $items = $site->find('numeros')->children()->visible()->not($site->activePage())->flip(); 
-            foreach($items as $item):?>
-            <div class="entry-available">
-                <a class="item" href="<?= $item->url() ?>">
-                    <span class="index-issue-single tab"><?= html($item->numero()) ?></span>
-                    <span class="index-issue-title"><?= $item->titre()->kt() ?></span>
-                    <span class="index-issue-release tab"><?= html($item->parution()) ?></span>
-                </a>
-            </div>
-            <?php endforeach ?>
-        </div>
+        <?php snippet('numeros-index') ?>
     </section>
 </div>
 <?php snippet('footer') ?>
