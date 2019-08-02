@@ -107,53 +107,59 @@ function init() {
     }
 
     function showCaption() {
-        docScroll = $(document).scrollTop();
-        $('.article-content-image').each(function (e) {
-            var myN = $(this).attr('data-n');
-            var myOffset = Math.round($(this).offset().top + ($(this).outerHeight(true) / 2));
-            if ($(this).visible(true) && parseInt(docScroll + (9 / 10 * wh)) >= myOffset && parseInt(docScroll + (1 / 10 * wh)) <= myOffset) {
-                $('#caption-' + myN).addClass('is-active');
-            } else {
-                $('#caption-' + myN).removeClass('is-active');
-            }
-        });
+        $(document).on('scroll',function() {
+          docScroll = $(document).scrollTop();
+          $('.article-content-image').each(function (e) {
+              var myN = $(this).attr('data-n');
+              var myOffset = Math.round($(this).offset().top + ($(this).outerHeight(true) / 2));
+              if ($(this).visible(true) && parseInt(docScroll + (9 / 10 * wh)) >= myOffset && parseInt(docScroll + (1 / 10 * wh)) <= myOffset) {
+                  $('#caption-' + myN).addClass('is-active');
+              } else {
+                  $('#caption-' + myN).removeClass('is-active');
+              }
+          });
+        })
+
     }
-    timerSC = setInterval(showCaption, 500);
+    //timerSC = setInterval(showCaption, 500);
 
 
     function homeCaption() {
-        $(document).on('scroll', function () {
-            docScroll = $(document).scrollTop();
-            archiveY = $("#archive").offset().top - (1/2 * wh);
-            if(docScroll < archiveY){
-                $('.home-single-wrapper').each(function () {
-                    //console.log(archiveY);
-                    var myN = $(this).attr('data-n');
-                    var topDistance = $(this).offset().top - (1 / 2 * wh);
-                    //var scrollTop = $(this).scrollTop();
-                    //console.log(docScroll);
-                    if (topDistance < docScroll) {
-                        //console.log(myN);
-                        $('.home-caption-item').removeClass('is-active');
-                        $('#caption-' + myN).addClass('is-active');
-                    } else {
-                        $('#caption-' + myN).removeClass('is-active');
-                    }
-                });
-            }else{
-              var archiveScroll = $("#archive").scrollLeft();
-              $('.home-multi-wrapper').each(function () {
-                  var myN = $(this).attr('data-n');
-                  var leftDistance = $(this).get(0).offsetLeft;
-                  //console.log(leftDistance);
-                  if(archiveScroll > leftDistance-200 && archiveScroll < leftDistance +100) {
-                      //console.log(myN);
-                      $('.home-caption-item').removeClass('is-active');
-                      $('#caption-' + myN).addClass('is-active');
-                  }
-              });
-            }
-        });
+        if ($("#archive").length) {
+
+            $(document).on('scroll', function () {
+                docScroll = $(document).scrollTop();
+                archiveY = $("#archive").offset().top - (1/2 * wh);
+                if(docScroll < archiveY){
+                    $('.home-single-wrapper').each(function () {
+                        //console.log(archiveY);
+                        var myN = $(this).attr('data-n');
+                        var topDistance = $(this).offset().top - (1 / 2 * wh);
+                        //var scrollTop = $(this).scrollTop();
+                        //console.log(docScroll);
+                        if (topDistance < docScroll) {
+                            //console.log(myN);
+                            $('.home-caption-item').removeClass('is-active');
+                            $('#caption-' + myN).addClass('is-active');
+                        } else {
+                            $('#caption-' + myN).removeClass('is-active');
+                        }
+                    });
+                }else{
+                  var archiveScroll = $("#archive").scrollLeft();
+                  $('.home-multi-wrapper').each(function () {
+                      var myN = $(this).attr('data-n');
+                      var leftDistance = $(this).get(0).offsetLeft;
+                      //console.log(leftDistance);
+                      if(archiveScroll > leftDistance-200 && archiveScroll < leftDistance +100) {
+                          //console.log(myN);
+                          $('.home-caption-item').removeClass('is-active');
+                          $('#caption-' + myN).addClass('is-active');
+                      }
+                  });
+                }
+            });
+        }
 
         $('.home-multi-wrapper').on('mouseover', function () {
             $('.home-caption-item').removeClass('is-active');
@@ -192,18 +198,20 @@ function init() {
     }
 
     function showFootnote() {
-        docScroll = $(document).scrollTop();
-        $('.footnote-ref').each(function (e) {
-            var myN = $(this).attr('data-n');
-            var myOffset = Math.round($(this).offset().top);
-            if ($(this).visible(true) && parseInt(docScroll + (3 / 4 * wh)) >= myOffset && parseInt(docScroll + (1 / 4 * wh)) < myOffset) {
-                $('#footnote-' + myN).addClass('is-active');
-            } else {
-                $('#footnote-' + myN).removeClass('is-active');
-            }
+        $(document).on('scroll',function (){
+            docScroll = $(document).scrollTop();
+            $('.footnote-ref').each(function (e) {
+                var myN = $(this).attr('data-n');
+                var myOffset = Math.round($(this).offset().top);
+                if ($(this).visible(true) && parseInt(docScroll + (3 / 4 * wh)) >= myOffset && parseInt(docScroll + (1 / 4 * wh)) < myOffset) {
+                    $('#footnote-' + myN).addClass('is-active');
+                } else {
+                    $('#footnote-' + myN).removeClass('is-active');
+                }
+            });
         });
     }
-    timerSFN = setInterval(showFootnote, 500);
+    //timerSFN = setInterval(showFootnote, 500);
 
     function showFootnoteOnclick() {
         $('a.footnote-ref').on('click', function () {
@@ -424,7 +432,6 @@ function init() {
       $('.archive').addClass("hidden-archive");
       $("#button-next-issues").on('click',function(e){
         archiveBool = !archiveBool;
-        console.log(archiveBool);
         if (archiveBool){
           $("#button-next-issues").addClass("button-activate");
           $('.archive').removeClass("hidden-archive");
