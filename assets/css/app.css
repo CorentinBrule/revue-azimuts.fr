@@ -628,6 +628,7 @@ button.article-gallery-close {
 		height: auto;
 		max-height: 80vh;
 		margin: 0;
+		max-width: calc(100vw - 1.6rem);
 	}
 }
 
