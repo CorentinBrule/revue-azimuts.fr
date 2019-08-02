@@ -776,8 +776,10 @@ button.article-gallery-close {
     max-width: 28rem;
 }
 
-.numeros {
-		margin-left: calc(100vw - 100%); /* prevent jumpings scrollbar*/
+@media (min-width:768px) {
+		.numeros {
+				margin-left: calc(100vw - 100%); /* prevent jumpings scrollbar*/
+		}
 }
 
 /* Index */
