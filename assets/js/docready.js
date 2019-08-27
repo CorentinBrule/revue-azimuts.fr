@@ -398,6 +398,24 @@ function init() {
                 }
             });
         }
+
+        // Charge les image à l'impression
+        var isSafari = /^((?!chrome|android).)*safari/i.test(
+            navigator.userAgent
+        );
+        if (!isSafari) {
+            window.onbeforeprint = function() {
+                wLazyLoad.loadAll();
+            };
+        } else {
+            // Safari hack
+            var mediaQueryList = window.matchMedia("print");
+            mediaQueryList.addListener(function(mql) {
+                if (mql.matches) {
+                    wLazyLoad.loadAll();
+                }
+            });
+        }
     }
 
     function indexSort() {
