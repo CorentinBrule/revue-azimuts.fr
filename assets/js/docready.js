@@ -405,14 +405,14 @@ function init() {
         );
         if (!isSafari) {
             window.onbeforeprint = function() {
-                wLazyLoad.loadAll();
+                myLazyLoad.loadAll();
             };
         } else {
             // Safari hack
             var mediaQueryList = window.matchMedia("print");
             mediaQueryList.addListener(function(mql) {
                 if (mql.matches) {
-                    wLazyLoad.loadAll();
+                    myLazyLoad.loadAll();
                 }
             });
         }
