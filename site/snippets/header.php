@@ -42,11 +42,10 @@
     <meta name="twitter:description" content="<?= $site->description()->html() ?>">
     <meta name="twitter:image" content="<?= $image->url() ?>">
 
-    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
-    <!--<?= css('assets/css/app.min.css?v=1.11') ?>-->
-    <?= css('assets/css/app.css?v=1.11') ?>
+    <noscript><?= css('assets/css/app-noscript.css?v=0.1') ?></noscript>
+    <?= css('assets/css/app.min.css?v=1.12') ?>
     <?= css('assets/css/custom-articles.css?v=1') ?>
-    <noscript><?= css('assets/css/app-noscript.css?v=1.11') ?></noscript>
+    <noscript><?= css('assets/css/app-noscript.css?v=0.1') ?></noscript>
 
     <link rel="apple-touch-icon" sizes="57x57" href="<?= $site->url() ?>/assets/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="<?= $site->url() ?>/assets/favicon/apple-icon-60x60.png">

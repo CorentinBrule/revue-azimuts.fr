@@ -1,5 +1,4 @@
 <?php snippet('header') ?>
-<p>coucou</p>
 <main class="content load" role="main" data-page="<?= $page->slug() ?>">
     <div class="nav-center running-title">
       <?php if($page->titre()->html()!=""): ?>
