@@ -11,7 +11,7 @@
                 <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 600));
                 if($image): ?>
                 <div class="issue-cover">
-                    <img src="<?= $image->url() ?>" alt="">
+                    <img src="<?= $image->url() ?>" alt="Couverture du numéro <?= $page->numero() ?>">
                 </div>
                 <?php endif ?>
                 <div class="issue-presentation">

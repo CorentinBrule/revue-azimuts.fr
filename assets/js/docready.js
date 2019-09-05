@@ -498,9 +498,13 @@ function init() {
     }
 
     function load() {
+        document.activeElement.blur();
+        $('a').on('click',function(e){
+            document.activeElement.blur();
+        })
         $('a.item').on('click', function (e) {
             if ( e.ctrlKey || e.metaKey ) {
-               return;
+                document.activeElement.blur();
             }
             else {
                 e.preventDefault();

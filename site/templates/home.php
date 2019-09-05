@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 <main class="content load" role="main" data-page="<?= $page->slug() ?>">
-    <div class="nav-center home">
+    <div aria-hidden="true" class="nav-center home">
          <?php foreach($pages->find('numeros')->children()->visible()->flip() as $issue):
                     $title = $issue->titre();
                     $titleMD = $title->kirbytextRaw();

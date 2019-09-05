@@ -67,6 +67,7 @@
 </head>
 
 <body>
+    <div id="skip"><a href="#content">Passer au contenu principal de la page</a></div>
     <header class="nav-wrapper" role="banner">
         <div class="pagetitle"></div>
         <div class="nav-bar">
@@ -90,10 +91,12 @@
                 </span>
                 <?php endif ?>
             </div>
-        <nav class="main-nav sc" role="navigation">
+        <nav class="sc" role="navigation">
+          <ul class="main-nav">
             <?php foreach($pages->visible() as $p): ?>
-                  <li><a class="item menu-items menu-item-<?= $p->slug() ?> nav-mobile<?php e($p->isOpen(), ' active') ?>" href="<?= $p->url() ?>" data-page="<?= $p->slug() ?>"><?= $p->titre()->html() ?></a></li>
+                <li><a class="item menu-items focus-item menu-item-<?= $p->slug() ?> nav-mobile<?php e($p->isOpen(), ' active') ?>" href="<?= $p->url() ?>" data-page="<?= $p->slug() ?>"><?= $p->titre()->html() ?></a></li>
             <?php endforeach ?>
+          </ul>
         </nav>
         <div class="nav-icon-wrapper">
             <button class="nav-icon" role="navigation">
@@ -104,4 +107,4 @@
         </div>
     </header>
 
-    <div class="site">
+    <div id="content" class="site">

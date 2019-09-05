@@ -12,13 +12,13 @@
                 <a href="#" class="sort index-available sc" data-sortby="available" data-sortdir="ASC">Lire</a>
                 <a href="#" class="sort index-type sc" data-sortby="type" data-sortdir="ASC">Type</a>
             </div>
-            <div class="index-content-articles">
+            <ul class="index-content-articles">
 
             <?php
             $items = $site->find('numeros')->children()->children()->visible()->flip();
             foreach($items as $item):?>
               <?php if($item->section() != 'Éditorial'): ?>
-              <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
+              <li class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   <a class="item" href="<?= $item->url() ?>">
                   <?php endif ?>
@@ -29,7 +29,7 @@
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   </a>
                   <?php endif ?>
-                </div>
+              </li>
               <?php endif ?>
             <?php endforeach ?>
             <div id="button-next-issues" class="input-label" for="show-button">
@@ -54,7 +54,7 @@
               <?php endif ?>
             <?php endforeach ?>
 
-            </div>
+          </ul>
         </section>
     </div>
 </main>
