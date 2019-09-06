@@ -449,6 +449,9 @@ function init() {
     function archiveToggle(){
       $('.archive').addClass("hidden-archive");
       $("#button-next-issues").on('click',function(e){
+        if ($('#archive-index-load').length==0){
+            $("#archive-index-unload").replaceWith($("<div id='archive-index-load'>"+$("#archive-index-unload").html()+"</div>"));
+        }
         archiveBool = !archiveBool;
         if (archiveBool){
           $("#button-next-issues").addClass("button-activate");
