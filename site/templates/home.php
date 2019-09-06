@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<main class="content load" role="main" data-page="<?= $page->slug() ?>">
+<main class="content load" data-page="<?= $page->slug() ?>">
     <div aria-hidden="true" class="nav-center home">
          <?php foreach($pages->find('numeros')->children()->visible()->flip() as $issue):
                     $title = $issue->titre();
@@ -67,5 +67,5 @@
           </div>
           <?php endforeach ?>
         </div>
-    </div>
+    </main>
 <?php snippet('footer') ?>

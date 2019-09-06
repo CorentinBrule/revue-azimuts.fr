@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<main class="content load" role="main" data-page="<?= $page->slug() ?>">
+<main class="content load" data-page="<?= $page->slug() ?>">
     <div class="nav-center">
         <input id="search" class="nav-search-input" type="text" placeholder="Rechercher" role="research">
     </div>

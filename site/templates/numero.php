@@ -1,12 +1,12 @@
 <?php snippet('header') ?>
-<main class="content load" role="main" data-page="<?= $page->slug() ?>">
+<main class="content load" data-page="<?= $page->slug() ?>">
     <div class="nav-center running-title">
         <?= $page->titre()->kt() ?>
     </div>
     <div class="issue">
         <section class="issue-content">
             <h1 class="article-content-title heading">
-               <?= $page->titre()->kt() ?></h1>
+               <?= $page->titre()->html() ?></h1>
             <div class="issue-content-header">
                 <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 600));
                 if($image): ?>

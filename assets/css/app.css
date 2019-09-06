@@ -239,7 +239,8 @@ body {
     -webkit-font-feature-settings: "onum", "liga";
     -moz-font-feature-settings: "onum", "liga";
     -ms-font-feature-settings: "onum", "liga";
-    font-variant: oldstyle-nums, common-ligatures;
+		font-variant-numeric: oldstyle-nums;
+    font-variant-ligatures: common-ligatures;
     color: #000;
     font-weight: 400;
 }
@@ -283,7 +284,7 @@ sup {
     -webkit-font-feature-settings: "tnum", "onum";
     -moz-font-feature-settings: "tnum", "onum";
     -ms-font-feature-settings: "tnum", "onum";
-    font-variant-numeric: tabular-nums, oldstyle-nums;
+    font-variant-numeric: tabular-nums;
 }
 
 .sc, strong {
@@ -1055,7 +1056,7 @@ span.index-available:not(.sort){
             flex-basis: 100%;
         padding-right: 0;
     }
-    .index-content-articles .entry-available a {media
+    .index-content-articles .entry-available a {
         color: #808080;
     }
     .index-issue-title, .sort.index-title {
@@ -1969,7 +1970,7 @@ hr{
 /* Load */
 
 #nprogress {
-    pointer-events:none;
+    pointer-events: none;
 }
 #nprogress .bar {
     background: #000;

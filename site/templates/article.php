@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-<main class="content load" role="main" data-page="<?= $page->slug() ?>">
+<main class="content load" data-page="<?= $page->slug() ?>">
     <div class="nav-center running-title">
         <?= $page->titre()->kt() ?>
     </div>
@@ -61,18 +61,25 @@
             }?>
             <?php if(!empty($valuearray[0])): ?>
             <div class="article-infos-content related">
-                <div class="article-infos-content-title">Du même auteur</div>
-            <?php foreach($items as $item): ?>
-               <div class="article-infos-content-reference">
-               <?php if($item->disponible()->value() == 'oui'): ?>
-                <a class="item " href="<?= $item->url() ?>">
-                <?php endif ?>
-                   <li><span><?= $item->titre()->kt() ?>, <p>nº&thinsp;<?= $item->parent()->numero()->html() ?>, <em><?= $item->parent()->titre()->kt() ?></em>, p.&#8239;<?= $item->pages()->html() ?>.</p></span></li>
-                <?php if($item->disponible()->value() == 'oui'): ?>
-                </a>
-                <?php endif ?>
-                </div>
-               <?php endforeach ?>
+                <h4 class="article-infos-content-title">Du même auteur</h4>
+                <ul>
+                <?php foreach($items as $item): ?>
+                  <div class="article-infos-content-reference">
+                    <li>
+                    <?php if($item->disponible()->value() == 'oui'): ?>
+                      <a class="item " href="<?= $item->url() ?>">
+                    <?php endif ?>
+                    <?= $item->titre()->kt() ?>,
+                    nº&thinsp;<?= $item->parent()->numero()->html() ?>,
+                        <em><?= $item->parent()->titre()->kt() ?></em>, p.&#8239;<?= $item->pages()->html() ?>.
+                    </span>
+                    <?php if($item->disponible()->value() == 'oui'): ?>
+                      </a>
+                    <?php endif ?>
+                    </li>
+                  </div>
+                <?php endforeach ?>
+                </ul>
                 </div>
             <?php endif ?>
             <?php if(!$page->credits()->empty()): ?>

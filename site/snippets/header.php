@@ -68,7 +68,7 @@
 
 <body>
     <div id="skip"><a href="#content">Passer au contenu principal de la page</a></div>
-    <header class="nav-wrapper" role="banner">
+    <header class="nav-wrapper">
         <div class="pagetitle"></div>
         <div class="nav-bar">
             <p class="site-title sc"><a class="item" href="<?= url() ?>" rel="home"><?= $site->title()->html() ?></a></p>
@@ -91,7 +91,7 @@
                 </span>
                 <?php endif ?>
             </div>
-        <nav class="sc" role="navigation">
+        <nav class="sc">
           <ul class="main-nav">
             <?php foreach($pages->visible() as $p): ?>
                 <li><a class="item menu-items focus-item menu-item-<?= $p->slug() ?> nav-mobile<?php e($p->isOpen(), ' active') ?>" href="<?= $p->url() ?>" data-page="<?= $p->slug() ?>"><?= $p->titre()->html() ?></a></li>
@@ -99,7 +99,7 @@
           </ul>
         </nav>
         <div class="nav-icon-wrapper">
-            <button class="nav-icon" role="navigation">
+            <button class="nav-icon">
                 <svg class="nav-icon-closed" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 15"><path d="M0,7h18v1H0V7z M0,14h18v1H0V14z M0,0h18v1H0V0z"></path></svg>
                 <svg class="nav-icon-opened" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18"><path d="M18,0.8L17.2,0L9.1,8.2L0.8,0L0,0.8l8.2,8.2L0,17.2L0.8,18l8.2-8.1l8.1,8.1l0.8-0.8L9.9,9.1L18,0.8z"></path></svg>
             </button>

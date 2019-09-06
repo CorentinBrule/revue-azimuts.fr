@@ -6,7 +6,7 @@
     <?php endforeach ?>
 </div>
 
-<main class="content load <?= $page->slug() ?>" role="main" data-page="<?= $page->slug() ?>">
+<main class="content load <?= $page->slug() ?>" data-page="<?= $page->slug() ?>">
 
     <div id="about-content">
         <?php foreach($page->children()->visible() as $section) {
