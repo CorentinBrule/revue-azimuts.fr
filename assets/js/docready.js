@@ -450,7 +450,9 @@ function init() {
       $('.archive').addClass("hidden-archive");
       $("#button-next-issues").on('click',function(e){
         if ($('#archive-index-load').length==0){
-            $("#archive-index-unload").replaceWith($("<div id='archive-index-load'>"+$("#archive-index-unload").html()+"</div>"));
+            $('.index-content-articles').append("<div id='archive-index-load'></div");
+            target = $(this).data("to-load");
+            $("#archive-index-load").load(target + " #to-load");
         }
         archiveBool = !archiveBool;
         if (archiveBool){
@@ -460,7 +462,7 @@ function init() {
           $("#button-next-issues").removeClass("button-activate");
           $('.archive').addClass("hidden-archive");
         }
-      })
+      });
     }
 
     function search() {

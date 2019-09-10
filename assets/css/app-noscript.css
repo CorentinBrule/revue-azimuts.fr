@@ -11,6 +11,10 @@ html,main,body,header{
   font-family: monospace;
 }
 
+.hide-no-script{
+  display: none!important;
+}
+
 /* home */
 
 #noscript-message{
