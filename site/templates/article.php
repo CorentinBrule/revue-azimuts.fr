@@ -6,9 +6,9 @@
     <div class="article">
         <section class="article-content-header">
             <h1 class="article-content-title heading">
-                <?= $page->titre()->kt() ?></h1>
+                <?= $page->titre()->ktr() ?></h1>
             <h2 class="article-content-author heading">
-                <?= $page->auteur()->html() ?></h2>
+                <?= $page->auteur()->ktr() ?></h2>
             <?php if(!$page->informations()->empty()): ?>
             <div class="article-content-infos">
                 <?= $page->informations()->kt() ?>
@@ -27,7 +27,7 @@
         <section class="article-infos">
             <div class="article-infos-content">
                 <div class="article-infos-content-title">Citer cet article</div>
-                <div class="article-infos-content-reference"><span>« <?= $page->titre()->kt() ?> », </span><p><?= $page->auteur()->html() ?>, <em>Azimuts</em>, nº&thinsp;<?= $page->parent()->numero()->html() ?>, <em><?= $page->parent()->titre()->html() ?></em>, <?= $page->parent()->parution()->html() ?>, <span class="sc">ESADSE</span>/Cité&#8239;du&#8239;Design, p.&#8239;<?= $page->pages()->html() ?>.</p></div>
+                <div class="article-infos-content-reference"><span>« <?= $page->titre()->ktr() ?> », </span><p><?= $page->auteur()->html() ?>, <em>Azimuts</em>, nº&thinsp;<?= $page->parent()->numero()->html() ?>, <em><?= $page->parent()->titre()->html() ?></em>, <?= $page->parent()->parution()->html() ?>, <span class="sc">ESADSE</span>/Cité&#8239;du&#8239;Design, p.&#8239;<?= $page->pages()->html() ?>.</p></div>
             </div>
             <?php if(!$page->biographie()->empty()): ?>
             <div class="article-infos-content">

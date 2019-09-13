@@ -976,6 +976,10 @@ a .index-issue:hover{
     width: 2.5rem;
 }
 
+.entry-available{
+	list-style: none;
+}
+
 .entry-available .index-available {
     font-size: 1rem;
 }

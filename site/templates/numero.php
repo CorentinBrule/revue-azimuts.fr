@@ -6,7 +6,7 @@
     <div class="issue">
         <section class="issue-content">
             <h1 class="article-content-title heading">
-               <?= $page->titre()->html() ?></h1>
+               <?= $page->titre()->ktr() ?></h1>
             <div class="issue-content-header">
                 <?php $image = $page->image('couverture.jpg')->thumb(array('width' => 600));
                 if($image): ?>
@@ -40,7 +40,7 @@
                 foreach($sections as $section => $items): ?>
                     <div class="section <?= str::slug($section) ?>"><div class="section-title"><?= $section ?></div>
                         <?php foreach($items as $item) : ?>
-                        <div class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>">
+                        <li class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>">
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         <a class="item" href="<?= $item->url() ?>"><?php endif ?>
                             <span class="index-pages tab"><?= html($item->pages()) ?></span>
@@ -48,7 +48,7 @@
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         </a>
                         <?php endif ?>
-                        </div>
+                      </li>
                         <?php endforeach; ?>
                     </div>
                 <?php endforeach ?>
