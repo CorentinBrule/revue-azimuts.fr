@@ -22,10 +22,16 @@
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   <a class="item" href="<?= $item->url() ?>">
                   <?php endif ?>
-                    <?php if($item->disponible()->value() == 'non' || $item->disponible()->exist() == false || $item->disponible()->value() == ''): ?><a class="index-issue tab" href="<?= $item->parent()->url() ?>"><?php endif ?>
-                      <span class="index-issue tab"><?= $item->parent()->numero()->html() ?></span>
-                    <?php if($item->disponible()->value() == 'non' || $item->disponible()->exist() == false || $item->disponible()->value() == ''): ?></a><?php endif ?>
-                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
+                    <?php if($item->disponible()->value() == 'non' || $item->disponible()->exist() == false || $item->disponible()->value() == ''): ?>
+                      <a class="index-issue tab" href="<?= $item->parent()->url() ?>">
+                    <?php else : ?><span class="index-issue tab">
+                    <?php endif ?>
+                        <?= $item->parent()->numero()->html() ?>
+                    <?php if($item->disponible()->value() == 'non' || $item->disponible()->exist() == false || $item->disponible()->value() == ''): ?>
+                      </a>
+                    <?php else :?></span>
+                    <?php endif ?>
+                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->ktr() ?></span><span class="index-author"><?= $item->auteur()->ktr() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   </a>
                   <?php endif ?>

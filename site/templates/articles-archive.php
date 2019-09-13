@@ -21,11 +21,13 @@
               <li class="archive <?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?> entry-item" data-issue="<?= str::slug($item->parent()->numero()) ?>" data-title="<?= str::slug($item->titre()) ?>" data-author="<?= str::slug($item->auteur()) ?>" data-available="<?php if($item->disponible()->value() == 'oui'): ?>A<?php else: ?>Z<?php endif ?>" data-type="<?= str::slug($item->type())?>">
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   <a class="item" href="<?= $item->url() ?>">
+                  <?php else :?><span class="index-issue tab">
                   <?php endif ?>
-                      <span class="index-issue tab"><?= html($item->parent()->numero()->htlm()) ?></span>
-                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
+                      <?= $item->parent()->numero()->htlm() ?></span>
+                      <span class="index-title-author"><span class="index-title"><?= $item->titre()->ktr() ?></span><span class="index-author"><?= $item->auteur()->ktr() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= $item->type()->html() ?></span>
                   <?php if($item->disponible()->value() == 'oui'): ?>
                   </a>
+                  <?php else: ?></span>
                   <?php endif ?>
               </li>
               <?php endif ?>
