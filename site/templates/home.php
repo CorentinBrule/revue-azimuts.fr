@@ -30,7 +30,7 @@
       <div id="issues">
             <?php foreach($pages->find('numeros')->children()->visible()->flip() as $issue): ?>
             <div class="home-single">
-                <?php $image = $issue->image('image.jpg')->thumb(array('width' => 1800));
+                    <?php $image = $issue->image('image.jpg')->thumb(array('width' => 1300));
                     $title = $issue->titre();
                     $titleMD = $title->kirbytextRaw();
                     $number = $issue->numero();
@@ -48,7 +48,7 @@
         <div id="archive">
           <?php foreach($pages->find('archives')->children()->visible()->flip() as $issue): ?>
           <div class="home-multi">
-              <?php $image = $issue->image('couverture.jpg')->thumb(array('width' => 800));
+              <?php $image = $issue->image('couverture.jpg')->thumb(array('width' => 600));
                   $title = $issue->titre();
                   $titleMD = $title->kirbytextRaw();
                   $number = $issue->numero();

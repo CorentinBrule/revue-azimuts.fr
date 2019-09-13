@@ -31,7 +31,7 @@ kirbytext::$tags['image'] = array(
     $url = $file ? $file->url() : url($url);
 
     // thumbs
-    $url = thumb($file, array('width' => '1500', 'quality' => 80))->url();
+    $url = thumb($file, array('width' => '1300', 'quality' => 80))->url();
     $urlhd = thumb($file, array('width' => '2000', 'quality' => 80))->url();
 
     $img = explode('.', basename($url));

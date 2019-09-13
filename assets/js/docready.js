@@ -341,7 +341,7 @@ function init() {
             for (a = 0; a < $imgsInPage.length; a++) {
                 var myN = $($imgsInPage[a]).parent().attr('data-n');
                 var mySrc = $($imgsInPage[a]).attr('data-src');
-                var imgHd = mySrc.replace('-1200', '-2000');
+                var imgHd = mySrc.replace('-1300', '-2000');
                 $('img.article-gallery-img[data-n=' + myN + ']').attr('src', imgHd);
             }
         }
