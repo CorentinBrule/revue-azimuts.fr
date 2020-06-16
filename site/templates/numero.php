@@ -59,7 +59,7 @@
 
     <section class="issue-footer">
         <div class="issue-credits">
-             <em>Direction&nbsp;éditoriale</em> <?= $page->direction_editoriale()->html() ?> / <em>Direction&nbsp;graphique</em> <?= $page->direction_graphique()->html() ?> / <em>Design&nbsp;graphique</em> <?= $page->design_graphique()->html() ?> / <em>Étudiants&nbsp;chercheurs</em> <?= $page->etudiants_chercheurs()->html() ?>
+             <em>Direction&nbsp;éditoriale</em> <?= $page->direction_editoriale()->html() ?> / <em>Direction&nbsp;graphique</em> <?= $page->direction_graphique()->html() ?> / <em>Design&nbsp;graphique</em> <?= $page->design_graphique()->html() ?> / <em>Étudiant·e·s&nbsp;chercheu·se·r·s</em> <?= $page->etudiants_chercheurs()->html() ?>
         </div>
     </section>
 

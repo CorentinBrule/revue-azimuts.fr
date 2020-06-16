@@ -10,7 +10,7 @@
       <?php endforeach ?>
     </div>
     <div class="equipes">
-        <h3 class="subsubheading"><em>Étudiants chercheurs</em></h3>
+        <h3 class="subsubheading"><em>Étudiant·e·s chercheu·se·r·s</em></h3>
         <?php foreach($data->etudiants_chercheurs()->toStructure() as $students): ?>
         <div class="equipes-content">
           <div class="equipes-content-year tab"><?= $students->annee()->kt() ?></div>
