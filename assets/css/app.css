@@ -669,6 +669,10 @@ button.article-gallery-close {
     margin: 0 10px;
 }
 
+.home-title p{
+		word-break: keep-all;
+}
+
 .home-number-mobile{
 		font-style: normal;
 		margin-right: 10px;
@@ -683,6 +687,15 @@ button.article-gallery-close {
     }
 }
 
+.home-message{
+	font-style: italic;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	background: white;
+}
 
 /* Issue */
 

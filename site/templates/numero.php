@@ -17,6 +17,7 @@
                 <div class="issue-presentation">
                     <div class="issue-presentation-content text-large">
                         <?= $page->presentation()->kt() ?>
+                        <?php $message = $page->message(); if($message): ?><br><p class="message"><?= $message; ?></p><?php endif ?>
                     </div>
                     <div class="issue-content-infos">
                         <?= $page->pages()->html() ?>, <span class="sc">ESADSE</span>/Cité du design, <?= $page->parution()->html() ?>, <?= $page->prix()->html() ?>, <span class="sc">ISSN</span>:&#8239;<?= $page->issn()->html() ?>

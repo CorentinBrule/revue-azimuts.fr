@@ -35,11 +35,13 @@
                     $titleMD = $title->kirbytextRaw();
                     $number = $issue->numero();
                     $release = $issue->parution();
+                    $message = $issue->message();
                 if($image): ?>
                     <a class="item home-single-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
                         <img class="lazy home-single-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"/>
                         <noscript><img class="home-single-image" src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"/></noscript>
                         <figcaption><p><span class="home-number"><?= $number; ?></span><span class="home-title"><em><?= $titleMD; ?></em></span><span class="home-release"><?= $release; ?></span></p></figcaption>
+                        <?php if($message): ?><div class="home-message"><p><?= $message; ?></p></div><?php endif ?>
                     </a>
                 <?php endif ?>
             </div>
