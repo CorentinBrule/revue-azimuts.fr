@@ -1,0 +1,22 @@
+Titre: Blueprint for Asking Questions
+----
+Auteur: Étudiant·e·s du CyDRe
+----
+Type: Poster
+----
+Section: Varia
+----
+Pages: Tiré à part
+----
+Autres informations:
+----
+Biographie:
+----
+Bibliographie:
+----
+Disponible: oui
+----
+Credits:
+----
+Texte:
+<iframe src="https://graphcommons.com/graphs/73fe897d-776d-4720-999d-c8c9271a4e54/embed" frameborder="0" style="overflow:hidden;border:1px solid #DDDDDD;width:1px;min-width:100%;height:80vh;min-height:400px;" width="100%" height="80vh" allowfullscreen></iframe>
