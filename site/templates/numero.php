@@ -45,7 +45,7 @@
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         <a class="item" href="<?= $item->url() ?>"><?php endif ?>
                             <span class="index-pages tab"><?= html($item->pages()) ?></span>
-                            <span class="index-title-author"><span class="index-title"><?= $item->titre()->kt() ?></span><span class="index-author"><?= $item->auteur()->kt() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= html($item->type()) ?></span>
+                            <span class="index-title-author"><span class="index-title"><?= $item->titre()->ktr() ?></span><span class="index-author"><?= $item->auteur()->ktr() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= html($item->type()) ?></span>
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         </a>
                         <?php endif ?>
@@ -59,7 +59,7 @@
 
     <section class="issue-footer">
         <div class="issue-credits">
-             <em>Direction&nbsp;éditoriale</em> <?= $page->direction_editoriale()->html() ?> / <em>Direction&nbsp;graphique</em> <?= $page->direction_graphique()->html() ?> / <em>Design&nbsp;graphique</em> <?= $page->design_graphique()->html() ?> / <em>Étudiant·e·s&nbsp;chercheu·se·r·s</em> <?= $page->etudiants_chercheurs()->html() ?>
+             <em>Direction&nbsp;éditoriale</em> <?= $page->direction_editoriale()->html() ?> / <?php if($page->direction_graphique() != ""): ?><em>Direction&nbsp;graphique</em> <?= $page->direction_graphique()->html() ?> / <?php endif ?><em>Design&nbsp;graphique</em> <?= $page->design_graphique()->html() ?> / <em>Étudiant·e·s&nbsp;chercheu·se·r·s</em> <?= $page->etudiants_chercheurs()->html() ?>
         </div>
     </section>
 
@@ -67,5 +67,6 @@
         <div class="index-content-title text-large">Autres numéros</div>
         <?php snippet('numeros-index') ?>
     </section>
-</div>
+  </div>
+</main>
 <?php snippet('footer') ?>
