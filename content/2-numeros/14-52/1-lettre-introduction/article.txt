@@ -1,0 +1,32 @@
+Titre: Lettre d’introduction (apocalyptique)
+----
+Auteur: Ernesto Oroza
+----
+Type: Texte inédit
+----
+Section: Éditorial
+----
+Pages: 1–2
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2021
+----
+Texte:
+
+(image: AZCouv.png class: medium caption: *Virusio*, Merlin Andreæ et Corentin Brulé)
+
+Dans les Caraïbes, les Taínos[^1] évitaient de prononcer le mot *ouragan*, de peur que le léger souffle expulsé lors de sa prononciation ne grandisse et ne finisse par tout dévaster (le mot *tout* désignant à l’époque des arbres, et quelques huttes en bois de palmier royal). Certains Taínos ont probablement eu à assumer la culpabilité d’avoir provoqué un tel phénomène. Il est possible qu’un ou deux d’entre eux aient fini par développer une dépendance à la possibilité du renouveau qui réside dans la destruction totale. Ils étaient certainement comme des architectes radicaux, des accros aux *potens*[^2], à la poussière déposée sur la *tabula rasa*.
+
+Dans mon enfance, je ne savais rien de tout cela. On m’a simplement appris que si un ouragan arrivait, je n’aurais pas à aller à l’école, et nous resterions à la maison pendant au moins une semaine.Le monde s’en trouvait plus ou moins perturbé; cela dépendait de l’intensité, la proximité et la trajectoire de la tempête. Alors quand j’avais des examens finaux, j’allais me coucher en invoquant la proximité d’un ouragan. J’ai réussi, à plusieurs reprises. En 2007, je suis arrivé à Miami, épuisé par la longue crise économique de Cuba. Un an plus tard, les médias nord-américains, pour aider Barack Obama à être élu, se sont fait l’écho d’une grave récession dans le pays. L’effondrement financier semblait me suivre à la trace.
+
+Je ne me couche plus en priant pour un ouragan, mais j’ai passé ma vie à répéter les mots *nécessité* et *crise*. Je les ai tellement écrits et prononcés qu’ils finissent par dévaster les endroits où je vis. Le 30 janvier 2020, je suis arrivé à Saint-Étienne ; quelques semaines plus tard, le Covid-19 est arrivé. Je me sens chez moi.
+
+Depuis mes invocations égoïstes pour un ouragan, beaucoup de temps s’est écoulé. J’ai appris, dans les années qui ont suivi, que les voix résonnent mieux dans le *batey* (mot taíno désignant le village) que dans le *bohío* (autre mot taíno désignant la maison la plus commune). Alors prions pour l’ouragan, tous ensemble.
+
+E.O
+
+
+[^1]: Les Taínos étaient une peuplade arawak qui vivait dans les Caraïbes et en Floride. À la fin du xv<sup>e</sup> siècle, lors des premiers contacts avec les Européens, les Taínos occupaient une grande partie de Cuba, l’île d’Hispaniola (la République dominicaine et Haïti), Porto Rico et la Jamaïque
+
+[^2]: *Potens*, *potentis*, du latin, celui qui peut ou a un pouvoir. Participe présent du verbe *posse* (pouvoir).

@@ -1,0 +1,74 @@
+Titre: Éditorial
+----
+Auteur: Ernesto Oroza
+----
+Type: Texte inédit
+----
+Section: Éditorial
+----
+Pages: 4–15
+----
+Disponible: oui
+----
+Credits: ©Azimuts, 2021
+----
+Texte:
+
+> *The pollen of destruction floats in the air.*
+> Antonio José Ponte
+
+Avancer une raison pour laquelle la vie est en torsion depuis le mois de mars reviendrait à laisser l’évidence, comme la maladie elle-même, suivre son cours. La raison, voire le *motif* est périplanétaire, à l’instar de *Misura*, la surface quadrillée que* *Superstudio a conçue dans un dialogue avec son *Monument continu*[^1].
+
+Début mars, alors que les réunions consacrées à *Azimuts* devenaient plus régulières pour donner forme à un hypothétique numéro qui proposerait comme objets d’étude la figure du designer-chercheur et l’histoire de Saint-Étienne par le prisme de la production, le virus Covid-19 a frappé la France. Les enregistrements collectifs, les *dérives*, les contacts avecles groupes et entités locales ont été reportés lors du premier confinement. Au CyDRe, nous (les étudiant·e·s-chercheur·euse·s et l’équipe pédagogique) avons refusé de faire d’*Azimuts* 52 une réaction à la pandémie, sans pour autant parvenir à empêcher cette dernière de le conditionner.
+
+Lors d’une conversation dans l’urgence avec Thibault Le Page[^2], pris au piège dans nos espaces domestiques respectifs, nous avons décidé de lancer un numéro expérimental et tactique qui prendrait acte de notre situation inattendue. La solution devait nous permettre d’assumer la production de la revue comme un outil de recherche en design.
+
+Nous avons accepté, thématiquement, le virus, ainsi que sa mise en scène mondiale et sa voracité pour les populations humaines comme prétextes pour expérimenter des formes collectives d’enregistrement et d’analyse des processus sociaux et culturels vectorisés en conséquence de la pandémie (le mouvement #blacklivesmatter[^3]et les conflits sociaux exacerbés dans le monde par la peur et la crise; le télétravail et les nouvelles conditions et réglementations du travail; les pertes massives d’emplois et d’autres sources de revenus; l’observation de l’accroissement des violences domestiques[^4]; la disparité croissante des résultats scolaires en raison des inégalités économiques et d’accès aux technologies d’enseignement en distanciel; la détérioration de la coopé­ration au sein de la famille en raison de la distanciation sociale obligatoire; l’utilisation par les États de la réglementation sanitaire face à la Covid-19 pour intensifier la répression[^5], et autres situations critiques).
+
+La *factographie*, une des méthodologies[^6] que j’ai proposées dans le cadre du programme pédagogique du CyDRe à mon arrivée s’est avérée idéale à cet effet. La factographie est une pratique mise en œuvre dans les années 1920, entre autres par Sergueï Tretiakov, poète et homme de théâtre soviétique. Le théoricien productiviste Boris Arvatov a décrit la factographie comme «l’enregistrement objectif du réel suivi par un montage dialectique[^7]». La factographie de Tretiakov était basée sur un enregistrement du présent au moyen de la photographie et de l’écriture qui, présentées sous forme de journaux muraux, organisaient des activités basées sur l’herméneutique collective[^8]. L’arrivée incessante de brèves et d’informations de toutes sortes sur l’expansion mondiale de la Covid-19 a révélé la diversité des voix que l’épidémie avait mises en conversation. Le même jour, nous pouvions lire un manifeste de Bruno Latour[^9] et un message viral sur un jeune Afro-Américain qui avait refusé d’être applaudi en tant que héros. Nous avons compris que notre enregistrement des publications, des bulletins et des messages devait supprimer les hiérarchies sociales parmi les différentes voix et entre les différents médias. Thibault Le Page a rédigé la description du premier article, qui a servi de protocole pour l’élaboration du reste. Corentin, Lena, Merlin et Antoine[^10] ont exploré une méthode en ligne pour la collecte des descriptions. Le hashtag #azimuts52, sur Twitter, nous a permis de collecter des dizaines de reportages et d’éditos (qui ont ensuite été réécrits selon le protocole) jusqu’à ce qu’ils constituent un corpus intéressant.
+
+Il nous manquait encore le second aspect de la méthode factographique. La distanciation sociale obligatoire et le manque d’expérience des appels vidéo au travail ont limité l’exercice probant de l’herméneutique collective. Chacun de nous a relié individuellement les sujets qu’il considérait comme rattachés les uns aux autres; l’interprétation et le débat collectif ont été remis à plus tard. Un dessin sur la pandémie de Covid-19, réalisé au début du processus par Thibault, nous a conduit·e·s à réfléchir à l’ensemble des solutions graphiques qui composent *Monument continu*. Les bulletins publiés chaque jour suggéraient et prédisaient des scènes et des avenirs paradoxaux: à la fois dystopiques et pleins d’espoir, fatalistes et libérateurs. Dans cette première illustration de Thibault (le dessin quasi isométrique d’un paysage urbain), ces contradictions se pressaient pour former une unité. Nous avons estimé qu’en suivant le modèle de Superstudio pour un projet critique, nous pourrions, d’un point de vue pédagogique, faire appel à la diversité des formes et des méthodes que les membres du CyDRe emploient dans leurs recherches. Le récit de *Monument continu* prend forme grâce à son utilisation critique de plans, diagrammes, surfaces, perspectives, dessins isométriques, photographies, photomontages, films et objets. L’utilisation consciente la plus significative de ces ressources par Superstudio réside dans sa conception de la surface *Misura*. Cette surface incarne la critique des valeurs de la modernité d’après-guerre, tout en se présentant comme un vecteur que l’on peut chevaucher de manière tactique, librement et en collectif. La grille *Misura* promettait d’être invasive (*covidienne*, pourrait-on dire), en établissant des continuités entre des objets aussi indépendants qu’une table, la structure formelle d’un scénario de film et la surface d’un bâtiment sans fin qui occupe le devant de la scène dans un photomontage. On peut dire que l’élément modulaire qui compose notre propre *Misura* est le symbole de hachage: le hashtag, dans toute sa potentialité vectorielle et virale. Pouvons-nous dire que le # est l’un des symboles les plus voraces en énergie de la planète aujourd’hui?
+
+L’étape suivante consistait à solliciter une collaboration de recherche dans la production de descriptions et d’indices. À travers ces opérations, les deux principes génératifs du contenu ont été consolidés. L’utilisation de ces protocoles nous a permis de passer sans heurt du modèle pédagogique précédemment utilisé pour le développement graphique d’*Azimuts* à une structure horizontale, si tant est qu’un processus de prise de décision sur le design existe. Si la présence d’un directeur artistique était auparavant un impératif, dans la nouvelle conception, cette figure s’atomise grâce à la présence de plusieurs acteurs qui s’occupent de différentes parties du problème, en dialogue avec l’équipe du CyDRe.
+
+À la fin du premier confinement, nous avons invité Benoît Verjat, chercheur en design et en art, et enseignant. Avec son aide, nous avons organisé le travail autour du corpus et exploré des méthodes pour l’indexer. La notion d’index comme outil d’analyse s’est complexifiée. Benoît a proposé, entre autres exercices, une lecture du corpus. À cette fin, il a imprimé, séparé et disposé les descriptions au centre d’un tableau, qui ont ensuite été lues à haute voix par les participants. L’espace du CyDRe était rempli de voix empreintes d’incrédulité, d’angoisse, mais aussi d’humour et d’espoir. *Et la Factographie fut*.
+
+La graphiste invitée Juliette Nier a développé un atelier qui a bouleversé le travail de conception de la revue avec l’équipe graphique. La question du format d’*Azimuts* 52 est devenue critique. Devait-on maintenir une continuité avec la série et avec l’énorme héritage de Marc Monjou et de ses collaborateurs? Si *Azimuts* se définit comme un outil pédagogique et une ressource de recherche en design à l’Esadse, son format et sa conception générale doivent-ils répondre aux besoins du collectif dominant et à sa dynamique de recherche? Dans quelle mesure la revue est-elle libre des attentes de ses abonnés et de ses canaux de distribution?
+
+L’invitation du collectif disnovation.org a clôturé la série d’ateliers et de conférences consacrés à ce numéro. Leur expérience dans la systématisation et la production d’archives, ainsi que dans la mise en scène de celles-ci, a été stimulante pour nous tou·te·s.
+
+Victoria Calligaro, la nouvelle coordinatrice éditoriale, a apporté d’autres questions, des propositions de contenu et de nouvelles méthodes d’organisation du travail. Son approche perspicace et son attention parti-culière ont été essentielles à la consolidation de ce numéro. La volonté et l’engagement de la designer Laura Quidal, notre coordinatrice éditoriale jusqu’en août, nous ont permis d’atteindre ce point.
+
+Pour aider à créer un contexte d’idées sur les processus d’enregistrement menés à travers le monde concernant la Covid-19, Delphine Hyvrier[^11] a interviewé Émilie Girard, directrice scientifique et conservatrice en chef du Mucem. Depuis cette institution, Émilie Girard a organisé un appel à un recueil participatif des expériences quotidiennes encadrées par le premier confinement. Pour ajouter d’autres vues et archives, nous avons invité Tiphaine Kazi-Tani, designer-chercheurx et professeurx à l’Esadse, et Gean Moreno, conservateur de l’Ica Miami, à organiser des collections numériques iconographiques sur la Covid-19 développées respectivement par disnovation.org et Nicolas Nova, et à élaborer des textes en fonction de leurs sélections.
+
+La contribution envoyée par l’anthropologue Yann-Philippe Tastevin rend compte d’une initiative développée à Dakar, en collaboration avec Kër Thiossane et son fablab Defko Ak Niëp, et Bassirou Wade. Ensemble, ils ont conçu et fabriqué un prototype de lave-mains qui peut être installé dans les espaces publics pour contribuer aux mesures hygiéno-sanitaires contre la Covid-19.
+
+Une chronique commandée à Lionel Cordier, chercheur en science politique, fait irruption dans ce numéro d’urgence. Nous ne garantissons pas que cette nouvelle «section» sera à nouveau utilisée, mais la contingence et l’expérimentation de ce numéro et de notre situation actuelle le justifient et l’exigent. Lionel Cordier a également infiltré cette publication à travers le corpus de «descriptions[^12]» sous son alias Twitter @lioncordier.
+
+Delphine Hyvrier propose une analyse historique des épistémologies de la modernité et de ses constructions culturelles du naturel. Margot Behr utilise la forme d’un texte intuitif où la recherche prend forme à travers des arguments et des outils situés. Corentin Brulé propose un regard panoramique sur les possibilités et les aspects contradictoires de l’ouverture dans le cadre des publications scientifiques. Dans la section anthologie, je présente deux manuels de survie élaborés à Cuba pendant la crise économique des années 1990: le premier livre a été compilé par le gouvernement, le second est une réponse des citoyens, basée sur leurs besoins, leurs ressources et leurs pratiques.
+
+(image: thibault_AZ52.jpg class: large caption: Dessin par Thibault Le Page durant le worshop conduit par Benoît Verjat au CyDRe, 2020)
+
+[^1]: Le *Monument continu* est un projet architectural du groupe florentin Superstudio de 1969. Les dessins et photomontages questionnent le rôle totalisant de l’urbanisation ainsi que la crise idéologique et sociale apportées par la modernité. Il pourrait être décrit comme un mur habitable qui parcourt à l’infini la planète, généré sur une grille cartésienne qui réduit l’approche architecturale à un «état de neutralité absolue».
+
+[^2]: En DSRD au CyDRe depuis 2019.
+
+[^3]: «Le mouvement #BlackLivesMatter a été fondé en 2013 en réaction à l’acquittement du meurtrier de Trayvon Martin. Black Lives Matter Global Network Foundation, Inc. est une organisation mondiale aux États-Unis, au Royaume-Uni et au Canada, dont la mission est d’éradiquer la suprématie blanche et de renforcer les pouvoirs locaux afin d’intervenir dans la violence infligée aux communautés noires par l’État et les justiciers autoproclamés.» [Source: www.blacklivesmatter.com/about].
+
+[^4]: Département de la communication globale, «UN supporting “trapped” domestic violence victims during Covid-19 pandemic», Nations unies, 12 juin 2020 [consulté sur le site des Nations unies: www.un.org].
+
+[^5]: «Cuba: Gobierno usa normas sobre Covid-19 para intensificar la represión», Human Rights Watch, 7 décembre 2020 [consulté sur le site de HRW: www.hrw.org].
+
+[^6]: La factographie fonctionne dans ce programme comme un outil pédagogique qui organise et favorise le travail collectif et l’empathie, en termes thématiques, entre les objets d’étude des chercheurs du CyDRe et les enjeux sociaux et culturels de la ville de Saint-Étienne.
+
+[^7]: Boris Arvatov, *Arte y producción*, Editorial Alberto Corazón, 1973, p. 108.
+
+[^8]: Pour souligner les intentions de sa pratique factographique, Tretiakov l’a rebaptisée *opérativisme *et, ce faisant, l’a éloignée de la passivité du documentaire. La factographie remet à plus tard l’interprétation subjective pour donner la priorité à l’analyse collective du présent et agir en conséquence.
+
+[^9]: Bruno Latour, «Imaginer les gestes barrières contre le retour à la production d’avant-crise», *AOC*, 30 mars 2020 [URL: www.aoc.media/opinion.]
+
+[^10]: Étudiant·e·s-chercheur·euse·s au CyDRe depuis 2019.
+
+[^11]: Doctorante au CyDRe depuis 2019.
+
+[^12]: Pour revoir le corpus de descriptions issu du protocole factographique, veuillez vous référer au journal en grand format qui compose cette publication.
