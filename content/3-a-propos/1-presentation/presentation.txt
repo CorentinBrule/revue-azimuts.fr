@@ -10,9 +10,9 @@ La revue *Azimuts* est classée depuis 2009 dans la *Liste des revues pour le do
 
 Infos 1:
 *Éditeur* [École supérieure d’art et design de Saint-Étienne](http://www.esadse.fr/)
-*Directeur de publication* Claire Peillod
+*Directeur de publication* Éric Jourdan
 *Direction éditoriale* Ernesto Oroza
-*Direction graphique* Un designer graphique est invité à chaque numéro
+*Direction graphique* Des designers graphiques sont invités à chaque numéro
 (image: logo_esadse.svg link: http://www.esadse.fr/)
 
 ----
@@ -25,3 +25,6 @@ Revue Azimuts, ESADSE/Cité du design
 *Diffusion* Pollen/Difpop
 +33 (0)1 43 62 08 07
 [mariechristine@difpop.com](mailto:mariechristine@difpop.com)
+
+*ISSN* 1160-9958
+*Prix d’un numéro* 18€

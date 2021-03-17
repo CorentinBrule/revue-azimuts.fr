@@ -10,7 +10,7 @@ Prix: 18 euros
 ----
 ISSN: 1160 9958 51
 ----
-Presentation: Dirigé collectivement par les étudiant·e·s des promotions 2019 sortantes et entrantes du Cycle Design Recherche de l’ESAD Saint-Étienne, le numéro 51 de la revue Azimuts s’intéresse à la pédagogie dans l’enseignement supérieur du design à travers des témoignages et retours d’expériences passées et présentes qui déjouent – ou déjouèrent – les modalités et cadres traditionnels de l’école et de l’université.
+Presentation: Dirigé collectivement par les étudiant·e·s des promotions 2019 sortantes et entrantes du Cycle Design Recherche de l’ESAD Saint-Étienne, le numéro 51 de la revue *Azimuts* s’intéresse à la pédagogie dans l’enseignement supérieur du design à travers des témoignages et retours d’expériences passées et présentes qui déjouent – ou déjouèrent – les modalités et cadres traditionnels de l’école et de l’université.
 ----
 Direction editoriale: Tiphaine Kazi-Tani & CyDRe 2019-2020
 ----
@@ -20,4 +20,4 @@ Design graphique: Antoine Bouré, Macha Savykine et Kévin Zanin
 ----
 Etudiants chercheurs: 2019 : Daria Ayvazova, Corentin Brulé, Lorène Ceccon, Cléa Di Fabio, Marion Fraboulet, Elizabeth Hale, Delphine Hyvrier, Thibault Le Page, Laura Quidal, Kévin Zanin – 2020 : Merlin Andreae, Margot Behr, Léna Besse, Antoine Bouré, Macha Savykine, Quentin Scandela
 ----
-Message: Disponible prochainement
+Message:

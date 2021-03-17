@@ -11,8 +11,10 @@ Direction editoriale:
 	enseignants: Marc Monjou, Jean-Marie Courant
 ----
 Etudiants chercheurs:
+-  annee: 2020–2021
+	etudiants: Merlin Andreæ, Daria Ayvazova, Margot Behr, Léna Besse, Corentin Brulé, Antoine Bouré, Lorène Ceccon, Charlotte Goffette, Delphine Hyvrier, Inès Le Menec, Thibault Le Page, Pauline Liogier, Elizabeth Hale, Kévin Zanin
 -  annee: 2019–2020
-	etudiants: Merlin Andreae, Daria Ayvazova, Margot Behr, Léna Besse, Corentin Brulé, Antoine Bouré, Lorène Ceccon, Delphine Hyvrier, Thibault Le Page, Macha Savykine, Quentin Scandela, Elizabeth Hale, Kévin Zanin
+	etudiants: Merlin Andreæ, Daria Ayvazova, Margot Behr, Léna Besse, Corentin Brulé, Antoine Bouré, Lorène Ceccon, Delphine Hyvrier, Thibault Le Page, Macha Savykine, Quentin Scandela, Elizabeth Hale, Kévin Zanin
 -  annee: 2018–2019
 	etudiants: Daria Ayvazova, Corentin Brulé, Lorène Ceccon, Cléa Di Fabio, Marion Fraboulet, Samuel Gay, Elizabeth Hale, Camille Lamy, Laura Quidal, Kévin Zanin
 -  annee: 2017–2018
@@ -28,6 +30,6 @@ Etudiants chercheurs:
 -  annee: 2012–2013
 	etudiants: Léa Barbier, Paul Buros, Joris Favennec, Cécile Galicher, Mathilde Gullaud, Jason Michel, Fei Qi, Marie-Caroline Terenne, Léo Virieu Mandrelli
 -  annee: 2011–2012
-	etudiants: Bastien Bouvier, Lionel Catelan, Jessy Gemayel, Matthieu Meyer, Thomas Piquet, Léo Virieu Mandrelli
+	etudiants: Bastien Bouvier, Victoria Calligaro, Lionel Catelan, Jessy Gemayel, Matthieu Meyer, Thomas Piquet, Léo Virieu Mandrelli
 -  annee: 2010–2011
 	etudiants: Édouard Cabrol, Lionel Catelan,  Audrey Dodo, Bertrand Fèvre, Jessy Gemayel, Louise Pédel
