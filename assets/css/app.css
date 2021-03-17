@@ -983,6 +983,7 @@ a .index-issue:hover{
 
 .index-type {
     width: 4.5rem;
+		margin-left: auto;
 }
 
 .index-available {

@@ -36,9 +36,10 @@
                     $number = $issue->numero();
                     $release = $issue->parution();
                     $message = $issue->message();
+                    $placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
                 if($image): ?>
                     <a class="item home-single-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
-                        <img class="lazy home-single-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"/>
+                        <img class="lazy home-single-image" data-src="<?= $image->url() ?>" src="<?= $placeholder ?>" title="" alt="<?= $title; ?>"/>
                         <noscript><img class="home-single-image" src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"/></noscript>
                         <figcaption><p><span class="home-number"><?= $number; ?></span><span class="home-title"><em><?= $titleMD; ?></em></span><span class="home-release"><?= $release; ?></span></p></figcaption>
                         <?php if($message): ?><div class="home-message"><p><?= $message; ?></p></div><?php endif ?>
@@ -55,9 +56,10 @@
                   $titleMD = $title->kirbytextRaw();
                   $number = $issue->numero();
                   $release = $issue->parution();
+                  $placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2 3'%3E%3C/svg%3E";
               if($image): ?>
                   <a class="item home-multi-wrapper" href="<?= $issue->url() ?>" data-n="<?= $number; ?>">
-                      <img class="lazy home-multi-image" data-src="<?= $image->url() ?>" title="" alt="<?= $title; ?>">
+                      <img class="lazy-delay home-multi-image" data-src="<?= $image->url() ?>" src="<?= $placeholder ?>" title="" alt="<?= $title; ?>">
                       <noscript><img class="home-multi-image" src="<?= $image->url() ?>" title="" alt="<?= $title; ?>"></noscript>
                       <?php if($title == ""): ?>
                         <figcaption><p><em class="home-number">Azimuts <span class="home-number-mobile">n°&#8239;<?= $number; ?></span></em><span class="home-release"><?= $release; ?></span></p></figcaption>
