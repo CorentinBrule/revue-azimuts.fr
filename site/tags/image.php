@@ -31,7 +31,7 @@ kirbytext::$tags['image'] = array(
     $url = $file ? $file->url() : url($url);
 
     // thumbs
-    $url = thumb($file, array('width' => '1300', 'quality' => 80))->url();
+    $url = thumb($file, array('width' => '1500', 'quality' => 80))->url();
     $urlhd = thumb($file, array('width' => '2000', 'quality' => 80))->url();
 
     $img = explode('.', basename($url));
@@ -39,6 +39,10 @@ kirbytext::$tags['image'] = array(
 
     // alt is just an alternative for text
     if($text = $tag->attr('text')) $alt = $text;
+
+    $placeholder = "data:image/svg+xml,%3Csvg
+                      xmlns='http://www.w3.org/2000/svg'
+                      viewBox='0 0 3 2'%3E%3C/svg%3E";
 
     // try to get the title from the image object and use it as alt text
     if($file) {
@@ -89,6 +93,7 @@ kirbytext::$tags['image'] = array(
         'class'  => $class. 'lazy',
         'title'  => $title,
         'alt'    => $alt,
+        'src'    => "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E",
         'data-src' => $url
       ));
     };

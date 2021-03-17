@@ -15,6 +15,10 @@ html,main,body,header{
   display: none!important;
 }
 
+.lazy, .lazy-delay{
+  display: none;
+}
+
 /* home */
 
 #noscript-message{
