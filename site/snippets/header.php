@@ -26,14 +26,17 @@
     <meta itemprop="name" content="<?= $site->title()->html() ?>">
     <meta itemprop="description" content="<?= $site->description()->html() ?>">
     <meta itemprop="image" content="<?= $image->url() ?>">
+    <!-- OG general -->
     <meta property="og:url" content="<?= $site->url() ?>">
-    <meta property="og:type" content="website">
     <meta property="og:site_name" content="<?= $site->title() ?>">
     <meta property="og:title" content="<?php if($page->template() == 'numero'): ?><?= $site->title()->html() ?> <?= $page->numero()->html() ?>, <?= $page->titre()->html() ?><?php endif ?><?php if($page->template() == 'article'): ?><?= html::decode($page->titre()->kt()) ?><?php endif ?><?php $templates = ['a-propos', 'numeros', 'articles', 'home']; if(in_array($page->template(), $templates)): ?><?= $site->title()->html() ?><?php endif ?>">
     <meta property="og:description" content="<?= $site->description()->html() ?>">
     <meta property="og:image" content="<?= $image->url() ?>">
     <meta property="og:image:secure_url" content="<?= $image->url() ?>">
     <meta property="og:locale" content="fr_FR">
+
+    <? snippet('meta-citation') ?>
+
     <meta name="twitter:site" content="<?= $site->title() ?>">
     <meta name="twitter:creator" content="<?= $site->title() ?>">
     <meta name="twitter:url" content="<?= $site->url() ?>">
