@@ -6,4 +6,4 @@ Type: Traduction
 ----
 Section: Dossier
 ----
-Pages: 354–370
+Pages: 354-370

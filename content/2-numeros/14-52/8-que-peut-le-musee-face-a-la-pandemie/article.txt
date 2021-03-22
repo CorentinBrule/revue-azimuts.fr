@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 139–156
+Pages: 139-156
 ----
 Autres informations: Entretien mené par Delphine Hyvrier
 ----

@@ -6,4 +6,4 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 371–376
+Pages: 371-376

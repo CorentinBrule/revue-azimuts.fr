@@ -6,4 +6,4 @@ Type: Texte inédit
 ----
 Section: Dossier
 ----
-Pages: 99–126
+Pages: 99-126

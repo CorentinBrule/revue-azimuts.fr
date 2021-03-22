@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 9–57
+Pages: 9-57
 ----
 Informations:
 ----

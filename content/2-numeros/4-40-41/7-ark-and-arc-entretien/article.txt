@@ -6,5 +6,5 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 67–69
+Pages: 67-69
 

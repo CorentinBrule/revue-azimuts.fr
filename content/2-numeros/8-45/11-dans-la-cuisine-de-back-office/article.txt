@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Varia
 ----
-Pages: 142–149
+Pages: 142-149
 ----
 Informations: Propos recueillis par Gwenaël Fradin
 ----

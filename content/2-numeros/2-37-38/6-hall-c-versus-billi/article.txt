@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 81–92
+Pages: 81-92
 ----
 Informations: Propos recueillis par Matthieu Meyer
 ----

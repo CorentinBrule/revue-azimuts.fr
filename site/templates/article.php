@@ -27,7 +27,12 @@
         <section class="article-infos">
             <div class="article-infos-content">
                 <div class="article-infos-content-title">Citer cet article</div>
-                <div class="article-infos-content-reference"><span>« <?= $page->titre()->ktr() ?> », </span><p><?= $page->auteur()->html() ?>, <em>Azimuts</em>, nº&thinsp;<?= $page->parent()->numero()->html() ?>, <em><?= $page->parent()->titre()->html() ?></em>, <?= $page->parent()->parution()->html() ?>, <span class="sc">ESADSE</span>/Cité&#8239;du&#8239;Design, p.&#8239;<?= $page->pages()->html() ?>.</p></div>
+                <div class="article-infos-content-reference">
+                  <span>« <?= $page->titre()->ktr() ?> », </span>
+                  <p>
+                    <?= $page->auteur()->html() ?>, <em>Azimuts</em>, nº&thinsp;<?= $page->parent()->numero()->html() ?>, <em><?= $page->parent()->titre()->html() ?></em>, <?= $page->parent()->parution()->html() ?>, <span class="sc">ESADSE</span>/Cité&#8239;du&#8239;Design, p.&#8239;<?= $page->pages()->citationPages() ?>.
+                  </p>
+                </div>
             </div>
             <?php if(!$page->biographie()->empty()): ?>
             <div class="article-infos-content">
@@ -71,7 +76,7 @@
                     <?php endif ?>
                     <?= $item->titre()->kt() ?>,
                     nº&thinsp;<?= $item->parent()->numero()->html() ?>,
-                        <em><?= $item->parent()->titre()->kt() ?></em>, p.&#8239;<?= $item->pages()->html() ?>.
+                        <em><?= $item->parent()->titre()->kt() ?></em>, p.&#8239;<?= $item->pages()->citationPages() ?>.
                     </span>
                     <?php if($item->disponible()->value() == 'oui'): ?>
                       </a>

@@ -44,7 +44,7 @@
                         <li class="<?php if($item->disponible()->value() == 'oui'): ?>entry-available<?php else: ?>entry<?php endif ?>">
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         <a class="item" href="<?= $item->url() ?>"><?php endif ?>
-                            <span class="index-pages tab"><?= html($item->pages()) ?></span>
+                            <span class="index-pages tab"><?= $item->pages()->citationPages() ?></span>
                             <span class="index-title-author"><span class="index-title"><?= $item->titre()->ktr() ?></span><span class="index-author"><?= $item->auteur()->ktr() ?></span></span><span class="index-available"><?php if($item->disponible()->value() == 'oui') echo html('•') ?></span><span class="index-type"><?= html($item->type()) ?></span>
                         <?php if($item->disponible()->value() == 'oui'): ?>
                         </a>

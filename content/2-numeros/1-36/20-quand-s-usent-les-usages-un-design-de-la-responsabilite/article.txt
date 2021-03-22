@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 243–262
+Pages: 243-262
 ----
 Informations: Article paru dans *Azimuts* nº 24, 2004
 ----

@@ -6,7 +6,7 @@ Type: Traduction
 ----
 Section: Anthologie
 ----
-Pages: 178–189
+Pages: 178-189
 ----
 Informations: Extrait de *The Elements of Typographic Style*.
 Traduit de l’anglais par Marc Monjou, Véronique Rancurel et Samuel Vermeil

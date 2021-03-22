@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 107–131
+Pages: 107-131
 ----
 Autres informations: Entretien mené par Elizabeth Hale et Tiphaine Kazi-Tapi
 ----

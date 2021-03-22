@@ -6,7 +6,7 @@ Type: Texte inédit
 ----
 Section: Dossier
 ----
-Pages: 59–72
+Pages: 59-72
 ----
 Biographie: David-Olivier Lartigaud est spécialisé en théorie et pratique des nouveaux médias. Il est professeur à l’ESADSE où il dirige avec François Brument le RANDOM (lab). Chargé de cours à l’UFR d’arts plastiques et sciences de l’art de l’université Paris 1, il fut organisateur des colloques internationaux «Programmation orientée art 1 & 2» à la Sorbonne, en 2004 et 2007. Il a été responsable, de 2003 à 2007, de la ligne de recherche «Sens et usage de la programmation informatique en art» et coordonne actuellement la ligne de recherche «Objectiver», toutes deux soutenues par la DGCA. Il a récemment dirigé la publication d’*ART++* aux éditions HYX (2011) et a contribué à l’ouvrage *Search Terms: Basse déf.*, sous la direction de Nicolas Thély, aux éditions B42 (2012).
 ----

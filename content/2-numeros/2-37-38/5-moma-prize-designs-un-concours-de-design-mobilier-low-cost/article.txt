@@ -6,5 +6,5 @@ Type: Traduction
 ----
 Section: Dossier
 ----
-Pages: 67–80
+Pages: 67-80
 

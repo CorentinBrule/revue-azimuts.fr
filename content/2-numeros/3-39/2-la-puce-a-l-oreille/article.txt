@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 12–29
+Pages: 12-29
 ----
 Informations: Propos recueillis par Marc Monjou
 ----

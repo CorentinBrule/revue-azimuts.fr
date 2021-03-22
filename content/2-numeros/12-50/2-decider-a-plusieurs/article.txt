@@ -6,11 +6,11 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 9–46
+Pages: 9-46
 ----
 Informations: Propos recueillis par Corentin Brulé, Cléa Di Fabio, Marion Fraboulet et Marc Monjou
 ----
-Biographie: 
+Biographie:
 
 Aurélien Colson est professeur de science politique à l’ESSEC, où il dirige depuis 2008 l’Institut de recherche et d’enseignement sur la négociation (IRENÉ, Paris – Singapour – Bruxelles). Il a reçu le Grand prix 2008 de l’Académie des sciences morales et politiques pour ses recherches sur la négociation diplomatique. Il fut conseiller technique du Premier ministre (1998–2002). Il coordonne les formations à la négociation pour l’ÉNA (depuis 2002), le ministère des Affaires étrangères (depuis 2010) et la Commission européenne (2008–2015). Il a mené des missions de dialogue dans des pays en situation post-conflit et a été élu de 2010 à 2014 administrateur du *European Peace-building Liaison Office*.
 

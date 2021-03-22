@@ -6,4 +6,4 @@ Type: Entretien
 ----
 Section: Varia
 ----
-Pages: 492–494
+Pages: 492-494

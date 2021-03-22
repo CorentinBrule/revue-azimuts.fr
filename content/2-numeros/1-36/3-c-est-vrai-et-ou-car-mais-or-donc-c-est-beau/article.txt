@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 17–28
+Pages: 17-28
 ----
 Disponible: oui
 ----

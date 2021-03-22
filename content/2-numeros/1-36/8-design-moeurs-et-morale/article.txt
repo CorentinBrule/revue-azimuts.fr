@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 71–86
+Pages: 71-86
 ----
 Informations: Texte paru dans *Azimuts* nº 30, 2008.
 ----

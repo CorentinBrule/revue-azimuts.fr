@@ -6,7 +6,7 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 12–31
+Pages: 12-31
 ----
 Informations: Propos recueillis par Camille Chatelaine et Céline Chip
 ----
