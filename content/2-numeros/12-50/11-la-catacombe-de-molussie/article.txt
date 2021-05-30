@@ -2,7 +2,7 @@ Titre: La Catacombe de Molussie (extrait)
 ----
 Auteur: Günther Anders
 ----
-Type: Texte inédit
+Type: Traduction
 ----
 Section: Anthologie
 ----
@@ -10,7 +10,7 @@ Pages: 188-200
 ----
 Autres informations:
 ----
-Biographie: 
+Biographie:
 ----
 Bibliographie:
 ----
