@@ -7,3 +7,8 @@ Section:
 Pages: 13
 ----
 Texte: 
+
+----
+TitreEn: Some design in art! Interview with Yves Michaud
+----
+PagesEn: 16

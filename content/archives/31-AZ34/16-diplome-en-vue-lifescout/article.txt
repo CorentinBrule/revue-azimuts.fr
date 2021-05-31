@@ -7,3 +7,8 @@ Section:
 Pages: 122
 ----
 Texte: 
+
+----
+TitreEn: Degree: LifeScout
+----
+PagesEn: 122

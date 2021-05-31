@@ -7,3 +7,8 @@ Section:
 Pages: 86
 ----
 Texte: 
+
+----
+TitreEn: What our be the parameters for designing a lighting system? The process at the forefront
+----
+PagesEn: 86

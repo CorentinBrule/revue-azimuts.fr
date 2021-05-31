@@ -7,3 +7,8 @@ Section:
 Pages: 62
 ----
 Texte: 
+
+----
+TitreEn: Philippe Boisselier: an experience‑driven exhibition
+----
+PagesEn: 62

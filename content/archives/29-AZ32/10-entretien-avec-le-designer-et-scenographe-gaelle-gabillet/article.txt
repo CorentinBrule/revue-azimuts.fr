@@ -7,3 +7,8 @@ Section:
 Pages: 79
 ----
 Texte: 
+
+----
+TitreEn: Interview with the designer and scenic artist Gaëlle Gabillet
+----
+PagesEn: 79

@@ -7,3 +7,8 @@ Section:
 Pages: 102
 ----
 Texte: 
+
+----
+TitreEn: I accumulate data
+----
+PagesEn: 106

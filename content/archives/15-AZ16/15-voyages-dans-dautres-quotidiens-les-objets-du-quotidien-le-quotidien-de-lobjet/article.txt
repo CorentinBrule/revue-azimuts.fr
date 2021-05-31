@@ -7,3 +7,8 @@ Section:
 Pages: 62
 ----
 Texte: 
+
+----
+TitreEn: Journeys into another existence: objects in daily life / the daily life of objects
+----
+PagesEn: 62

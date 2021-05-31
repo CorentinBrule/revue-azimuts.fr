@@ -7,3 +7,8 @@ Section:
 Pages: 6
 ----
 Texte: 
+
+----
+TitreEn: Between art and design. The practice of transversality
+----
+PagesEn: 6

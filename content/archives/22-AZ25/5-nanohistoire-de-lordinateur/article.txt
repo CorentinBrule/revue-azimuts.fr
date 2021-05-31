@@ -7,3 +7,8 @@ Section:
 Pages: 56
 ----
 Texte: 
+
+----
+TitreEn: Nano history of computer
+----
+PagesEn: 56

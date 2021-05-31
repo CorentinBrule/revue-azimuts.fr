@@ -7,3 +7,8 @@ Section:
 Pages: 30
 ----
 Texte: 
+
+----
+TitreEn: A brief history of mobility
+----
+PagesEn: 30

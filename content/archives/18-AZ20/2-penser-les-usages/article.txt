@@ -7,3 +7,8 @@ Section:
 Pages: 5
 ----
 Texte: 
+
+----
+TitreEn: Consideration of uses
+----
+PagesEn: 74

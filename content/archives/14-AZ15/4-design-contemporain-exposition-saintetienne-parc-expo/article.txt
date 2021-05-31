@@ -7,3 +7,8 @@ Section:
 Pages: 96
 ----
 Texte: 
+
+----
+TitreEn: Contemporary Design – Exhibition Park, Saint‑Étienne
+----
+PagesEn: 96

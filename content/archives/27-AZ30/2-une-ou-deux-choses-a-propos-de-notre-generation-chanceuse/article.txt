@@ -7,3 +7,8 @@ Section:
 Pages: 8
 ----
 Texte: 
+
+----
+TitreEn: One or two things about our lucky generation
+----
+PagesEn: 14

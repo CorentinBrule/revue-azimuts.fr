@@ -7,3 +7,8 @@ Section:
 Pages: 76
 ----
 Texte: 
+
+----
+TitreEn: Scientific aspects of sound design
+----
+PagesEn: 78

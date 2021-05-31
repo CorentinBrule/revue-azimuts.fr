@@ -7,3 +7,8 @@ Section:
 Pages: 34
 ----
 Texte: 
+
+----
+TitreEn: Furniture for Saint‑Étienne
+----
+PagesEn: 34

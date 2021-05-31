@@ -7,3 +7,8 @@ Section:
 Pages: 1
 ----
 Texte: 
+
+----
+TitreEn: Editorial Design for a sustainable world
+----
+PagesEn: 1

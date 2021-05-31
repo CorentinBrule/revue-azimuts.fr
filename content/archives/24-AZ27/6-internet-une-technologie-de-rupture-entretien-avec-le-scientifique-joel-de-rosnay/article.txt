@@ -7,3 +7,8 @@ Section:
 Pages: 42
 ----
 Texte: 
+
+----
+TitreEn: The Internet, a disruptive technology
+----
+PagesEn: 42

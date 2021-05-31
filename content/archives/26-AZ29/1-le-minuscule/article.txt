@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: Minuscule
+----
+PagesEn: 4

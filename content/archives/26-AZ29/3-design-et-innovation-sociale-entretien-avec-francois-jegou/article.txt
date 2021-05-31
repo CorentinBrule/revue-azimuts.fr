@@ -7,3 +7,8 @@ Section:
 Pages: 26
 ----
 Texte: 
+
+----
+TitreEn: Design and social innovation, Interview with François Jégou
+----
+PagesEn: 26

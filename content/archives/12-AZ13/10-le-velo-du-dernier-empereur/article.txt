@@ -7,3 +7,8 @@ Section:
 Pages: 41
 ----
 Texte: 
+
+----
+TitreEn: The last emperor’s bicycle
+----
+PagesEn: 41

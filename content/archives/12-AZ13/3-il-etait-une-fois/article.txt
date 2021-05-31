@@ -7,3 +7,8 @@ Section:
 Pages: 10
 ----
 Texte: 
+
+----
+TitreEn: Once upon a time…
+----
+PagesEn: 10

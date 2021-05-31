@@ -7,3 +7,8 @@ Section:
 Pages: 88
 ----
 Texte: 
+
+----
+TitreEn: The cinema of the imaginary urban world
+----
+PagesEn: 88

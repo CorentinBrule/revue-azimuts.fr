@@ -7,3 +7,8 @@ Section:
 Pages: 29
 ----
 Texte: 
+
+----
+TitreEn: Conversation with Michel de Lucchi
+----
+PagesEn: 32

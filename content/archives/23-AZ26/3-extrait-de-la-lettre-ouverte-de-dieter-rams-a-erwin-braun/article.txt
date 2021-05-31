@@ -7,3 +7,8 @@ Section:
 Pages: 28
 ----
 Texte: 
+
+----
+TitreEn: Extracted from Dieter Rams’ open letter to Erwin Braun
+----
+PagesEn: 29

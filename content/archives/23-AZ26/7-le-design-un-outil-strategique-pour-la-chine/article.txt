@@ -7,3 +7,8 @@ Section:
 Pages: 58
 ----
 Texte: 
+
+----
+TitreEn: Design, strategic tool for China
+----
+PagesEn: 58

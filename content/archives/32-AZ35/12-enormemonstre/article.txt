@@ -7,3 +7,8 @@ Section:
 Pages: 123
 ----
 Texte: 
+
+----
+TitreEn: Énormémonstre
+----
+PagesEn: 137

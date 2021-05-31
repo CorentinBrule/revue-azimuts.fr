@@ -7,3 +7,8 @@ Section:
 Pages: 8
 ----
 Texte: 
+
+----
+TitreEn: Pierre Staudenmeyer and the Neotu gallery
+----
+PagesEn: 8

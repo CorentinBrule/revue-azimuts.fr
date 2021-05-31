@@ -7,3 +7,8 @@ Section:
 Pages: 74
 ----
 Texte: 
+
+----
+TitreEn: Lacoste: what does the future hold, interview with Mathilde Lacoste and Christophe Pillet
+----
+PagesEn: 78

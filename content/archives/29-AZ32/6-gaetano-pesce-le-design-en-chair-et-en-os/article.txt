@@ -7,3 +7,8 @@ Section:
 Pages: 52
 ----
 Texte: 
+
+----
+TitreEn: Gaetano Pesce: Design in flesh and blood
+----
+PagesEn: 52

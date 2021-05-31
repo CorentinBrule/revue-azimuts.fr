@@ -7,3 +7,8 @@ Section:
 Pages: 64
 ----
 Texte: 
+
+----
+TitreEn: Samuel Baron
+----
+PagesEn: 64

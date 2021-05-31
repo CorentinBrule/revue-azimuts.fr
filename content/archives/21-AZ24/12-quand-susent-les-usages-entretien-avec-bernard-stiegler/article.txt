@@ -7,3 +7,8 @@ Section:
 Pages: 79
 ----
 Texte: 
+
+----
+TitreEn: Interview with Bernard Stiegler
+----
+PagesEn: 79

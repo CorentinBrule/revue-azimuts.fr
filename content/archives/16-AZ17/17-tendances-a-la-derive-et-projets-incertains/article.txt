@@ -7,3 +7,8 @@ Section:
 Pages: 52
 ----
 Texte: 
+
+----
+TitreEn: Drifting trends and uncertain projects
+----
+PagesEn: 50

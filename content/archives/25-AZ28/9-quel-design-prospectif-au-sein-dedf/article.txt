@@ -7,3 +7,8 @@ Section:
 Pages: 72
 ----
 Texte: 
+
+----
+TitreEn: Prospective design in EDF research and development
+----
+PagesEn: 74

@@ -7,3 +7,8 @@ Section:
 Pages: 10
 ----
 Texte: 
+
+----
+TitreEn: Individual and collective genetic research on the human species
+----
+PagesEn: 14

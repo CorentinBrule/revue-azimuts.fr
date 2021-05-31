@@ -7,3 +7,8 @@ Section:
 Pages: 50
 ----
 Texte: 
+
+----
+TitreEn: 6 Ears 3 Mouths
+----
+PagesEn: 51

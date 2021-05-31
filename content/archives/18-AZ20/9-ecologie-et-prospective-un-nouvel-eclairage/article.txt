@@ -7,3 +7,8 @@ Section:
 Pages: 46
 ----
 Texte: 
+
+----
+TitreEn: Ecology and forecasting, a new perspective
+----
+PagesEn: 46

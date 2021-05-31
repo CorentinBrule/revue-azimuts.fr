@@ -7,3 +7,8 @@ Section:
 Pages: 18
 ----
 Texte: 
+
+----
+TitreEn: Remodelling the model
+----
+PagesEn: 18

@@ -7,3 +7,8 @@ Section:
 Pages: 66
 ----
 Texte: 
+
+----
+TitreEn: An unquiet spirit: the Lehanneur poltergeist
+----
+PagesEn: 66

@@ -7,3 +7,8 @@ Section:
 Pages: 7
 ----
 Texte: 
+
+----
+TitreEn: World Wild Found / WWF France
+----
+PagesEn: 7

@@ -7,3 +7,8 @@ Section:
 Pages: 28
 ----
 Texte: 
+
+----
+TitreEn: Interview with Jean‑Pierre Charbonneau: Saint‑Étienne’s new urban planning policy
+----
+PagesEn: 28

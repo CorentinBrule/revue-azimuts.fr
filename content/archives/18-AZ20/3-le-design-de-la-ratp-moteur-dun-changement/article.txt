@@ -7,3 +7,8 @@ Section:
 Pages: 12
 ----
 Texte: 
+
+----
+TitreEn: Design at RATP, the driving force behind continuous change
+----
+PagesEn: 80

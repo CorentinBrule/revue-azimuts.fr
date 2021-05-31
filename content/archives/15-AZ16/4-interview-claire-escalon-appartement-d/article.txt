@@ -7,3 +7,8 @@ Section:
 Pages: 18
 ----
 Texte: 
+
+----
+TitreEn: Focus on Claire Escalon: Appartement D
+----
+PagesEn: 18

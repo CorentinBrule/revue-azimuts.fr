@@ -7,3 +7,8 @@ Section:
 Pages: 11
 ----
 Texte: 
+
+----
+TitreEn: Focus on Charlotte Perriand and six European Women designers
+----
+PagesEn: 11

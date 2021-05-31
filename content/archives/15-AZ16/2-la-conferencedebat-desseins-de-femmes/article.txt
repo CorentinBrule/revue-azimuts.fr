@@ -7,3 +7,8 @@ Section:
 Pages: 10
 ----
 Texte:
+
+----
+TitreEn: The conference‑debate ’A woman’s lot’
+----
+PagesEn: 10

@@ -7,3 +7,8 @@ Section:
 Pages: 11
 ----
 Texte: 
+
+----
+TitreEn: Reinvented objects
+----
+PagesEn: 11

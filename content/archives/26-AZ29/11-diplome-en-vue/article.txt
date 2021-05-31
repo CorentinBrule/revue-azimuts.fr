@@ -7,3 +7,8 @@ Section:
 Pages: 110
 ----
 Texte: 
+
+----
+TitreEn: Degree
+----
+PagesEn: 110

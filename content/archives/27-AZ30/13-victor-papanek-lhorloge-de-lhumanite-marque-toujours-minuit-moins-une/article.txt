@@ -7,3 +7,8 @@ Section:
 Pages: 96
 ----
 Texte: 
+
+----
+TitreEn: Victor Papanek, The clock of humanity points perpetually to one minute before twelve
+----
+PagesEn: 96

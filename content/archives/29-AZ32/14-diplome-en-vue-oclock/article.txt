@@ -7,3 +7,8 @@ Section:
 Pages: 116
 ----
 Texte: 
+
+----
+TitreEn: Degree: O’Clock 
+----
+PagesEn: 116

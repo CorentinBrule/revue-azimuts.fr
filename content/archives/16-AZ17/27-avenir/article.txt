@@ -7,3 +7,8 @@ Section:
 Pages: 71
 ----
 Texte: 
+
+----
+TitreEn: Future
+----
+PagesEn: 71

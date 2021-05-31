@@ -7,3 +7,8 @@ Section:
 Pages: 94
 ----
 Texte: 
+
+----
+TitreEn: Carte blanche
+----
+PagesEn: 94

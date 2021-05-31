@@ -7,3 +7,8 @@ Section:
 Pages: 39
 ----
 Texte: 
+
+----
+TitreEn: Vital impulse
+----
+PagesEn: 39

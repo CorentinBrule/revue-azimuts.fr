@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: Newut pro, new version of the Newut
+----
+PagesEn: 4

@@ -7,3 +7,8 @@ Section:
 Pages: 102
 ----
 Texte: 
+
+----
+TitreEn: Research and design, cousins and false friends
+----
+PagesEn: 102

@@ -7,3 +7,8 @@ Section:
 Pages: 91
 ----
 Texte: 
+
+----
+TitreEn: Design, conditions for its appearance and legitimisation
+----
+PagesEn: 91

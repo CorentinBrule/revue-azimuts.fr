@@ -7,3 +7,8 @@ Section:
 Pages: 73
 ----
 Texte: 
+
+----
+TitreEn: Interview with Konstantin Grcic
+----
+PagesEn: 73

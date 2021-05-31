@@ -7,3 +7,8 @@ Section:
 Pages: 45
 ----
 Texte: 
+
+----
+TitreEn: Exploration and energy realism
+----
+PagesEn: 45

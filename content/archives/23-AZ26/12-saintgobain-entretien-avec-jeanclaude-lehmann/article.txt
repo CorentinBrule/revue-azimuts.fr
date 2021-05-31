@@ -7,3 +7,8 @@ Section:
 Pages: 87
 ----
 Texte: 
+
+----
+TitreEn: Saint‑Gobain, Interview with Jean‑Claude Lehmann
+----
+PagesEn: 88

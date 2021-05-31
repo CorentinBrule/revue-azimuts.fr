@@ -7,3 +7,8 @@ Section:
 Pages: 81
 ----
 Texte: 
+
+----
+TitreEn: Symbiotic design
+----
+PagesEn: 103

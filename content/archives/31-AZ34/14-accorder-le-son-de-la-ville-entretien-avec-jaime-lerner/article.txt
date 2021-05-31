@@ -7,3 +7,8 @@ Section:
 Pages: 110
 ----
 Texte: 
+
+----
+TitreEn: Tuning up the town, Interview with Jaime Lerner
+----
+PagesEn: 110

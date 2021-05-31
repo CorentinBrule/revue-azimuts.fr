@@ -7,3 +7,8 @@ Section:
 Pages: 108
 ----
 Texte: 
+
+----
+TitreEn: Washing cycles, innovation cycles
+----
+PagesEn: 110

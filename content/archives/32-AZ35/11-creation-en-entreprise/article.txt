@@ -7,3 +7,8 @@ Section:
 Pages: 107
 ----
 Texte: 
+
+----
+TitreEn: Corporate design
+----
+PagesEn: 121

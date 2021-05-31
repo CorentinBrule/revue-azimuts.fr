@@ -7,3 +7,8 @@ Section:
 Pages: 49
 ----
 Texte: 
+
+----
+TitreEn: The experience of strangeness
+----
+PagesEn: 63

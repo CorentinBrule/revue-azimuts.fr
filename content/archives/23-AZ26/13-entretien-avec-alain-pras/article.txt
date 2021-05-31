@@ -7,3 +7,8 @@ Section:
 Pages: 90
 ----
 Texte: 
+
+----
+TitreEn: Interview with Alain Pras
+----
+PagesEn: 93

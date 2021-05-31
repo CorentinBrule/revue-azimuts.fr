@@ -7,3 +7,8 @@ Section:
 Pages: 20
 ----
 Texte: 
+
+----
+TitreEn: Mobile
+----
+PagesEn: 24

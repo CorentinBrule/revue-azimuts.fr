@@ -7,3 +7,8 @@ Section:
 Pages: 48
 ----
 Texte: 
+
+----
+TitreEn: An urban dream
+----
+PagesEn: 48

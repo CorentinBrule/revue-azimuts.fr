@@ -7,3 +7,8 @@ Section:
 Pages: 40
 ----
 Texte: 
+
+----
+TitreEn: From industrial civilisation to cognitive civilisation, interview with Thierry Gaudin
+----
+PagesEn: 40

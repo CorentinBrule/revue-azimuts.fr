@@ -7,3 +7,8 @@ Section:
 Pages: 60
 ----
 Texte: 
+
+----
+TitreEn: Z LAB 2000
+----
+PagesEn: 60

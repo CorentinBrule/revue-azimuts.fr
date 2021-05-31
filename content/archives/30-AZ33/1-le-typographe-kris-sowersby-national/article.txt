@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: The typographer Kris Sowersby, National
+----
+PagesEn: 4

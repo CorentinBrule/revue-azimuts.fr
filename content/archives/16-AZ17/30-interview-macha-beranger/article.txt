@@ -7,3 +7,8 @@ Section:
 Pages: 74
 ----
 Texte: 
+
+----
+TitreEn: Interview Macha Béranger
+----
+PagesEn: 74

@@ -7,3 +7,8 @@ Section:
 Pages: 61
 ----
 Texte: 
+
+----
+TitreEn: RFID footprints
+----
+PagesEn: 64

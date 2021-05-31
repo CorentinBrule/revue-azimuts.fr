@@ -7,3 +7,8 @@ Section:
 Pages: 301
 ----
 Texte: 
+
+----
+TitreEn: International Design
+----
+PagesEn: 301

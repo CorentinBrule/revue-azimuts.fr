@@ -7,3 +7,8 @@ Section:
 Pages: 38
 ----
 Texte: 
+
+----
+TitreEn: Cd‑rom, the interactive velocipede or 5 good reasons to pedal into a cd‑rom
+----
+PagesEn: 38

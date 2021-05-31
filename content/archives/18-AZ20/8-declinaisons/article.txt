@@ -7,3 +7,8 @@ Section:
 Pages: 44
 ----
 Texte: 
+
+----
+TitreEn: Declinations
+----
+PagesEn: 44

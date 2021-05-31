@@ -7,3 +7,8 @@ Section:
 Pages: 209
 ----
 Texte: 
+
+----
+TitreEn: International Design
+----
+PagesEn: 209

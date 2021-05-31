@@ -7,3 +7,8 @@ Section:
 Pages: 62
 ----
 Texte: 
+
+----
+TitreEn: Let’s build
+----
+PagesEn: 65

@@ -7,3 +7,8 @@ Section:
 Pages: 17
 ----
 Texte: 
+
+----
+TitreEn: Individual exhibitions
+----
+PagesEn: 17

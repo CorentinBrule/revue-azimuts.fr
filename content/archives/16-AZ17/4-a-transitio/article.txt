@@ -7,3 +7,8 @@ Section:
 Pages: 12
 ----
 Texte: 
+
+----
+TitreEn: A transitio
+----
+PagesEn: 13

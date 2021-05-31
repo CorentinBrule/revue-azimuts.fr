@@ -7,3 +7,8 @@ Section:
 Pages: 13
 ----
 Texte: 
+
+----
+TitreEn: Texts
+----
+PagesEn: 13

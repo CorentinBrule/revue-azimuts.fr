@@ -7,3 +7,8 @@ Section:
 Pages: 9
 ----
 Texte: 
+
+----
+TitreEn: Impossible’s designers
+----
+PagesEn: 9

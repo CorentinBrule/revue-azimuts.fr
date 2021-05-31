@@ -7,3 +7,8 @@ Section:
 Pages: 45
 ----
 Texte: 
+
+----
+TitreEn: O2 France / service provision
+----
+PagesEn: 45

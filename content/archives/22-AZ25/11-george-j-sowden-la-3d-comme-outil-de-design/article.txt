@@ -7,3 +7,8 @@ Section:
 Pages: 82
 ----
 Texte: 
+
+----
+TitreEn: George J. Sowden, 3D as a design tool
+----
+PagesEn: 82

@@ -7,3 +7,8 @@ Section:
 Pages: 115
 ----
 Texte: 
+
+----
+TitreEn: Attitudes
+----
+PagesEn: 115

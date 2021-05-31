@@ -7,3 +7,8 @@ Section:
 Pages: 87
 ----
 Texte: 
+
+----
+TitreEn: A new musical era Interview with Hugues Vinet
+----
+PagesEn: 87

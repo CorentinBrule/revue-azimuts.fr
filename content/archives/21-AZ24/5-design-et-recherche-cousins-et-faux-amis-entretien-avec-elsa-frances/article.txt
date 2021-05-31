@@ -7,3 +7,8 @@ Section:
 Pages: p.40
 ----
 Texte: 
+
+----
+TitreEn: Research and design, cousins and false friends
+----
+PagesEn: p.40

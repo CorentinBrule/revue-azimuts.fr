@@ -7,3 +7,8 @@ Section:
 Pages: 34
 ----
 Texte: 
+
+----
+TitreEn: Game Design
+----
+PagesEn: 44

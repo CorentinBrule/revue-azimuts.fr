@@ -7,3 +7,8 @@ Section:
 Pages: 26
 ----
 Texte: 
+
+----
+TitreEn: Saint‑Étienne & Bratislava in tandem together
+----
+PagesEn: 26

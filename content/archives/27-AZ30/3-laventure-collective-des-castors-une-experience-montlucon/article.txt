@@ -7,3 +7,8 @@ Section:
 Pages: 22
 ----
 Texte: 
+
+----
+TitreEn: The great castor adventure
+----
+PagesEn: 22

@@ -7,3 +7,8 @@ Section:
 Pages: 91
 ----
 Texte: 
+
+----
+TitreEn: Eco‑urban planning: in pursuit of a new utopia
+----
+PagesEn: 91

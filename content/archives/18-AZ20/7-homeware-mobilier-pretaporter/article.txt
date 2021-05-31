@@ -7,3 +7,8 @@ Section:
 Pages: 39
 ----
 Texte:
+
+----
+TitreEn: Homeware, ’ready‑to‑wear’ furnitures
+----
+PagesEn: 39

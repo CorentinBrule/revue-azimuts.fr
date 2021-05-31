@@ -7,3 +7,8 @@ Section:
 Pages: 33
 ----
 Texte: 
+
+----
+TitreEn: The square outside the salle Jeanne d’Arc in Saint‑Étienne
+----
+PagesEn: 33

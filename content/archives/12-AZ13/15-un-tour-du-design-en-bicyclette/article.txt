@@ -7,3 +7,8 @@ Section:
 Pages: 60
 ----
 Texte: 
+
+----
+TitreEn: A tour of Bicycle Design
+----
+PagesEn: 60

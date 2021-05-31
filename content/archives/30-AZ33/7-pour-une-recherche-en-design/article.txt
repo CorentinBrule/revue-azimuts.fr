@@ -7,3 +7,8 @@ Section:
 Pages: 39
 ----
 Texte: 
+
+----
+TitreEn: The argument for design research
+----
+PagesEn: 39

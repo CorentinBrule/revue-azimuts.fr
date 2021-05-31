@@ -7,3 +7,8 @@ Section:
 Pages: 72
 ----
 Texte: 
+
+----
+TitreEn: Éric Gill, Sculpturer, stonecutter, calligrapher . . . Éric Gill is also the designer of Gill Sans
+----
+PagesEn: 48

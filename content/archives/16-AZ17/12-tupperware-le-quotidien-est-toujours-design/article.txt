@@ -7,3 +7,8 @@ Section:
 Pages: 36
 ----
 Texte: 
+
+----
+TitreEn: Tupperware… The run‑of‑the‑mill is steel design
+----
+PagesEn: 36

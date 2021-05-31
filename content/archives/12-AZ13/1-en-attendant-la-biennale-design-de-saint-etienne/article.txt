@@ -7,3 +7,8 @@ Section:
 Pages: 2
 ----
 Texte: 
+
+----
+TitreEn: Looking forward to the St‑Étienne Biennal Design Festival
+----
+PagesEn: 2

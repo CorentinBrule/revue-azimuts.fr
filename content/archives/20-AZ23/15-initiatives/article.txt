@@ -7,3 +7,8 @@ Section:
 Pages: 68
 ----
 Texte: 
+
+----
+TitreEn: Initiatives
+----
+PagesEn: 68

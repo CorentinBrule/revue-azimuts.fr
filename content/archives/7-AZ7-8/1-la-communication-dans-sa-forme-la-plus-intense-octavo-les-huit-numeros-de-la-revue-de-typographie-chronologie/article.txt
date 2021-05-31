@@ -2,8 +2,14 @@ Titre: La communication… dans sa forme la plus intense, Octavo, les huit numé
 ----
 Auteur: Ursula Held
 ----
-Section: 
+Section:
 ----
 Pages: 62
 ----
-Texte: 
+Texte:
+
+----
+TitreEn: Communication in its most intense form ‑ Octavo, journal of typography: a chronology of its eight issues
+----
+PagesEn: 2
+----

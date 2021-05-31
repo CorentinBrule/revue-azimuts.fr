@@ -7,3 +7,8 @@ Section:
 Pages: 75
 ----
 Texte: 
+
+----
+TitreEn: Raison and typography, 1936
+----
+PagesEn: 54

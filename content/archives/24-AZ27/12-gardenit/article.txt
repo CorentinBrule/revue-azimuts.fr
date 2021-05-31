@@ -7,3 +7,8 @@ Section:
 Pages: 80
 ----
 Texte: 
+
+----
+TitreEn: Garden’it
+----
+PagesEn: 80

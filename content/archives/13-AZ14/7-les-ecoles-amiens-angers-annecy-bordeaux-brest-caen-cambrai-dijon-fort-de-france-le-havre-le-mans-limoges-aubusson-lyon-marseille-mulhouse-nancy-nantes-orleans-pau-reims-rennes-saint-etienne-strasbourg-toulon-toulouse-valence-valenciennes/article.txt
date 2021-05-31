@@ -7,3 +7,8 @@ Section:
 Pages: 21
 ----
 Texte: 
+
+----
+TitreEn: Schools: Amiens, Angers, Annecy, Bordeaux, Brest, Caen, Cambrai, Dijon, Fort de France, Le Havre, Le Mans, Limoges Aubusson, Lyon, Marseille, Mulhouse, Nancy, Nantes, Orléans, Pau, Reims, Rennes, Saint-Étienne, Strasbourg, Toulon, Toulouse, Valence, Valenciennes
+----
+PagesEn: 110

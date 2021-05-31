@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: Working papers
+----
+PagesEn: 8

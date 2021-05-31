@@ -7,3 +7,8 @@ Section:
 Pages: 47
 ----
 Texte: 
+
+----
+TitreEn: Design in China / Beijing
+----
+PagesEn: 47

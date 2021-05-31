@@ -7,3 +7,8 @@ Section:
 Pages: 17
 ----
 Texte: 
+
+----
+TitreEn: Stylclair. The Utopia of Contemporary Furniture
+----
+PagesEn: 17

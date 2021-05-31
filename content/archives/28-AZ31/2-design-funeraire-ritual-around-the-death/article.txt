@@ -7,3 +7,8 @@ Section:
 Pages: 8
 ----
 Texte: 
+
+----
+TitreEn: Rituals around the death
+----
+PagesEn: 8

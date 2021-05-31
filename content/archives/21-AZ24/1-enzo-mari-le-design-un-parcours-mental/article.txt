@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte:
+
+----
+TitreEn: Enzo Mari Design as a ’cerebral process’
+----
+PagesEn: 4

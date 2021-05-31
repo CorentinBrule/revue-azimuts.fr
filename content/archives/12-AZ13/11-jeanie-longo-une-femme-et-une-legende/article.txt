@@ -7,3 +7,8 @@ Section:
 Pages: 42
 ----
 Texte: 
+
+----
+TitreEn: Jeanie Longo: a woman and a legend
+----
+PagesEn: 42

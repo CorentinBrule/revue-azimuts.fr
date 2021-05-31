@@ -7,3 +7,8 @@ Section:
 Pages: 20
 ----
 Texte: 
+
+----
+TitreEn: A great museum under wraps
+----
+PagesEn: 20

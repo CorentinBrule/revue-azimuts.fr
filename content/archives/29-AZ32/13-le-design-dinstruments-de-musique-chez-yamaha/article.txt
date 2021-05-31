@@ -7,3 +7,8 @@ Section:
 Pages: 101
 ----
 Texte: 
+
+----
+TitreEn: Designing musical instruments
+----
+PagesEn: 101

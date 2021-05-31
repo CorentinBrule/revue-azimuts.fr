@@ -7,3 +7,8 @@ Section:
 Pages: 68
 ----
 Texte: 
+
+----
+TitreEn: Krug champages, interview with François Bauchet and Mark Cornell
+----
+PagesEn: 71

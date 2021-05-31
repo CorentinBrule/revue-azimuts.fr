@@ -7,3 +7,8 @@ Section:
 Pages: 80
 ----
 Texte: 
+
+----
+TitreEn: Breeding tables by Kram & Weisshaar
+----
+PagesEn: 80

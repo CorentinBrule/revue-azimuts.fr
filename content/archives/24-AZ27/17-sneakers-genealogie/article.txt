@@ -7,3 +7,8 @@ Section:
 Pages: 99
 ----
 Texte: 
+
+----
+TitreEn: Trainers genealogy
+----
+PagesEn: 99

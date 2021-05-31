@@ -7,3 +7,8 @@ Section:
 Pages: 35
 ----
 Texte: 
+
+----
+TitreEn: The cloud city
+----
+PagesEn: 44

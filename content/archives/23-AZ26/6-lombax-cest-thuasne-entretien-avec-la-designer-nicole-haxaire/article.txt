@@ -7,3 +7,8 @@ Section:
 Pages: 51
 ----
 Texte: 
+
+----
+TitreEn: Lombax means Thuasne – Interview with Nicole Haxaire
+----
+PagesEn: 51

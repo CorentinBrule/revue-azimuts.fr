@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: The typographer Matthieu Cortat introduces the Stuart Pro
+----
+PagesEn: 4

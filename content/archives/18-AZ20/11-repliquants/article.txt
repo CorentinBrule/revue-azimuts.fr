@@ -7,3 +7,8 @@ Section:
 Pages: 58
 ----
 Texte: 
+
+----
+TitreEn: Répliquants
+----
+PagesEn: 59

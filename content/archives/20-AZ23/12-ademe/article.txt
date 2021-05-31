@@ -7,3 +7,8 @@ Section:
 Pages: 49
 ----
 Texte: 
+
+----
+TitreEn: Ademe
+----
+PagesEn: p. 49

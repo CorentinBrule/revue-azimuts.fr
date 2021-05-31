@@ -7,3 +7,8 @@ Section:
 Pages: 93
 ----
 Texte: 
+
+----
+TitreEn: Duralex
+----
+PagesEn: 93

@@ -7,3 +7,8 @@ Section:
 Pages: 65
 ----
 Texte: 
+
+----
+TitreEn: Design and constructal theory
+----
+PagesEn: 65

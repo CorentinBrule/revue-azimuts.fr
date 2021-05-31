@@ -7,3 +7,8 @@ Section:
 Pages: 52
 ----
 Texte: 
+
+----
+TitreEn: Organoleptic
+----
+PagesEn: 52

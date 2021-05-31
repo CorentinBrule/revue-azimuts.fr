@@ -7,3 +7,8 @@ Section:
 Pages: 69
 ----
 Texte: 
+
+----
+TitreEn: Interview with the architect Claude Parent
+----
+PagesEn: 69

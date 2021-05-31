@@ -7,3 +7,8 @@ Section:
 Pages: 18
 ----
 Texte: 
+
+----
+TitreEn: Theme: From thought to line. The Paradox of Design thinking
+----
+PagesEn: 18

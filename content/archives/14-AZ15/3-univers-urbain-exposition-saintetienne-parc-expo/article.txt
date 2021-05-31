@@ -7,3 +7,8 @@ Section:
 Pages: 5O
 ----
 Texte: 
+
+----
+TitreEn: Urbain Universe – Exhibition Park Expo, Saint‑Étienne
+----
+PagesEn: 50

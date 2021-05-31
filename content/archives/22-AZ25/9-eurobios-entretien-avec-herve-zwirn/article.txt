@@ -7,3 +7,8 @@ Section:
 Pages: 77
 ----
 Texte: 
+
+----
+TitreEn: Eurobios, interview with Hervé Zwirn
+----
+PagesEn: 77

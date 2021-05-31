@@ -7,3 +7,8 @@ Section:
 Pages: 30
 ----
 Texte: 
+
+----
+TitreEn: Just before the transformation… in the city
+----
+PagesEn: 33

@@ -7,3 +7,8 @@ Section:
 Pages: 14
 ----
 Texte: 
+
+----
+TitreEn: Saint‑Étienne: a short history of the bicycle
+----
+PagesEn: 14

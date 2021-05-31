@@ -7,3 +7,8 @@ Section:
 Pages: 33
 ----
 Texte: 
+
+----
+TitreEn: All fun and games
+----
+PagesEn: 47

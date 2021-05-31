@@ -7,3 +7,8 @@ Section:
 Pages: 106
 ----
 Texte: 
+
+----
+TitreEn: Human design
+----
+PagesEn: 106

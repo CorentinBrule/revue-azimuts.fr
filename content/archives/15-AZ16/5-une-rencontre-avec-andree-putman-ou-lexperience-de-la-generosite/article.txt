@@ -7,3 +7,8 @@ Section:
 Pages: 21
 ----
 Texte: 
+
+----
+TitreEn: A meeting with Andrée Putman or the generosity experience
+----
+PagesEn: 21

@@ -7,3 +7,8 @@ Section:
 Pages: 3
 ----
 Texte: 
+
+----
+TitreEn: Foreword
+----
+PagesEn: 3

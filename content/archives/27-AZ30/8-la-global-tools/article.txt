@@ -7,3 +7,8 @@ Section:
 Pages: 68
 ----
 Texte: 
+
+----
+TitreEn: Global tools
+----
+PagesEn: 68

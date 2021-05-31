@@ -7,3 +7,8 @@ Section:
 Pages: 43
 ----
 Texte: 
+
+----
+TitreEn: CTBA
+----
+PagesEn: 43

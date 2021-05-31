@@ -7,3 +7,8 @@ Section:
 Pages: 36
 ----
 Texte: 
+
+----
+TitreEn: What is design?
+----
+PagesEn: 40

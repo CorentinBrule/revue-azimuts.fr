@@ -7,3 +7,8 @@ Section:
 Pages: 87
 ----
 Texte: 
+
+----
+TitreEn: Design for sustainable development and questions relating to emerging countries
+----
+PagesEn: 91

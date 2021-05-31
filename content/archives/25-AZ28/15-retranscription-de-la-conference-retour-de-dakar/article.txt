@@ -7,3 +7,8 @@ Section:
 Pages: 95
 ----
 Texte: 
+
+----
+TitreEn: Return from Dakar
+----
+PagesEn: 96

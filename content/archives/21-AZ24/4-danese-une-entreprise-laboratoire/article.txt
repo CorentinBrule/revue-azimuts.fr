@@ -7,3 +7,8 @@ Section:
 Pages: 28
 ----
 Texte: 
+
+----
+TitreEn: Danese. A company as a laboratory
+----
+PagesEn: 28

@@ -7,3 +7,8 @@ Section:
 Pages: 58
 ----
 Texte: 
+
+----
+TitreEn: A global design project for school canteens
+----
+PagesEn: 60

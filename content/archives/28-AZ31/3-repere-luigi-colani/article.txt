@@ -7,3 +7,8 @@ Section:
 Pages: 22
 ----
 Texte: 
+
+----
+TitreEn: Luigi Colani
+----
+PagesEn: 22

@@ -7,3 +7,8 @@ Section:
 Pages: 14
 ----
 Texte: 
+
+----
+TitreEn: Interview of Luc Doublet
+----
+PagesEn: 14

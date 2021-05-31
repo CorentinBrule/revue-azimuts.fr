@@ -7,3 +7,8 @@ Section:
 Pages: 24
 ----
 Texte: 
+
+----
+TitreEn: Omama, Living Café‑Museum of commerce
+----
+PagesEn: 24

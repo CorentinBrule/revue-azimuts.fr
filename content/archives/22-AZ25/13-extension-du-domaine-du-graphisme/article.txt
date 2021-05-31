@@ -7,3 +7,8 @@ Section:
 Pages: 90
 ----
 Texte: 
+
+----
+TitreEn: Extension of the field of graphic design
+----
+PagesEn: 90

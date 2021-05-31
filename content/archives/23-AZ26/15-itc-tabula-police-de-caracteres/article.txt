@@ -7,3 +7,8 @@ Section:
 Pages: 100
 ----
 Texte: 
+
+----
+TitreEn: Itc Tabula
+----
+PagesEn: 100

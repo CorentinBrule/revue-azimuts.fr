@@ -7,3 +7,8 @@ Section:
 Pages: 38
 ----
 Texte: 
+
+----
+TitreEn: Portfolio: 1998 Biennal Festival
+----
+PagesEn: 38

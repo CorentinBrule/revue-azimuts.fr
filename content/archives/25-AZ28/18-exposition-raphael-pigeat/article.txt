@@ -7,3 +7,8 @@ Section:
 Pages: 104
 ----
 Texte: 
+
+----
+TitreEn: Exhibition Raphaël Pigeat
+----
+PagesEn: 104

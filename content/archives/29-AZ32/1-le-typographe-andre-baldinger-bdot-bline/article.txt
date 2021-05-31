@@ -7,3 +7,8 @@ Section:
 Pages: 4
 ----
 Texte: 
+
+----
+TitreEn: The typographer André Baldinger, B‑Dot & B‑Line
+----
+PagesEn: 4

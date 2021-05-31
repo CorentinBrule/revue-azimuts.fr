@@ -7,3 +7,8 @@ Section:
 Pages: 53
 ----
 Texte: 
+
+----
+TitreEn: Energy now
+----
+PagesEn: 53

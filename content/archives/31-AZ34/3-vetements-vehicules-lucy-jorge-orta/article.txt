@@ -7,3 +7,8 @@ Section:
 Pages: 8
 ----
 Texte: 
+
+----
+TitreEn: Vehicle Wear of Lucy + Jorge Orta
+----
+PagesEn: 8

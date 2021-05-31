@@ -7,3 +7,8 @@ Section:
 Pages: 65
 ----
 Texte: 
+
+----
+TitreEn: Out of fashion or the survival of old objects
+----
+PagesEn: 65

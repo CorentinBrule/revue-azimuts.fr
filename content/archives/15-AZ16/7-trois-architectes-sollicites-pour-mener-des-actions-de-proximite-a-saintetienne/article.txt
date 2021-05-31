@@ -7,3 +7,8 @@ Section:
 Pages: 30
 ----
 Texte:
+
+----
+TitreEn: The three architects chosen to co‑ordinate the local work in Saint‑Étienne
+----
+PagesEn: 30

@@ -7,3 +7,8 @@ Section:
 Pages: 54
 ----
 Texte: 
+
+----
+TitreEn: Archigram, from utopia to the most outrageous fiction
+----
+PagesEn: 54

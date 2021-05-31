@@ -7,3 +7,8 @@ Section:
 Pages: 74
 ----
 Texte: 
+
+----
+TitreEn: Epcot, experimental prototype of a city by Walt Disney
+----
+PagesEn: 74

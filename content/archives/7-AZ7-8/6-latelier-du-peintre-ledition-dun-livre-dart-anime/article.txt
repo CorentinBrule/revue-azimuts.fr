@@ -7,3 +7,8 @@ Section:
 Pages: 68
 ----
 Texte: 
+
+----
+TitreEn: The Art Pack, Ron Van Der Meer, designer of pop‑up books
+----
+PagesEn: 28

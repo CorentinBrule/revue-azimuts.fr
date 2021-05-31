@@ -7,3 +7,8 @@ Section:
 Pages: 76
 ----
 Texte: 
+
+----
+TitreEn: Narval
+----
+PagesEn: 76

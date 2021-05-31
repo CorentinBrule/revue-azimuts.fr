@@ -7,3 +7,8 @@ Section:
 Pages: 8
 ----
 Texte: 
+
+----
+TitreEn: Design for patient safety
+----
+PagesEn: 8

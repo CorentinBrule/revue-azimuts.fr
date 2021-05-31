@@ -7,3 +7,8 @@ Section:
 Pages: 98
 ----
 Texte: 
+
+----
+TitreEn: Games
+----
+PagesEn: 98

@@ -7,3 +7,8 @@ Section:
 Pages: 46
 ----
 Texte: 
+
+----
+TitreEn: Design and energy: Explorare humanum est!
+----
+PagesEn: 46

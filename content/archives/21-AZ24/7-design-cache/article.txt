@@ -7,3 +7,8 @@ Section:
 Pages: p.48
 ----
 Texte: 
+
+----
+TitreEn: Hidden design
+----
+PagesEn: p.48

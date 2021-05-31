@@ -7,3 +7,8 @@ Section:
 Pages: 34
 ----
 Texte: 
+
+----
+TitreEn: About art schools in general
+----
+PagesEn: 34

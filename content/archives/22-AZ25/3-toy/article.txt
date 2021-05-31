@@ -7,3 +7,8 @@ Section:
 Pages: 31
 ----
 Texte: 
+
+----
+TitreEn: Toy
+----
+PagesEn: 31

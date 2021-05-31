@@ -7,3 +7,8 @@ Section:
 Pages: 72
 ----
 Texte: 
+
+----
+TitreEn: Xavier Clergerie: Who’s next?
+----
+PagesEn: 72
