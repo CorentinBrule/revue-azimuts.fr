@@ -10,7 +10,7 @@ Pages: 243-262
 ----
 Informations: Article paru dans *Azimuts* nº 24, 2004
 ----
-Biographie: 
+Biographie:
 Bernard Stiegler est philosophe, né en 1952. Il mène une réflexion sur les enjeux des mutations sociales, politiques et économiques. Au sein du Centre Georges Pompidou, il dirige actuellement l’Institut de Recherche et d’Innovation, qu’il a lui-même créé en 2006. Bernard Stiegler est également à l’origine d’Ars Industrialis (Association internationale pour une politique industrielle des technologies de l’esprit). Il a écrit entre autres *Aimer, s’aimer, nous aimer: du 11 septembre au 21 avril* (Galilée, 2003), *l’Économie de l’hypermatériel et psychopouvoir*, avec PhilippePetit et Vincent Bontems (Mille et une nuits, 2008), *Pour une nouvelle critique de l’économie politique*, (Galilée, 2009) et *Ce qui fait que la vie vaut la peine d’être vécue* (Flammarion, 2010).
 
 Catherine Geel est critique et commissaire d’expositions spécialisée dans le domaine du design. Elle enseigne l’histoire et la théorie du Design à l’ENS Cachan et à l’ENSA de Limoges. Depuis 2002, elle a produit des entretiens avec des designers pour France Culture. Également rédactrice en chef adjointe (Design) de la revue *Archistorm*, elle est l’auteur de plusieurs ouvrages tels que *Entretien avec Pierre Paulin* (Archibooks, 2008) et a et co-écrit *100 % India* (Chronicle books, 2005), *Andrea Branzi* (L’Amateur, 2006) et *Creatures, studies for existence* (Archibooks, 2010).
@@ -107,3 +107,8 @@ BS: Je crois qu’il y a un énorme problème de l’art contemporain, c’est u
 [^22]: cf. plus haut, note 6.
 
 [^23]: Joseph Beuys, Jannis Kounellis, Anselm Kiefer, Enzo Cucchi, *Bâtissons une cathédrale*, Paris, L’Arche, 1988.
+
+----
+TitreEn: Design and Uses: a Design of Responsibility?
+----
+PagesEn: 253

@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 80-83
+----
+TitreEn: Beyond Hybridity
+----
+PagesEn: 82

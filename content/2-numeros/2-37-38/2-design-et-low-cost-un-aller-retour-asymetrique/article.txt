@@ -8,7 +8,7 @@ Section: Dossier
 ----
 Pages: 17-34
 ----
-Biographie: Yann Moulier Boutang est Professeur des universités en sciences économiques à l’Université de Technologie de Compiègne, Laboratoire COSTECH (Connaissance, Organi­sation, systèmes techniques EA2223), Professeur associé à l’École supérieure d’art et design de Saint-Étienne, Co-directeur de la revue *Multitudes*. Il a récemment publié: *L’abeille et l’économiste*, Carnets Nord, Collection Essai (2010) et *Le Capitalisme cognitif*, Éditions Amsterdam (2007). 
+Biographie: Yann Moulier Boutang est Professeur des universités en sciences économiques à l’Université de Technologie de Compiègne, Laboratoire COSTECH (Connaissance, Organi­sation, systèmes techniques EA2223), Professeur associé à l’École supérieure d’art et design de Saint-Étienne, Co-directeur de la revue *Multitudes*. Il a récemment publié: *L’abeille et l’économiste*, Carnets Nord, Collection Essai (2010) et *Le Capitalisme cognitif*, Éditions Amsterdam (2007).
 ----
 Disponible: oui
 ----
@@ -103,26 +103,29 @@ La relation d’aller et retour qu’on observera de plus en plus entre le *low 
 
 [^1]: «Le modèle ‹low-cost› est-il durable?» 27 avril 2008. [lostinmanagement.canalblog.com/archives/2008/04/27/9101951.html](http://lostinmanagement.canalblog.com/archives/2008/04/27/9101951.html)
 
-[^2]: *Ibidem*. 
+[^2]: *Ibidem*.
 
-[^3]: Charles Beigbeider, *Le low cost, un levier pour le pouvoir d’achat*, Rapport remis en 2007 au secrétaire d’État à la Consommation. 
+[^3]: Charles Beigbeider, *Le low cost, un levier pour le pouvoir d’achat*, Rapport remis en 2007 au secrétaire d’État à la Consommation.
 
 [^4]: *Les Échos*, 31 janvier 2008.
-*Facing* des rayonnages de magasins *hard discount*. (D.R.) 
+*Facing* des rayonnages de magasins *hard discount*. (D.R.)
 
-[^5]: Bruno Fay et Stéphane Reynaud, nº *Low Cost*, Éd. du Moment, 2009, recensé par Marc Mousli dans *Alternatives économiques*, nº 286, décembre 2009. 
+[^5]: Bruno Fay et Stéphane Reynaud, nº *Low Cost*, Éd. du Moment, 2009, recensé par Marc Mousli dans *Alternatives économiques*, nº 286, décembre 2009.
 
-[^6]: Cette variable à connu depuis 1974, de telles variations qu’elles ont eu raison une première fois de la viabilité économique du joyau de la technologie franco-britannique qu’était le Concorde, tandis que chaque choc pétrolier provoquait des ravages dans les prévisions de rentabilité. Air France par exemple avait fait pour 2009–2010, l’hypothèse d’une stabilisation du prix du baril de brut à 70 dollars. Ce dernier n’a pas tardé à s’échanger au-dessus de 115 avec les pointes à 150. Si la part du prix du carburant s’élève à 60 % des coûts, on voit aisément quelles en sont les conséquences. Les compagnies aériennes *low cost* ont une priorité: acheter les avions les plus économes en carburant. Les autres compagnies doivent amortir leur vieille flotte. 
+[^6]: Cette variable à connu depuis 1974, de telles variations qu’elles ont eu raison une première fois de la viabilité économique du joyau de la technologie franco-britannique qu’était le Concorde, tandis que chaque choc pétrolier provoquait des ravages dans les prévisions de rentabilité. Air France par exemple avait fait pour 2009–2010, l’hypothèse d’une stabilisation du prix du baril de brut à 70 dollars. Ce dernier n’a pas tardé à s’échanger au-dessus de 115 avec les pointes à 150. Si la part du prix du carburant s’élève à 60 % des coûts, on voit aisément quelles en sont les conséquences. Les compagnies aériennes *low cost* ont une priorité: acheter les avions les plus économes en carburant. Les autres compagnies doivent amortir leur vieille flotte.
 
-[^7]: Nous renvoyons à notre article «What defines an externality, today», *ParisTech Review online*, 11 mars 2011, [parisinnovationreview.com/articles-en/what-defines-externality-today-yann-moulier-boutang](http://parisinnovationreview.com/articles-en/what-defines-externality-today-yann-moulier-boutang); également en français. 
+[^7]: Nous renvoyons à notre article «What defines an externality, today», *ParisTech Review online*, 11 mars 2011, [parisinnovationreview.com/articles-en/what-defines-externality-today-yann-moulier-boutang](http://parisinnovationreview.com/articles-en/what-defines-externality-today-yann-moulier-boutang); également en français.
 
-[^8]: Voir l’auteur: *L’abeille et l’économiste*, Carnets Nord, Paris, 2010. 
+[^8]: Voir l’auteur: *L’abeille et l’économiste*, Carnets Nord, Paris, 2010.
 
 [^9]: Cf. p. 28.
 
-[^10]: Sur les aspects économiques des modèles d’interaction, voir Yann Moulier Boutang: «Economic models of Interaction Improving a sustainable city» in *The Institution of Engineering and Technology*, ICSSC 2011, International Conference on Smart and Sustainable City, Proceedings, July 6–8, 2011, Shanghai, ISBN: 978-1-84919-326-9, p. 238–242. 
+[^10]: Sur les aspects économiques des modèles d’interaction, voir Yann Moulier Boutang: «Economic models of Interaction Improving a sustainable city» in *The Institution of Engineering and Technology*, ICSSC 2011, International Conference on Smart and Sustainable City, Proceedings, July 6–8, 2011, Shanghai, ISBN: 978-1-84919-326-9, p. 238–242.
 
-[^11]: Un serious game est un jeu numérique (*Sim City* par exemple) qui a des visées éducatives. 
+[^11]: Un serious game est un jeu numérique (*Sim City* par exemple) qui a des visées éducatives.
 
 [^12]: Nous nous permettons de renvoyer ici à notre con­tribution «Du ‹design capitalism› au capitalisme cognitif, art et industrie, nouveaux liens, nouvelles tensions», dans *Le design de nos existences à l’époque de l’innovation ascendante*, Bernard Stiegler (dir.) Paris, Centre Pompidou, Centre de recherche et d’innovation, Fayard, Coll. Mille et une nuits, p. 43–60, Paris, 2008.
-
+----
+TitreEn: Design and Low Cost: an Asymmetrical Swing of the Pendulum
+----
+PagesEn: 29

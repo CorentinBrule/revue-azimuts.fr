@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 345-356
+----
+TitreEn: The Arguments for Design Research
+----
+PagesEn: 351

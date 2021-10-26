@@ -1,4 +1,4 @@
-Titre: La viande in vitro: rêve du végétarien, cauchemar du carnivore? 
+Titre: La viande in vitro: rêve du végétarien, cauchemar du carnivore?
 ----
 Auteur: Florence Burgat & Jean-François Nordmann
 ----
@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 40-51
+----
+TitreEn: Meat in vitro: A Dream for Vegetarians, a Nightmare for Carnivores?
+----
+PagesEn: 50

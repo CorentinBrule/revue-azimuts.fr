@@ -30,3 +30,7 @@ L’ampleur de ce numéro double est telle que nous avons dû bouleverser l’or
 *Nota*: l’écrasante majorité des revues dont nous rendons compte dans le dossier central de ce numéro sont de langue anglaise; la grande quantité de textes proposés dans le panorama ne nous a pas permis de proposer une version bilingue pour tous les contenus. Quoique ce numéro s’adresse plus particulièrement au lecteur francophone, de nombreux articles sont proposés dans la langue de la recherche. Nous le regrettons et prions nos lecteurs de bien vouloir nous en excuser.
 
 [^1]: Lire entre autres, dans ces pages: N. Cross, p. 171 et suiv. et C. Bremner et P. Rodgers, p. 174 et suiv.
+----
+titreEn: Editorial
+----
+PagesEn: 19

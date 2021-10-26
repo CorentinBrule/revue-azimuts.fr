@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 33-40
+----
+TitreEn: Design for a Real World
+----
+PagesEn: 37

@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 71-77
+----
+TitreEn: On Unicorns
+----
+PagesEn: 74

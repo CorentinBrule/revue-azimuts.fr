@@ -6,4 +6,8 @@ Type: Entretien
 ----
 Section: Dossier
 ----
-Pages: 98-106
+Pages: 97-106
+----
+TitreEn: Graphic. Interview with Na Kim
+----
+PagesEn: 98

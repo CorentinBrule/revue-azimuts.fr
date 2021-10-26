@@ -17,3 +17,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: The Chronicle of a Conception — Experimenting in a Crisis Situations
+----
+PagesEn: 53

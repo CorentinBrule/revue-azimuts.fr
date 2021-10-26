@@ -19,3 +19,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: What Can the Museum Do During the Pandemic? — Collecting in Lockdown Revisited
+----
+PagesEn: 150

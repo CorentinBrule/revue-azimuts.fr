@@ -1,9 +1,13 @@
 Titre: Design et Recherche, cousins et faux amis, entretien avec Elsa Francès
 ----
-Auteur: Christine Colin et Elsa Francès 
+Auteur: Christine Colin et Elsa Francès
 ----
 Type: Entretien
 ----
 Section: Dossier
 ----
 Pages: 321-323
+----
+TitreEn: Research and Design, Cousins and False Friends, interview with Elsa Francès
+----
+PagesEn: 329

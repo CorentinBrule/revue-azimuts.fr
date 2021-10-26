@@ -16,7 +16,7 @@ Credits: ©Azimuts, 2011. Photographies: ©Simon Bauchet
 ----
 Disponible: oui
 ----
-Texte: 
+Texte:
 (image: castors_3.jpg class: medium caption: Rue des Castors, Montluçon)
 
 La question chronique du logement, est une des plus urgentes problématiques de notre société actuelle. Dans le passé, des prises de positions fortes ont engendré diverses solutions. On se souvient, notamment, de la démarche, tout à fait impressionnante et pertinente, des Castors.
@@ -43,7 +43,7 @@ Les maisons sont tournées vers la nature, elles ouvrent sur le paysage. Pour de
 
 Les façades sur la rue ne dénotent pas de recherches architecturales démonstratives, mais plutôt d’une simplicité en accord avec l’économie de moyen qui est de rigueur. L’adoption du toit plat en aluminium suit cette logique puisqu’il élimine le grenier, qui est coûteux et d’un faible rendement. D’un point de vue plastique, le toit plat apporte une simplification des lignes dans laquelle le volume architectural prime. À l’époque, l’usage de l’aluminium pour une construction privée surprend, mais les Castors témoignent de l’efficacité de cette initiative. Tout était pensé, certes, dans une idée d’économie, mais également de durée. Madame Laclotre conclut ainsi l’entretien: «c’était du tonnerre, tout cela a duré quatre, cinq ans, quatre années sans vacances où l’on a fait que travailler, tous ensemble, chacun apportant sa partie. Mon mari était électricien, moi je tirais les plans, il y avait un ingénieur pour le chauffage, etc. On a tout monté nous-mêmes, c’est un très bon souvenir et cinquante ans après, on y est encore très bien dans ces maisons».
 
-Ces quelques mots expriment bien la ténacité et l’optimisme qui ont présidé à cette entreprise. Une aventure tout à la fois folle et réaliste et tellement libre à nos yeux d’aujourd’hui. Une aventure qui eut également le mérite de réunir dans un objectif commun des hommes et des femmes de professions très variées, allant de l’ouvrier métallurgiste à l’inspecteur des PTT, en passant par le commissaire de police, le tapissier de voitures SNCF, l’ouvrier menuisier ou le cadre électricien[^11], pour œuvrer dans un esprit d’engagement et de solidarité sociale. Des mots qui sonnent étrangement démodés. Et une démarche collective dont nous nous sentons si éloignés, alors qu’elle eut lieu il y a moins de soixante ans. 
+Ces quelques mots expriment bien la ténacité et l’optimisme qui ont présidé à cette entreprise. Une aventure tout à la fois folle et réaliste et tellement libre à nos yeux d’aujourd’hui. Une aventure qui eut également le mérite de réunir dans un objectif commun des hommes et des femmes de professions très variées, allant de l’ouvrier métallurgiste à l’inspecteur des PTT, en passant par le commissaire de police, le tapissier de voitures SNCF, l’ouvrier menuisier ou le cadre électricien[^11], pour œuvrer dans un esprit d’engagement et de solidarité sociale. Des mots qui sonnent étrangement démodés. Et une démarche collective dont nous nous sentons si éloignés, alors qu’elle eut lieu il y a moins de soixante ans.
 (image: castors_5.jpg class: medium caption: Maison Castors, Montluçon)
 (retour:)
 *Nous remercions Guy Ongaro, Association des Castors Auto-constructeurs Rhône-Alpes et Joseph Quinet, Association la Fontanière, Sainte-Foy-lès-Lyon, pour leur généreuse contribution.*
@@ -70,3 +70,7 @@ Ces quelques mots expriment bien la ténacité et l’optimisme qui ont présid�
 [^10]: Entretien avec Madame Roger Laclotre, décembre 2007.
 
 [^11]: Les métiers énoncés font partie des professions des Castors de la rue Alexis-Carrel à Sainte-Foy-lès-Lyon.
+----
+TitreEn: The Great Castors Adventure
+----
+PagesEn: 153

@@ -7,3 +7,7 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 209-226
+----
+TitreEn: Interview with Jean-Louis Fréchin
+----
+PagesEn: 219

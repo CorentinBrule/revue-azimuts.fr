@@ -10,7 +10,7 @@ Pages: 145-160
 ----
 Autres informations:
 ----
-Biographie: 
+Biographie:
 ----
 Bibliographie:
 ----
@@ -19,4 +19,7 @@ Disponible:
 Credits:
 ----
 Texte:
-(image: image.jpg class: small medium large caption: Légende)
+----
+TitreEn: The Negociating Table
+----
+PagesEn: 247

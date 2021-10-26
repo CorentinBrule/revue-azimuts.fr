@@ -1,9 +1,13 @@
 Titre: Le design en chair et en os
 ----
-Auteur: Gaetano Pesce 
+Auteur: Gaetano Pesce
 ----
 Type: Entretien
 ----
 Section: Dossier
 ----
 Pages: 281-296
+----
+TitreEn: Design in Flesh and Blood
+----
+PagesEn: 291

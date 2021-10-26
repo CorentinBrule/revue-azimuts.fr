@@ -1,9 +1,13 @@
 Titre: Design et innovation sociale
 ----
-Auteur: François Jégou, Constance Rubini 
+Auteur: François Jégou, Constance Rubini
 ----
 Type: Entretien
 ----
 Section: Dossier
 ----
 Pages: 263-280
+----
+TitreEn: Design and Social Innovation
+----
+PagesEn: 273

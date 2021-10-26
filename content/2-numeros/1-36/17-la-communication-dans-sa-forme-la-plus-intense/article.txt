@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 179-208
+----
+TitreEn: Communication in its Most Intense Form
+----
+PagesEn: 189

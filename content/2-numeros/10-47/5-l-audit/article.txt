@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 48-56
+----
+TitreEn: The Audit
+----
+PagesEn: 74

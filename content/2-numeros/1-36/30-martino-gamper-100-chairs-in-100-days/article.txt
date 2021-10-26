@@ -1,4 +1,4 @@
-Titre: Martino Gamper: 100 chairs in 100 days 
+Titre: Martino Gamper: 100 chairs in 100 days
 ----
 Auteur: Lionel Catelan
 ----
@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 413-428
+----
+TitreEn:  Martino Gamper: 100 chairs in 100 days
+----
+PagesEn: 413

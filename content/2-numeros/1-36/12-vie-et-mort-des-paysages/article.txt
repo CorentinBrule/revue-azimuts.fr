@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 131-136
+----
+TitreEn: The Life and Death of the Landscapes
+----
+pagesEn: 135

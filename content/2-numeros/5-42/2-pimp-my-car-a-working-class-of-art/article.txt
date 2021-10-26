@@ -14,7 +14,7 @@ Biographie:
 Tanguy Cornu est professeur de sciences économiques et sociales en classes préparatoires à Marseille. La thèse de doctorat qu’il a commencée sous la direction d’Emmanuel Pedler (EHESS), est consacrée à la pratique du tuning et à l’ensemble des discours qui y sont consacrés. Il est l’auteur de «La photographie comme révélateur d’un terrain. Le cas des meetings de tuning» (*Ethnographiques*, nº 21, 2010).
 ----
 Disponible: oui
----- 
+----
 Credits: ©Azimuts, 2015. Photographies: ©Tanguy Cornut
 ----
 Texte:
@@ -70,7 +70,7 @@ Cet entre-soi égalitaire du team et du rassemblement s’explique en contrepoin
 
 Le tuning permet de maintenir l’interconnaissance locale sans l’usine en supportant des valeurs réputées caractéristiques du monde ouvrier dont l’égalitarisme[^15], l’intelligence pratique (dont le présentisme au sens de vivre ici et maintenant, au présent) et l’oralité[^16].
 
-#### L’objectivation d’une fierté ouvrière 
+#### L’objectivation d’une fierté ouvrière
 Plus avant, le tuning propose une forme originale, à la fois individuelle et collective, d’affirmation populaire de soi dans un Nous contre Eux, une manière obstinée et créative de s’exprimer sous contraintes; car il s’agit moins de résister ou de revendiquer que d’arranger ou d’aménager le devenir problématique d’une identification de classe ouvrière (celle sans doute de la fraction individualiste de la classe ouvrière) qu’il s’agit de préserver en la renouvelant par d’autres moyens. Le tuning utilise, transforme et s’approprie en un sens la «mondialisation» qui s’impose tragiquement à eux (délocalisations industrielles notamment) sous le registre du quant-à-soi, par l’appropriation créative de véhicules produits en série par des entreprises multinationales qui délocalisent (directement ou indirectement *via* les conditions de prix imposés aux équipementiers sous-traitants) leur production française. Le tuning relève d’un *autre* lieu de mémoire, celui d’une «mémoire» d’en bas[^17], il exprime ainsi en quelque sorte la nostalgie d’une qualité de vie populaire déjà décrite par E.P. Thompson, non seulement méconnue mais méprisée. Loin des constructions intellectuelles (PIB, taux d’activité ou de chômage, seuil de pauvreté…) qui prétendent définir l’avenir d’en haut, le tuning comme pratique culturelle rappelle, par le bas, et non sans une certaine lucidité tragique, la richesse perdue d’une vie populaire dans toutes ses dimensions culturelles, sociales ou affectives.
 
 (image: meeting_gti_4.jpg class: medium caption: Meeting GTI du Cap d’Agde, 22 septembre 2009)
@@ -156,3 +156,8 @@ Les tuneurs, y compris les plus doués, ne se vivent certainement pas comme des 
 [^26]: En France, au terme d’une «traduction oblique» mais profitable de Max Weber par la tradition sociologique «durkheimienne», les travaux insistent de longue date sur l’intériorisation d’un Ordre au sens «d’une structure sociale donnée [qui] devient partie intégrante de l’expérience de l’individu»; en jouant le jeu de mots entre ordre (*Befehl*) et Ordre (*Ordnung*), les lexiques français de sociologie politique donnent à la définition canonique de la domination chez Max Weber une puissance heuristique qu’elle ne semble pas avoir originellement. Max Weber, *Wirtschaft und Gesellschaft*, Paderborn, Voltmedia GmbH, p. 214.
 
 [^27]: Luc Boltanski et Ève Chiapello, *Le Nouvel Esprit du capitalisme*, Paris, Gallimard, 1999.
+
+----
+TitreEn: Pimp my Car? A Working Class Work of Art?
+----
+PagesEn: 17

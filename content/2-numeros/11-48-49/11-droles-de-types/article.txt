@@ -1,4 +1,4 @@
-Titre: Drôles de types 
+Titre: Drôles de types
 ----
 Auteur: Jérôme Knebusch
 ----
@@ -13,3 +13,7 @@ Biographie:
 Disponible: non
 ----
 Texte:
+----
+TitreEn: Strange Types
+----
+PagesEn: 244

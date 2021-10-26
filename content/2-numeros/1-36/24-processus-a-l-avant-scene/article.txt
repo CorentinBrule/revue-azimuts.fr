@@ -1,9 +1,13 @@
 Titre: Processus à l’avant-scène
 ----
-Auteur: Jac Fol 
+Auteur: Jac Fol
 ----
 Type: Entretien
 ----
 Section: Dossier
 ----
 Pages: 309-320
+----
+TitreEn: The Process Comes Centre Stage
+----
+PagesEn: 315

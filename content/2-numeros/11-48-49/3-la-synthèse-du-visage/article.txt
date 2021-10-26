@@ -13,3 +13,7 @@ Biographie: Vincent Duché est doctorant contractuel à l’Université Paris 8 
 Disponible: non
 ----
 Texte:
+----
+TitreEn: Synthesis of the Face
+----
+PagesEn: 231

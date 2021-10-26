@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 357-365
+----
+TitreEn: Preface
+----
+PagesEn: 361

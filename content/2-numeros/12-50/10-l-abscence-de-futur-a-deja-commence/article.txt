@@ -10,7 +10,7 @@ Pages: 177-187
 ----
 Autres informations:
 ----
-Biographie: 
+Biographie:
 ----
 Bibliographie:
 ----
@@ -19,4 +19,7 @@ Disponible:
 Credits:
 ----
 Texte:
-(image: image.jpg class: small medium large caption: Légende)
+----
+TitreEn: The Absence of The Future has already Begun
+----
+PagesEn: 252

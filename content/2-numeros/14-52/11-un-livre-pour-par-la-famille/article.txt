@@ -19,3 +19,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: A Book For·By the Family
+----
+PagesEn: 190

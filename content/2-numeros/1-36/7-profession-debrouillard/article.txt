@@ -7,3 +7,7 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 61-70
+----
+TitreEn: Profession: Do-It-Yourselfer
+----
+PagesEn: 67

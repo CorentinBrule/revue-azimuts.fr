@@ -6,4 +6,6 @@ Type: Réédition
 ----
 Section: Dossier
 ----
-Pages: 92-97
+Pages: 91-97
+----
+PagesEn: 92

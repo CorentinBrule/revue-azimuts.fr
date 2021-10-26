@@ -21,4 +21,8 @@ Comme le rappelle ici Emmanuel Tibloux, l’anthologie constitue d’abord un ho
 
 *Avertissement*: Mises à part la nécessaire redéfinition des péritextes (introductions, notes marginales, etc.) et la mise en page inédite, la rédaction s’est efforcée de republier les articles dans le respect de l’édition originale. Trois exceptions demeurent. L’iconographie des textes d’Enzo Mari a été légèrement modifiée, en accord avec Constance Rubini, rédactrice en chef d’*Azimuts* de 2004 à 2010. «La Communication dans sa forme la plus intense» consacrée à la revue *Octavo*, a été amen­­dée par Jean‑Marie Courant en concertation avec Ursula Held, auteur de l’article. Enfin, la composition du texte de Vilém Flusser, «Texter», a été modifiée.
 
-[^1]: Voir le sommaire des sommaires, p. 467. 
+[^1]: Voir le sommaire des sommaires, p. 467.
+----
+TitreEn: Foreward and Editorial
+----
+PagesEn: 3

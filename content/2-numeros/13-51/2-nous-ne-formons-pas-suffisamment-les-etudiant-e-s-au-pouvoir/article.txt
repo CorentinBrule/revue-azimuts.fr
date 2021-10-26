@@ -24,3 +24,5 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+PagesEn: 12

@@ -19,3 +19,5 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+PagesEn: 228

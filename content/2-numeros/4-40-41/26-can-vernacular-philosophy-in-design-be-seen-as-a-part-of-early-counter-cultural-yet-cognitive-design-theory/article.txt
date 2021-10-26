@@ -7,3 +7,5 @@ Type: Réédition
 Section: Dossier
 ----
 Pages: 234-236
+----
+PagesEn: 234

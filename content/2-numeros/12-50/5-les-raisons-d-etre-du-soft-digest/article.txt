@@ -10,7 +10,7 @@ Pages: 91-106
 ----
 Autres informations:
 ----
-Biographie: 
+Biographie:
 ----
 Bibliographie:
 ----
@@ -19,4 +19,5 @@ Disponible:
 Credits:
 ----
 Texte:
-(image: image.jpg class: small medium large caption: Légende)
+----
+TitreEn: The Raisons D’Être of the Soft Protest Digest: to Chose or Contrain?

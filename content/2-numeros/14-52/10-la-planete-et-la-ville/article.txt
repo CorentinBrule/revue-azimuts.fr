@@ -19,3 +19,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: The Planet and the City
+----
+PagesEn: 171

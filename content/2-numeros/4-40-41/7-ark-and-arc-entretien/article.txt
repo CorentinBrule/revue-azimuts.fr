@@ -7,4 +7,7 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 67-69
-
+----
+TitreEn: Ark & Arc. Interview with Charmian Griffin
+----
+PagesEn: 69

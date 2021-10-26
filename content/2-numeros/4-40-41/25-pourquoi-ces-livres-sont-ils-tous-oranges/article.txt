@@ -35,10 +35,14 @@ Latour écrit: «Le danger vient peut-être moins d’un excès de confiance dan
 
 Le fait est que, si un dispositif critique vaut dans un contexte universitaire, il peut aussi se révéler efficace pour servir des intérêts politiques. Je ne soutiens pas que l’usage de la théorie a seulement pour but de tromper les collectionneurs, de vendre des produits et d’apaiser vos parents. Mais on sous-estime le fait que la théorie puisse aussi être une bonne affaire. Je suis inspiré par la lecture de Guy Debord, mais je suis aussi sûr que je ne voudrais pas faire ma carrière sur son dos; et après avoir travaillé dur et du mieux que je peux, je suis hanté par la culpabilité de ce que mon travail de designer ne puisse par lui-même suffire pour prétendre figurer en quatrième de couverture. Je me retrouve donc obligé, d’une part, de m’engager dans la théorie critique pour approfondir mes arguments et, d’autre part, de m’en moquer. Peut-être est-ce parce que mis à part les exemples cités plus haut, la théorie est toujours discutée avec un profond sérieux. À la lumière de Broodthaers et Sokal, il semble clair que pour révéler les fonctions de la théorie dans la culture actuelle, une approche irrévérencieuse est peut-être plus efficace qu’une critique réelle.
 
-[^1]: Kingsley Amis, *Lucky Jim* (London, Gollancz, 1954). Pour protéger la vie privée de mon père, j’ai combiné le titre de sa thèse avec celle de l’universitaire malheureux du livre qui est peut-être le plus drôle jamais écrit sur la vie universitaire. 
-[^2]: Marcel Broodthaers, *Interfunktionen*, automne 1974. 
-[^3]: Rosalind E Krauss, *A Voyage On The North Sea: Art In The Age Of The Post-Medium Condition* (London, Thames & Hudson, 2000). 
-[^4]: Daniel Libeskind, *The Jewish Museum Berlin: Between The Lines* (Berlin, Verlag der Kunst, 1999). 
-[^5]: Alan D Sokal ‘Transgressing the Boundaries: Towards aTransformative Hermeneutics of Quantum Gravity’, in *Social Text* nº 46/47, p. 217–252, printemps/été 1996. Merci à Peter Hall pour m’avoir signalé le hoax d’Alan Sokal. 
-[^6]: Brad DiLorenzo, ‘Can Vernacular Philosophy in Design Be Seen as a Part of Early Counter-Cultural Yet Cognitive Design Theory? (An Overview of Gender-Oriented Perception in Pluralism)” in *DDD2*, hiver 2000. 
+[^1]: Kingsley Amis, *Lucky Jim* (London, Gollancz, 1954). Pour protéger la vie privée de mon père, j’ai combiné le titre de sa thèse avec celle de l’universitaire malheureux du livre qui est peut-être le plus drôle jamais écrit sur la vie universitaire.
+[^2]: Marcel Broodthaers, *Interfunktionen*, automne 1974.
+[^3]: Rosalind E Krauss, *A Voyage On The North Sea: Art In The Age Of The Post-Medium Condition* (London, Thames & Hudson, 2000).
+[^4]: Daniel Libeskind, *The Jewish Museum Berlin: Between The Lines* (Berlin, Verlag der Kunst, 1999).
+[^5]: Alan D Sokal ‘Transgressing the Boundaries: Towards aTransformative Hermeneutics of Quantum Gravity’, in *Social Text* nº 46/47, p. 217–252, printemps/été 1996. Merci à Peter Hall pour m’avoir signalé le hoax d’Alan Sokal.
+[^6]: Brad DiLorenzo, ‘Can Vernacular Philosophy in Design Be Seen as a Part of Early Counter-Cultural Yet Cognitive Design Theory? (An Overview of Gender-Oriented Perception in Pluralism)” in *DDD2*, hiver 2000.
 [^7]: Bruno Latour, ‘The Last Critique’, in *Harper’s Magazine*, voI. 308, nº 1847, p. 15–20, avril 2004.
+----
+TitreEn: Why Are All These Books Orange?
+----
+PagesEn: 228

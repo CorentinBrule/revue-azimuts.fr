@@ -7,3 +7,7 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 32-43
+----
+TitreEn: Space Oddity
+----
+PagesEn: 33

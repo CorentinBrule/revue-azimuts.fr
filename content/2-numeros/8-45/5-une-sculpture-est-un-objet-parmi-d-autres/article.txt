@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 58-65
+----
+TitreEn: Sculpture is an object among others
+----
+PagesEn: 59

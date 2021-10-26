@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 41-60
+----
+TitreEn: Enzo Mari, Two New Translations
+----
+PagesEn: 53

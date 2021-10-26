@@ -7,3 +7,7 @@ Type: Entretien
 Section: Dossier
 ----
 Pages: 227-242
+----
+TitreEn: From Industrial Civilisation to Cognitive Civilisation
+----
+PagesEn: 235 

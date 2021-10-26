@@ -1,9 +1,13 @@
 Titre: Design et Recherche, cousins et faux amis, entretien avec Yves Lugimbühl
 ----
-Auteur: Christine Colin et Yves Lugimbühl 
+Auteur: Christine Colin et Yves Lugimbühl
 ----
 Type: Entretien
 ----
 Section: Dossier
 ----
 Pages: 324-336
+----
+TitreEn: Research and Design, Cousins and False Friends, interview with Yves Lugimbühl
+----
+PagesEn: 332

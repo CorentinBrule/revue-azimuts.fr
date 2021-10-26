@@ -14,7 +14,7 @@ Biographie: Alain Bublex est un artiste français né en 1961. Ancien designer a
 ----
 Disponible: oui
 ----
-Credits: ©Azimuts, 2016. Images: ©Alain Bublex; ©Choke Publications; ©Sandrine Binoux 
+Credits: ©Azimuts, 2016. Images: ©Alain Bublex; ©Choke Publications; ©Sandrine Binoux
 ----
 Texte:
 (image: AB_tomorrows_K.jpg class: medium caption: Alain Bublex, *Tomorow’s car, today*, 2016)
@@ -94,3 +94,7 @@ AZ: *Quels sont vos projets en cours?*
 AB: Je n’ai jamais su quoi répondre à cette question! Tout est en cours, et rien n’a de destin. Je n’ai jamais l’impression de devoir faire quoi que ce soit. Je me débrouille pour qu’on me pose des questions et j’essaie ensuite de faire de mon mieux pour y répondre. Si l’on ne me demande rien, je ne fais rien, je me promène, je discute, regarde des films… comme tout le monde!
 
 (image: AB_Fuji_04.jpg caption: Alain Bublex, *Paysage 58 Mont Fuji Ashland*, 2009)
+----
+TitreEn: Why future doesn’t exist
+----
+PagesEn: 13

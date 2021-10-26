@@ -6,4 +6,6 @@ Type: Réédition
 ----
 Section: Dossier
 ----
-Pages: 131-146
+Pages: 129-146
+----
+PagesEn: 131

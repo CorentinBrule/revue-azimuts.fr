@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 116-127
+----
+TitreEn: «An Unused Esperanto»: International and Pictographic Design, 1930-70
+----
+PagesEn: 118

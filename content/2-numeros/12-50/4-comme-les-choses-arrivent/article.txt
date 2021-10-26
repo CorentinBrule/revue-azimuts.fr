@@ -10,7 +10,7 @@ Pages: 71-90
 ----
 Autres informations:
 ----
-Biographie: 
+Biographie:
 ----
 Bibliographie:
 ----
@@ -19,4 +19,7 @@ Disponible:
 Credits:
 ----
 Texte:
-(image: image.jpg class: small medium large caption: Légende)
+---
+TitreEn: How Things Happen
+----
+PagesEn: 227

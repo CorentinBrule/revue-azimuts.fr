@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 127-130
+----
+TitreEn: Hearing is Believing
+----
+PagesEn: 129

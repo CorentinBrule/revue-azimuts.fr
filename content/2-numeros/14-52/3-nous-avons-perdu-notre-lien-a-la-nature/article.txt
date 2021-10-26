@@ -18,3 +18,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: “We Have Lost Our Connection With Nature” The Myth or  the Fault of the Moderns?
+----
+PagesEn: 29

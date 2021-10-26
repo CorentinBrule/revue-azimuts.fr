@@ -7,3 +7,7 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 157-172
+----
+TitreEn: Texts
+----
+pagesEn: 165

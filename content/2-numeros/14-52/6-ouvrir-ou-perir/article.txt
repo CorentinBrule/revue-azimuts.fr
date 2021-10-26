@@ -19,3 +19,7 @@ Disponible: non
 Credits:
 ----
 Texte:
+----
+TitreEn: Open or Perish — Between Health Emergency and Publishing Design
+----
+PagesEn: 107

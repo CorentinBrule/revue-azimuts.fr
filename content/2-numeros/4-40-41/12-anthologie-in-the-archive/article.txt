@@ -7,3 +7,5 @@ Type: Traduction
 Section: Dossier
 ----
 Pages: 84-91
+----
+PagesEn: 86

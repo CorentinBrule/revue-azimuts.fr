@@ -7,3 +7,7 @@ Type: Texte inédit
 Section: Dossier
 ----
 Pages: 99-126
+----
+TitreEn: Making Frais Vallon Warmer
+----
+PagesEn: 115
